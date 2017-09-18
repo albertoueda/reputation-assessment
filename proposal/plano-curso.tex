@@ -1,0 +1,113 @@
+\documentclass[a4paper,12pt,titlepage]{article}
+%\usepackage[T1]{fontenc}
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage[portuguese]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage{indentfirst}
+\usepackage{graphicx}
+%\usepackage{times}
+\usepackage{ucs}
+\usepackage{float}    
+\usepackage{fancyvrb}   
+\usepackage{verbatim}
+\usepackage{listings}
+\usepackage{hyperref}
+\usepackage{epigraph}
+\usepackage{listings}
+\usepackage{tabularx}
+\usepackage{lipsum}
+
+\hypersetup{
+    colorlinks=true,       
+    linkcolor=black,          
+    citecolor=black,   
+    filecolor=black,  
+    urlcolor=black  
+}
+
+\hyphenation {di-re-cio-na-men-to} 
+
+%\renewcommand*{\familydefault}{\ttdefault}
+\lstset{columns=fullflexible,basicstyle=\ttfamily}
+
+\title{\large
+Universidade Federal de Minas Gerais \\ \
+Computer Science Department \\ \
+\\[1cm]
+2015/2016 Plan\\ \
+\\[1cm]
+\textbf{\Large A Characterization of the Brazilian Academic Research from the Perspective of Sub-areas}
+\\[1cm]
+}
+
+\author{\large Alberto Hideki Ueda \\[0.5cm] 
+\\[3cm] }
+
+\date{\textsc{Belo Horizonte\\ \
+November 22, 2015}}
+
+\begin{document}
+\maketitle
+
+\section{Activities} 
+
+\begin{enumerate}
+\item{\textbf {WSDM-Cup}}: submit a new ranking with the 3rd Microsoft Academic Graph now available. Submit a paper with an overview of our methodology and basic strategies.
+\item{\textbf {Last courses}}: conclude the two remaining courses: Recommendation Systems and Computer Architecture. Last deadline: December 10.
+\item{\textbf {Project: Problem definition}}: clarify the scope of the project. What we want to exploit/answer and what we do not.
+\item{\textbf {Dataset}}: define the dataset to be used (Microsoft Graph/Lattes/DBLP) and which part of data is relevant to work. Verify what we already have and which information have to be extracted. 
+\item{\textbf {JCDL: Experiments}}: test the hypotheses defined in tasks 3 and 4. Evaluate the results against some of our ground-truths.
+\item{\textbf {JCDL}}: submit a paper to JCDL.
+\item{\textbf {Master's project proposal}}: submit a project proposal to UFMG/DCC.
+\item{\textbf {Teacher assistant}}: complete this program requirement for Master's degree.
+\item{\textbf {Project experiments}}: do more and deeper experiments in order to obtain a good characterization of academic research, possibly in another areas as physics, biochemical and economics.
+\item{\textbf {Master's dissertation}}: write the dissertation.
+\end {enumerate}
+
+{\centering \begin{tabular}{| l | c | c | c | c | c | c | c | c |} \hline
+\multicolumn{9}{| c |}{\textbf{\normalsize 2015/2016 Schedule}} \\[2pt] \hline
+      Task &  Nov   &  Dec   &  Jan   & 	 Feb  & 	  Mar  &	   Apr  &    May &  Jun 	 \\ \hline
+WSDM-Cup  &    X   &    X   &    X   &        &        &        &        &        \\ \hline
+Last courses &    X   &    X   &        &        &        &        &        &        \\ \hline
+Project: Problem definition &        &    X   &        &        &        &        &        &        \\ \hline
+Dataset &        &    X   &    X   &        &        &        &        &        \\ \hline
+JCDL: Experiments &        &    X   &    X   &        &        &        &        &        \\ \hline
+JCDL &        &        &    X   &        &        &        &        &        \\ \hline
+Master's project proposal &        &        &        &    X   &        &        &        &        \\ \hline
+Teacher assistant &        &        &        &        &   X    &    X   &    X   &    X   \\ \hline
+Project experiments &        &        &        &    X   &   X    &    X   &    X   &        \\ \hline
+Master's dissertation &        &        &        &        &        &    X   &    X   &    X   \\ \hline
+\end{tabular}}
+
+%\footnotesize
+{
+\centering 
+\begin{tabular}{| c | c | c | c | c | c | c | c | c |}
+\hline
+\multicolumn{2}{| c |}{\textbf{\normalsize Important Dates}} \\[2pt] \hline
+      
+\multicolumn{2}{| c |}{JCDL} \\[2pt] \hline
+         Paper submission deadline & January 17, 2016        \\ \hline
+         Notification of acceptance &	 March 16, 2016     \\ \hline
+         Final camera-ready deadline &	 April 6, 2016      \\ \hline
+ 
+\multicolumn{2}{| c |}{WSDM-Cup} \\[2pt] \hline
+         Phase 2 submissions & December 1, 2015	       \\ \hline
+         Phase 2 evaluation closes & January 31, 2016 	\\ \hline
+         WSDM Cup Workshop     & February 22, 2016	    \\ \hline
+\end{tabular}
+}
+
+\section{Research Questions} 
+
+\begin{enumerate}
+\item Given a sub-area and one simple venue as reference, could we naturally construct a reliable network of relevance? How the result changes if we increase the number of venues?
+\item How we can effectively compare the academic production around the world? Is it a good idea to adopt a sub-area perspective?
+\item How significant is the scientific impact of brazilian research groups if we compare it to the impact of other research groups (e.g. in US and Europe)?
+\end{enumerate}
+
+\end{document}
+
+

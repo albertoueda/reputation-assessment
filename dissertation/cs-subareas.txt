@@ -1,0 +1,51 @@
+SUBAREAS IN CS ACCORDING TO DIFFERENT SOURCES							
+\begin{table}[htbp]
+\centering
+\caption{The Microsoft 37 Subareas of Computer Science}
+\label{tab:subareas-list}
+\begin{tabular}{ll}
+\toprule
+\multicolumn{2}{c}{CS Subareas}\\
+\midrule
+ACM SIG's (2016)											&	IEEE (2016)												\\
+SIGACCESS - Accessible Computing							&	Business Informatics and Systems (TCBIS)				\\
+SIGACT - Algorithms and Computation Theory					&	Computational LIfe Sciences (TCCLS)						\\
+SIGAda - Ada Programming Language							&	Computer Architecture (TCCA)							\\
+SIGAI - Artificial Intelligence								&	Computer Communications (TCCC)							\\
+SIGAPP - Applied Computing									&	Data Engineering (TCDE)									\\
+SIGARCH - Computer Architecture								&	Dependable Computing and Fault Tolerance (TCFT)			\\
+SIGBED - Embedded Systems									&	Digital Libraries (TCDL)								\\
+SIGBio - Bioinformatics										&	Distributed Processing (TCDP)							\\
+SIGCAS - Computers and Society								&	Intelligent Informatics (TCII)							\\
+SIGCHI - Computer-Human Interaction							&	Internet (TCI)											\\
+SIGCOMM - Data Communication								&	Learning Technology (TCLT)								\\
+SIGCSE - Computer Science Education							&	Mathematical Foundations of Computing (TCMF)			\\
+SIGDA - Design Automation									&	Microprocessors and Microcomputers (TCMM)				\\
+SIGDOC - Design of Communication							&	Microprogramming and Microarchitecture (TCuARCH)		\\
+SIGecom - Electronic Commerce								&	Multimedia Computing (TCMC)								\\
+SIGEVO - Genetic and Evolutionary Computation				&	Multiple-Valued Logic (TCMVL)							\\
+SIGGRAPH - Computer Graphics and Interactive Techniques		&	Parallel Processing (TCPP)								\\
+SIGHPC - High Performance Computing							&	Pattern Analysis and Machine Intelligence (TCPAMI)		\\
+SIGIR - Information Retrieval								&	Real-Time Systems (TCRTS)								\\
+SIGITE - Information Technology Education					&	Scalable Computing (TCSC)								\\
+SIGKDD - Knowledge Discovery in Data						&	Security and Privacy (TCSP)								\\
+SIGLOG - Logic and Computation								&	Semantic Computing (TCSEM)								\\
+SIGMETRICS - Measurement and Evaluation						&	Services Computing (TCSVC)								\\
+SIGMICRO - Microarchitecture								&	Simulation (TCSIM)										\\	
+SIGMIS - Management Information Systems						&	Software Engineering (TCSE)								\\
+SIGMM - Multimedia											&	Test Technology (TTTC)									\\
+SIGMOBILE - Mobility of Systems, Users, Data and Computing	&	Visualization and Graphics (VGTC)						\\
+SIGMOD - Management of Data									&	VLSI (TCVLSI)											\\
+SIGOPS - Operating Systems									&															\\
+SIGPLAN - Programming Languages								&															\\
+SIGSAC - Security, Audit and Control						&															\\
+SIGSAM - Symbolic and Algebraic Manipulation				&															\\
+SIGSIM - Simulation and Modeling							&															\\
+SIGSOFT - Software Engineering								&															\\
+SIGSPATIAL - SIGSPATIAL										&															\\
+SIGUCCS - University and College Computing Services			&															\\
+SIGWEB - Hypertext and the Web								&															\\
+
+\bottomrule
+\end{tabular}
+\end{table}

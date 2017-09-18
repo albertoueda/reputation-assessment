@@ -1,0 +1,37 @@
+SIGACCESS - Accessible Computing
+SIGACT - Algorithms and Computation Theory 
+SIGAda - Ada Programming Language 
+SIGAI - Artificial Intelligence 
+SIGAPP - Applied Computing 
+SIGARCH - Computer Architecture 
+SIGBED - Embedded Systems 
+SIGBio - Bioinformatics 
+SIGCAS - Computers and Society 
+SIGCHI - Computer-Human Interaction 
+SIGCOMM - Data Communication 
+SIGCSE - Computer Science Education 
+SIGDA - Design Automation 
+SIGDOC - Design of Communication 
+SIGecom - Electronic Commerce 
+SIGEVO - Genetic and Evolutionary Computation 
+SIGGRAPH - Computer Graphics and Interactive Techniques 
+SIGHPC - High Performance Computing
+SIGIR - Information Retrieval 
+SIGITE - Information Technology Education 
+SIGKDD - Knowledge Discovery in Data 
+SIGLOG - Logic and Computation
+SIGMETRICS - Measurement and Evaluation 
+SIGMICRO - Microarchitecture 
+SIGMIS - Management Information Systems 
+SIGMM - Multimedia 
+SIGMOBILE - Mobility of Systems, Users, Data and Computing 
+SIGMOD - Management of Data 
+SIGOPS - Operating Systems 
+SIGPLAN - Programming Languages 
+SIGSAC - Security, Audit and Control 
+SIGSAM - Symbolic and Algebraic Manipulation 
+SIGSIM - Simulation and Modeling 
+SIGSOFT - Software Engineering
+SIGSPATIAL - SIGSPATIAL
+SIGUCCS - University and College Computing Services 
+SIGWEB - Hypertext and the Web 

@@ -1,0 +1,28 @@
+University of Massachusetts Amherst	56682.28169
+University of Illinois at Urbana-Champaign	27375.18526
+Carnegie Mellon University	26216.13333
+University of Delaware	13895.98951
+Purdue University Main Campus	12903.68907
+Northeastern University	9257.860058
+Georgetown University	7040.714019
+Lehigh University	5465.840884
+Universidade Federal de Minas Gerais	4108.300189
+Cornell University	3130.178648
+University of Iowa	2802.49673
+University of Illinois at Chicago	2702.265842
+Universidade Federal do Amazonas	2497.662939
+Texas A&M University	1910.684143
+Georgia Institute of Technology	1877.86188
+Pennsylvania State University	1690.419265
+University of Virginia	1581.423327
+Stanford University	1501.612745
+University of Michigan	1298.735851
+New York University	1264.914696
+Michigan State University	1194.51305
+Northwestern University	1175.114512
+University of California-Los Angeles	1144.416329
+University of Texas at Dallas	985.371972
+
+'University of Massachusetts Amherst', 'University of Illinois at Urbana-Champaign', 'Carnegie Mellon University', 'University of Delaware', 'Purdue University Main Campus', 'Northeastern University', 'Georgetown University', 'Lehigh University', 'Universidade Federal de Minas Gerais', 'Cornell University', 'University of Iowa', 'University of Illinois at Chicago', 'Universidade Federal do Amazonas', 'Texas A&M University', 'Georgia Institute of Technology', 'Pennsylvania State University', 'University of Virginia', 'Stanford University', 'University of Michigan', 'New York University', 'Michigan State University', 'Northwestern University', 'University of California-Los Angeles', 'University of Texas at Dallas'
+
+15.791, 14.741, 14.678, 13.762, 13.655, 13.176, 12.782, 12.416, 12.004, 11.612, 11.452, 11.400, 11.286, 10.900, 10.875, 10.723, 10.627, 10.552, 10.343, 10.305, 10.222, 10.199, 10.160, 9.945

@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: masters-proposal.aux
+The style file: ppgccufmg.bst
+Database file #1: masters.bib
+Warning--I didn't find a database entry for "mag-www"
+Warning--empty institution in mcl
+You've used 42 entries,
+            2043 wiz_defined-function locations,
+            740 strings with 10742 characters,
+and the built_in function-call counts, 20294 in all, are:
+= -- 2035
+> -- 731
+< -- 38
++ -- 259
+- -- 246
+* -- 1794
+:= -- 3200
+add.period$ -- 127
+call.type$ -- 42
+change.case$ -- 333
+chr.to.int$ -- 41
+cite$ -- 43
+duplicate$ -- 823
+empty$ -- 1465
+format.name$ -- 300
+if$ -- 4202
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 83
+newline$ -- 213
+num.names$ -- 126
+pop$ -- 366
+preamble$ -- 1
+purify$ -- 333
+quote$ -- 0
+skip$ -- 720
+stack$ -- 0
+substring$ -- 1576
+swap$ -- 198
+text.length$ -- 22
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 250
+warning$ -- 1
+while$ -- 176
+width$ -- 0
+write$ -- 548
+(There were 2 warnings)

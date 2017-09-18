@@ -1,0 +1,37 @@
+\BOOKMARK [0][-]{chapter*.1}{Acknowledgments}{}% 1
+\BOOKMARK [0][-]{chapter*.2}{Resumo}{}% 2
+\BOOKMARK [0][-]{chapter*.3}{Abstract}{}% 3
+\BOOKMARK [0][-]{section*.4}{List of Figures}{}% 4
+\BOOKMARK [0][-]{section*.5}{List of Tables}{}% 5
+\BOOKMARK [0][-]{chapter.1}{1 Introduction}{}% 6
+\BOOKMARK [1][-]{section.1.1}{1.1 Motivation}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.2}{1.2 Dissertation Statement}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.3}{1.3 Contributions}{chapter.1}% 9
+\BOOKMARK [1][-]{section.1.4}{1.4 Dissertation Overview}{chapter.1}% 10
+\BOOKMARK [0][-]{chapter.2}{2 Related Work}{}% 11
+\BOOKMARK [1][-]{section.2.1}{2.1 Academic Search in Broad Areas}{chapter.2}% 12
+\BOOKMARK [1][-]{section.2.2}{2.2 Academic Search on a per Subarea Basis}{chapter.2}% 13
+\BOOKMARK [0][-]{chapter.3}{3 Reputation Flows and P-score}{}% 14
+\BOOKMARK [1][-]{section.3.1}{3.1 Reputation Flows}{chapter.3}% 15
+\BOOKMARK [1][-]{section.3.2}{3.2 Academic Rankings Based on Standard P-score}{chapter.3}% 16
+\BOOKMARK [1][-]{section.3.3}{3.3 The Encroachment Problem}{chapter.3}% 17
+\BOOKMARK [1][-]{section.3.4}{3.4 Normalized P-score for Publication Venues}{chapter.3}% 18
+\BOOKMARK [1][-]{section.3.5}{3.5 Weighted P-score for Graduate Programs}{chapter.3}% 19
+\BOOKMARK [1][-]{section.3.6}{3.6 Comparing Research in Different Subareas}{chapter.3}% 20
+\BOOKMARK [0][-]{chapter.4}{4 Experimental Setup}{}% 21
+\BOOKMARK [1][-]{section.4.1}{4.1 Dataset}{chapter.4}% 22
+\BOOKMARK [1][-]{section.4.2}{4.2 Computer Science Subareas}{chapter.4}% 23
+\BOOKMARK [1][-]{section.4.3}{4.3 Venues Ground-Truth}{chapter.4}% 24
+\BOOKMARK [0][-]{chapter.5}{5 Experimental Results}{}% 25
+\BOOKMARK [1][-]{section.5.1}{5.1 Ranking Venues}{chapter.5}% 26
+\BOOKMARK [1][-]{section.5.2}{5.2 Ranking US Graduate Programs by Subarea}{chapter.5}% 27
+\BOOKMARK [1][-]{section.5.3}{5.3 Ranking BR Graduate Programs by Subarea}{chapter.5}% 28
+\BOOKMARK [1][-]{section.5.4}{5.4 Comparing BR and US Research in CS}{chapter.5}% 29
+\BOOKMARK [0][-]{chapter.6}{6 Conclusions and Future Work}{}% 30
+\BOOKMARK [0][-]{section*.9}{Bibliography}{}% 31
+\BOOKMARK [0][-]{appendix.A}{A Clustering Computer Science}{}% 32
+\BOOKMARK [1][-]{section.A.1}{A.1 Markov Cluster Algorithm}{appendix.A}% 33
+\BOOKMARK [1][-]{section.A.2}{A.2 Preliminary Results}{appendix.A}% 34
+\BOOKMARK [1][-]{section.A.3}{A.3 Next Steps}{appendix.A}% 35
+\BOOKMARK [0][-]{appendix.B}{B CS Subareas According to Different Sources}{}% 36
+\BOOKMARK [0][-]{appendix.C}{C List of Abbreviations for Publication Venues}{}% 37

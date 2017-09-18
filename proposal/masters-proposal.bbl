@@ -1,0 +1,384 @@
+\begin{thebibliography}{}
+
+\bibitem[Alves et~al.\@, 2013]{alves}
+\ppgccbibauthordoformat {Alves, B.~L.\ppgccbibauthorsep {} Benevenuto,
+  F.\ppgccbibauthorlastsep {} \ppgccbibauthorand {} Laender, A.~H.}
+  (\ppgccyeardoformat {2013}).
+\newblock \ppgccbibtitledoformat {The role of research leaders on the evolution
+  of scientific communities}.
+\newblock \ppgccbibinstring {} \ppgccbibbooktitledoformat {Proc. of WWW},
+  \ppgccbibpagesstring {} \ppgccpagedoformat {649}-\ppgccpagedoformat
+  {}-\ppgccpagedoformat {656}.
+
+\bibitem[Backstrom \ppgccciteauthorand {} Leskovec, 2011]{backstrom11social}
+\ppgccbibauthordoformat {Backstrom, L. \ppgccbibauthorand {} Leskovec, J.}
+  (\ppgccyeardoformat {2011}).
+\newblock \ppgccbibtitledoformat {Supervised random walks: Predicting and
+  recommending links in social networks}.
+\newblock \ppgccbibinstring {} \ppgccbibbooktitledoformat {Proc. of WSDM},
+  \ppgccbibpagesstring {} \ppgccpagedoformat {635}-\ppgccpagedoformat
+  {}-\ppgccpagedoformat {644}.
+
+\bibitem[Bakshy et~al.\@, 2012]{bakshy2012www}
+\ppgccbibauthordoformat {Bakshy, E.\ppgccbibauthorsep {} Rosenn,
+  I.\ppgccbibauthorsep {} Marlow, C.\ppgccbibauthorlastsep {}
+  \ppgccbibauthorand {} Adamic, L.} (\ppgccyeardoformat {2012}).
+\newblock \ppgccbibtitledoformat {The role of social networks in information
+  diffusion}.
+\newblock \ppgccbibinstring {} \ppgccbibbooktitledoformat {Proc. of WWW},
+  \ppgccbibpagesstring {} \ppgccpagedoformat {519}-\ppgccpagedoformat
+  {}-\ppgccpagedoformat {528}.
+
+\bibitem[Balog, 2012]{balog2012ftir}
+\ppgccbibauthordoformat {Balog, K.} (\ppgccyeardoformat {2012}).
+\newblock \ppgccbibtitledoformat {Expertise retrieval}.
+\newblock \ppgccbibjournaldoformat {Found. Trends Inf. Retr.},
+  \ppgccvolumedoformat {6}({\ppgccnumberdoformat {2-3}}):\ppgccpagedoformat
+  {127}-\ppgccpagedoformat {}-\ppgccpagedoformat {256}.
+
+\bibitem[Benevenuto et~al.\@, 2015]{laendersigs}
+\ppgccbibauthordoformat {Benevenuto, F.\ppgccbibauthorsep {} Laender,
+  A.~H.\ppgccbibauthorlastsep {} \ppgccbibauthorand {} Alves, B.~L.}
+  (\ppgccyeardoformat {2015}).
+\newblock \ppgccbibtitledoformat {{How Connected are the ACM SIG Communities?}}
+\newblock \ppgccbibjournaldoformat {SIGMOD Record}, \ppgccvolumedoformat
+  {44}({\ppgccnumberdoformat {4}}).
+
+\bibitem[Bollen et~al.\@, 2005]{bollen2005toward}
+\ppgccbibauthordoformat {Bollen, J.\ppgccbibauthorsep {} van~de Sompel,
+  H.\ppgccbibauthorsep {} Smith, J.\ppgccbibauthorlastsep {} \ppgccbibauthorand
+  {} Luce, R.} (\ppgccyeardoformat {2005}).
+\newblock \ppgccbibtitledoformat {Toward alternative metrics of journal impact:
+  A comparison of download and citation data}.
+\newblock \ppgccbibjournaldoformat {Information Processing \& Management},
+  \ppgccvolumedoformat {41}({\ppgccnumberdoformat {6}}):\ppgccpagedoformat
+  {1419}-\ppgccpagedoformat {}-\ppgccpagedoformat {1440}.
+
+\bibitem[Cormode et~al.\@, 2014]{cormode2014people}
+\ppgccbibauthordoformat {Cormode, G.\ppgccbibauthorsep {} Muthukrishnan,
+  S.\ppgccbibauthorlastsep {} \ppgccbibauthorand {} Yan, J.}
+  (\ppgccyeardoformat {2014}).
+\newblock \ppgccbibtitledoformat {People like us: mining scholarly data for
+  comparable researchers}.
+\newblock \ppgccbibinstring {} \ppgccbibbooktitledoformat {Proc. of WWW},
+  \ppgccbibpagesstring {} \ppgccpagedoformat {1227}-\ppgccpagedoformat
+  {}-\ppgccpagedoformat {1232}.
+
+\bibitem[Deng et~al.\@, 2012]{deng2012modeling}
+\ppgccbibauthordoformat {Deng, H.\ppgccbibauthorsep {} Han,
+  J.\ppgccbibauthorsep {} Lyu, M.~R.\ppgccbibauthorlastsep {}
+  \ppgccbibauthorand {} King, I.} (\ppgccyeardoformat {2012}).
+\newblock \ppgccbibtitledoformat {Modeling and exploiting heterogeneous
+  bibliographic networks for expertise ranking}.
+\newblock \ppgccbibinstring {} \ppgccbibbooktitledoformat {Proc. of JCDL},
+  \ppgccbibpagesstring {} \ppgccpagedoformat {71}-\ppgccpagedoformat
+  {}-\ppgccpagedoformat {80}.
+
+\bibitem[Dongen, 2000]{mcl}
+\ppgccbibauthordoformat {Dongen, S.} (\ppgccyeardoformat {2000}).
+\newblock \ppgccbibtitledoformat {A cluster algorithm for graphs}.
+\newblock \ppgccbibtechreportstring {}, Amsterdam, The Netherlands, The
+  Netherlands.
+
+\bibitem[Egghe, 2006]{egghe2006theory}
+\ppgccbibauthordoformat {Egghe, L.} (\ppgccyeardoformat {2006}).
+\newblock \ppgccbibtitledoformat {Theory and practise of the g-index}.
+\newblock \ppgccbibjournaldoformat {Scientometrics}, \ppgccvolumedoformat
+  {69}({\ppgccnumberdoformat {1}}):\ppgccpagedoformat {131}-\ppgccpagedoformat
+  {}-\ppgccpagedoformat {152}.
+
+\bibitem[Garfield, 1955]{garfield1955}
+\ppgccbibauthordoformat {Garfield, E.} (\ppgccyeardoformat {1955}).
+\newblock \ppgccbibtitledoformat {Citation indexes for science}.
+\newblock \ppgccbibjournaldoformat {Science}, \ppgccvolumedoformat
+  {122}({\ppgccnumberdoformat {3159}}):\ppgccpagedoformat
+  {108}--\ppgccpagedoformat {111}.
+
+\bibitem[Gollapalli et~al.\@, 2011]{gollapalli2011ranking}
+\ppgccbibauthordoformat {Gollapalli, S.~D.\ppgccbibauthorsep {} Mitra,
+  P.\ppgccbibauthorlastsep {} \ppgccbibauthorand {} Giles, C.~L.}
+  (\ppgccyeardoformat {2011}).
+\newblock \ppgccbibtitledoformat {Ranking authors in digital libraries}.
+\newblock \ppgccbibinstring {} \ppgccbibbooktitledoformat {Proc. of JCDL},
+  \ppgccbibpagesstring {} \ppgccpagedoformat {251}-\ppgccpagedoformat
+  {}-\ppgccpagedoformat {254}.
+
+\bibitem[Gon{\c{c}}alves et~al.\@, 2014]{goncalves2014}
+\ppgccbibauthordoformat {Gon{\c{c}}alves, G.~D.\ppgccbibauthorsep {}
+  Figueiredo, F.\ppgccbibauthorsep {} Almeida, J.~M.\ppgccbibauthorlastsep {}
+  \ppgccbibauthorand {} Gon{\c{c}}alves, M.~A.} (\ppgccyeardoformat {2014}).
+\newblock \ppgccbibtitledoformat {Characterizing scholar popularity: {A} case
+  study in the computer science research community}.
+\newblock \ppgccbibinstring {} \ppgccbibbooktitledoformat {Proc. of JCDL},
+  \ppgccbibpagesstring {} \ppgccpagedoformat {57}-\ppgccpagedoformat
+  {}-\ppgccpagedoformat {66}.
+
+\bibitem[Hirsch, 2005]{hirsch2005}
+\ppgccbibauthordoformat {Hirsch, J.} (\ppgccyeardoformat {2005}).
+\newblock \ppgccbibtitledoformat {An index to quantify an individual's
+  scientific research output}.
+\newblock \ppgccbibjournaldoformat {Proc. Nat. Acad. Sciences},
+  \ppgccbibpagesstring {} \ppgccpagedoformat {16569}--\ppgccpagedoformat
+  {16572}.
+
+\bibitem[Hutton et~al.\@, 2001]{hutton2001prr}
+\ppgccbibauthordoformat {Hutton, J.~G.\ppgccbibauthorsep {} Goodman,
+  M.~B.\ppgccbibauthorsep {} Alexander, J.~B.\ppgccbibauthorlastsep {}
+  \ppgccbibauthorand {} Genest, C.~M.} (\ppgccyeardoformat {2001}).
+\newblock \ppgccbibtitledoformat {Reputation management: the new face of
+  corporate public relations?}
+\newblock \ppgccbibjournaldoformat {Pub. Rel. Rev.}, \ppgccvolumedoformat
+  {27}({\ppgccnumberdoformat {3}}):\ppgccpagedoformat {247}-\ppgccpagedoformat
+  {}-\ppgccpagedoformat {261}.
+
+\bibitem[Jamali \ppgccciteauthorand {} Ester, 2009]{jamali09trustwalker}
+\ppgccbibauthordoformat {Jamali, M. \ppgccbibauthorand {} Ester, M.}
+  (\ppgccyeardoformat {2009}).
+\newblock \ppgccbibtitledoformat {Trustwalker: A random walk model for
+  combining trust-based and item-based recommendation}.
+\newblock \ppgccbibinstring {} \ppgccbibbooktitledoformat {Proc. of SIGKDD},
+  \ppgccbibpagesstring {} \ppgccpagedoformat {397}-\ppgccpagedoformat
+  {}-\ppgccpagedoformat {406}.
+
+\bibitem[Katerattanakul et~al.\@, 2003]{Katerattanakul2003}
+\ppgccbibauthordoformat {Katerattanakul, P.\ppgccbibauthorsep {} Han,
+  B.\ppgccbibauthorlastsep {} \ppgccbibauthorand {} Hong, S.}
+  (\ppgccyeardoformat {2003}).
+\newblock \ppgccbibtitledoformat {Objective quality rankings of computing
+  journals}.
+\newblock \ppgccbibjournaldoformat {Commun. ACM}, \ppgccvolumedoformat {45}.
+
+\bibitem[Kleinberg, 1999]{kleinberg98}
+\ppgccbibauthordoformat {Kleinberg, J.~M.} (\ppgccyeardoformat {1999}).
+\newblock \ppgccbibtitledoformat {Authoritative sources in a hyperlinked
+  environment}.
+\newblock \ppgccbibjournaldoformat {J. ACM}, \ppgccvolumedoformat
+  {46}({\ppgccnumberdoformat {5}}):\ppgccpagedoformat {604}-\ppgccpagedoformat
+  {}-\ppgccpagedoformat {632}.
+
+\bibitem[Larsen \ppgccciteauthorand {} Ingwersen, 2006]{larsen2006using}
+\ppgccbibauthordoformat {Larsen, B. \ppgccbibauthorand {} Ingwersen, P.}
+  (\ppgccyeardoformat {2006}).
+\newblock \ppgccbibtitledoformat {Using citations for ranking in digital
+  libraries}.
+\newblock \ppgccbibinstring {} \ppgccbibbooktitledoformat {Proc. of JCDL},
+  \ppgccbibpagesstring {} \ppgccpagedoformat {370}-\ppgccpagedoformat
+  {}-\ppgccpagedoformat {370}.
+
+\bibitem[Ley, 2009]{ley}
+\ppgccbibauthordoformat {Ley, M.} (\ppgccyeardoformat {2009}).
+\newblock \ppgccbibtitledoformat {Dblp: Some lessons learned}.
+\newblock \ppgccbibjournaldoformat {Proc. VLDB Endow.}, \ppgccvolumedoformat
+  {2}:\ppgccpagedoformat {1493}-\ppgccpagedoformat {}-\ppgccpagedoformat
+  {1500}.
+
+\bibitem[Leydesdorff, 2009]{leydesdorff2009new}
+\ppgccbibauthordoformat {Leydesdorff, L.} (\ppgccyeardoformat {2009}).
+\newblock \ppgccbibtitledoformat {How are new citation-based journal indicators
+  adding to the bibliometric toolbox?}
+\newblock \ppgccbibjournaldoformat {J. Am. Soc. Inf. Sci. Technol.},
+  \ppgccvolumedoformat {60}({\ppgccnumberdoformat {7}}):\ppgccpagedoformat
+  {1327}-\ppgccpagedoformat {}-\ppgccpagedoformat {1336}.
+
+\bibitem[Lima et~al.\@, 2013]{lima2013jcdl}
+\ppgccbibauthordoformat {Lima, H.\ppgccbibauthorsep {} Silva, T.
+  H.~P.\ppgccbibauthorsep {} Moro, M.~M.\ppgccbibauthorsep {} Santos, R.
+  L.~T.\ppgccbibauthorsep {} Jr., W.~M.\ppgccbibauthorlastsep {}
+  \ppgccbibauthorand {} Laender, A. H.~F.} (\ppgccyeardoformat {2013}).
+\newblock \ppgccbibtitledoformat {Aggregating productivity indices for ranking
+  researchers across multiple areas}.
+\newblock \ppgccbibinstring {} \ppgccbibbooktitledoformat {Proc. of JCDL},
+  \ppgccbibpagesstring {} \ppgccpagedoformat {97}-\ppgccpagedoformat
+  {}-\ppgccpagedoformat {106}.
+
+\bibitem[Lundberg, 2007]{zscore}
+\ppgccbibauthordoformat {Lundberg, J.} (\ppgccyeardoformat {2007}).
+\newblock \ppgccbibtitledoformat {Lifting the crown-citation z-score}.
+\newblock \ppgccbibjournaldoformat {Journal of Informetrics},
+  \ppgccvolumedoformat {1}.
+
+\bibitem[Mann et~al.\@, 2006]{Mann:2006}
+\ppgccbibauthordoformat {Mann, G.\ppgccbibauthorsep {} Mimno,
+  D.\ppgccbibauthorlastsep {} \ppgccbibauthorand {} McCallum, A.}
+  (\ppgccyeardoformat {2006}).
+\newblock \ppgccbibtitledoformat {Bibliometric impact measures leveraging topic
+  analysis}.
+\newblock \ppgccbibinstring {} \ppgccbibbooktitledoformat {Proc. of JCDL},
+  \ppgccbibpagesstring {} \ppgccpagedoformat {65}-\ppgccpagedoformat
+  {}-\ppgccpagedoformat {74}.
+
+\bibitem[Nelakuditi et~al.\@, 2011]{nelakuditi2011snap}
+\ppgccbibauthordoformat {Nelakuditi, S.\ppgccbibauthorsep {} Gray,
+  C.\ppgccbibauthorlastsep {} \ppgccbibauthorand {} Choudhury, R.~R.}
+  (\ppgccyeardoformat {2011}).
+\newblock \ppgccbibtitledoformat {Snap judgement of publication quality: how to
+  convince a dean that you are a good researcher}.
+\newblock \ppgccbibjournaldoformat {Mobile Computing and Commun. Review},
+  \ppgccvolumedoformat {15}({\ppgccnumberdoformat {2}}):\ppgccpagedoformat
+  {20}-\ppgccpagedoformat {}-\ppgccpagedoformat {23}.
+
+\bibitem[Nerur et~al.\@, 2005]{nerur2005assessing}
+\ppgccbibauthordoformat {Nerur, S.\ppgccbibauthorsep {} Sikora,
+  R.\ppgccbibauthorsep {} Mangalaraj, G.\ppgccbibauthorlastsep {}
+  \ppgccbibauthorand {} Balijepally, V.} (\ppgccyeardoformat {2005}).
+\newblock \ppgccbibtitledoformat {Assessing the relative influence of journals
+  in a citation network}.
+\newblock \ppgccbibjournaldoformat {Commun. ACM}, \ppgccvolumedoformat
+  {48}({\ppgccnumberdoformat {11}}):\ppgccpagedoformat {71}-\ppgccpagedoformat
+  {}-\ppgccpagedoformat {74}.
+
+\bibitem[Nie et~al.\@, 2005]{nie05webobjects}
+\ppgccbibauthordoformat {Nie, Z.\ppgccbibauthorsep {} Zhang,
+  Y.\ppgccbibauthorsep {} Wen, J.-R.\ppgccbibauthorlastsep {}
+  \ppgccbibauthorand {} Ma, W.-Y.} (\ppgccyeardoformat {2005}).
+\newblock \ppgccbibtitledoformat {Object-level ranking: Bringing order to web
+  objects}.
+\newblock \ppgccbibinstring {} \ppgccbibbooktitledoformat {Proc. of WWW},
+  \ppgccbibpagesstring {} \ppgccpagedoformat {567}-\ppgccpagedoformat
+  {}-\ppgccpagedoformat {574}.
+
+\bibitem[Page et~al.\@, 1998]{page98pagerank}
+\ppgccbibauthordoformat {Page, L.\ppgccbibauthorsep {} Brin,
+  S.\ppgccbibauthorsep {} Motwani, R.\ppgccbibauthorlastsep {}
+  \ppgccbibauthorand {} Winograd, T.} (\ppgccyeardoformat {1998}).
+\newblock \ppgccbibtitledoformat {The pagerank citation ranking: Bringing order
+  to the web}.
+\newblock \ppgccbibinstring {} \ppgccbibbooktitledoformat {Proc. of WWW},
+  \ppgccbibpagesstring {} \ppgccpagedoformat {161}-\ppgccpagedoformat
+  {}-\ppgccpagedoformat {172}.
+
+\bibitem[Piwowar, 2013]{piwowar2013altmetrics}
+\ppgccbibauthordoformat {Piwowar, H.} (\ppgccyeardoformat {2013}).
+\newblock \ppgccbibtitledoformat {Altmetrics: Value all research products}.
+\newblock \ppgccbibjournaldoformat {Nature}, \ppgccvolumedoformat
+  {493}({\ppgccnumberdoformat {7431}}):\ppgccpagedoformat
+  {159}-\ppgccpagedoformat {}-\ppgccpagedoformat {159}.
+
+\bibitem[Rahm \ppgccciteauthorand {} Thor, 2005]{rahm2005citation}
+\ppgccbibauthordoformat {Rahm, E. \ppgccbibauthorand {} Thor, A.}
+  (\ppgccyeardoformat {2005}).
+\newblock \ppgccbibtitledoformat {Citation analysis of database publications}.
+\newblock \ppgccbibjournaldoformat {ACM Sigmod Record}, \ppgccvolumedoformat
+  {34}({\ppgccnumberdoformat {4}}):\ppgccpagedoformat {48}-\ppgccpagedoformat
+  {}-\ppgccpagedoformat {53}.
+
+\bibitem[Ribas et~al.\@, 2015a]{ribas2015bigscholar}
+\ppgccbibauthordoformat {Ribas, S.\ppgccbibauthorsep {} Ribeiro-Neto,
+  B.\ppgccbibauthorsep {} de~Souza~e Silva, E.\ppgccbibauthorsep {} Ueda,
+  A.~H.\ppgccbibauthorlastsep {} \ppgccbibauthorand {} Ziviani, N.}
+  (\ppgccyeardoformat {2015a}).
+\newblock \ppgccbibtitledoformat {Using reference groups to assess academic
+  productivity in computer science}.
+\newblock \ppgccbibinstring {} \ppgccbibbooktitledoformat {Proc. of WWW},
+  \ppgccbibpagesstring {} \ppgccpagedoformat {603}-\ppgccpagedoformat
+  {}-\ppgccpagedoformat {608}.
+
+\bibitem[Ribas et~al.\@, 2015b]{ribas2015random}
+\ppgccbibauthordoformat {Ribas, S.\ppgccbibauthorsep {} Ribeiro-Neto,
+  B.\ppgccbibauthorsep {} Santos, R.~L.\ppgccbibauthorsep {} de~Souza~e Silva,
+  E.\ppgccbibauthorsep {} Ueda, A.\ppgccbibauthorlastsep {} \ppgccbibauthorand
+  {} Ziviani, N.} (\ppgccyeardoformat {2015b}).
+\newblock \ppgccbibtitledoformat {Random walks on the reputation graph}.
+\newblock \ppgccbibinstring {} \ppgccbibbooktitledoformat {Proceedings of the
+  2015 International Conference on The Theory of Information Retrieval},
+  \ppgccbibpagesstring {} \ppgccpagedoformat {181}-\ppgccpagedoformat
+  {}-\ppgccpagedoformat {190}. ACM.
+
+\bibitem[Saha et~al.\@, 2003]{saha2003}
+\ppgccbibauthordoformat {Saha, S.\ppgccbibauthorsep {} Saint,
+  S.\ppgccbibauthorlastsep {} \ppgccbibauthorand {} Christakis, D.}
+  (\ppgccyeardoformat {2003}).
+\newblock \ppgccbibtitledoformat {Impact factor: a valid measure of journal
+  quality?}
+\newblock \ppgccbibjournaldoformat {J. Med. Lib. Assoc.}, \ppgccvolumedoformat
+  {91}({\ppgccnumberdoformat {1}}):\ppgccpagedoformat {42}--\ppgccpagedoformat
+  {46}.
+
+\bibitem[Sun \ppgccciteauthorand {} Giles, 2007]{sun2007popularity}
+\ppgccbibauthordoformat {Sun, Y. \ppgccbibauthorand {} Giles, C.~L.}
+  (\ppgccyeardoformat {2007}).
+\newblock \ppgccbibbtitledoformat {Popularity weighted ranking for academic
+  digital libraries}.
+\newblock Springer.
+
+\bibitem[Tang et~al.\@, 2008]{tang2008topic}
+\ppgccbibauthordoformat {Tang, J.\ppgccbibauthorsep {} Jin,
+  R.\ppgccbibauthorlastsep {} \ppgccbibauthorand {} Zhang, J.}
+  (\ppgccyeardoformat {2008}).
+\newblock \ppgccbibtitledoformat {A topic modeling approach and its integration
+  into the random walk framework for academic search}.
+\newblock \ppgccbibinstring {} \ppgccbibbooktitledoformat {Proc. of ICDM},
+  \ppgccbibpagesstring {} \ppgccpagedoformat {1055}-\ppgccpagedoformat
+  {}-\ppgccpagedoformat {1060}.
+
+\bibitem[Wu et~al.\@, 2009]{wu2009detecting}
+\ppgccbibauthordoformat {Wu, H.\ppgccbibauthorsep {} Pei,
+  Y.\ppgccbibauthorlastsep {} \ppgccbibauthorand {} Yu, J.} (\ppgccyeardoformat
+  {2009}).
+\newblock \ppgccbibtitledoformat {Detecting academic experts by topic-sensitive
+  link analysis}.
+\newblock \ppgccbibjournaldoformat {Front. Comp. Science in China},
+  \ppgccvolumedoformat {3}({\ppgccnumberdoformat {4}}):\ppgccpagedoformat
+  {445}-\ppgccpagedoformat {}-\ppgccpagedoformat {456}.
+
+\bibitem[Xi et~al.\@, 2004]{xi04fusion}
+\ppgccbibauthordoformat {Xi, W.\ppgccbibauthorsep {} Zhang,
+  B.\ppgccbibauthorsep {} Chen, Z.\ppgccbibauthorsep {} Lu,
+  Y.\ppgccbibauthorsep {} Yan, S.\ppgccbibauthorsep {} Ma,
+  W.-Y.\ppgccbibauthorlastsep {} \ppgccbibauthorand {} Fox, E.~A.}
+  (\ppgccyeardoformat {2004}).
+\newblock \ppgccbibtitledoformat {Link fusion: A unified link analysis
+  framework for multi-type interrelated data objects}.
+\newblock \ppgccbibinstring {} \ppgccbibbooktitledoformat {Proc. of WWW},
+  \ppgccbibpagesstring {} \ppgccpagedoformat {319}--\ppgccpagedoformat {327}.
+
+\bibitem[Yan et~al.\@, 2011]{yan2011p}
+\ppgccbibauthordoformat {Yan, E.\ppgccbibauthorsep {} Ding,
+  Y.\ppgccbibauthorlastsep {} \ppgccbibauthorand {} Sugimoto, C.~R.}
+  (\ppgccyeardoformat {2011}).
+\newblock \ppgccbibtitledoformat {P-rank: An indicator measuring prestige in
+  heterogeneous scholarly networks}.
+\newblock \ppgccbibjournaldoformat {J. Am. Soc. Inf. Sci. Technol.},
+  \ppgccvolumedoformat {62}({\ppgccnumberdoformat {3}}):\ppgccpagedoformat
+  {467}-\ppgccpagedoformat {}-\ppgccpagedoformat {477}.
+
+\bibitem[Yan \ppgccciteauthorand {} Lee, 2007]{Yan:2007}
+\ppgccbibauthordoformat {Yan, S. \ppgccbibauthorand {} Lee, D.}
+  (\ppgccyeardoformat {2007}).
+\newblock \ppgccbibtitledoformat {Toward alternative measures for ranking
+  venues: a case of database research community}.
+\newblock \ppgccbibinstring {} \ppgccbibbooktitledoformat {Proc. of JCDL},
+  \ppgccbibpagesstring {} \ppgccpagedoformat {235}-\ppgccpagedoformat
+  {}-\ppgccpagedoformat {244}.
+
+\bibitem[Ye et~al.\@, 2011]{ye11poi}
+\ppgccbibauthordoformat {Ye, M.\ppgccbibauthorsep {} Yin, P.\ppgccbibauthorsep
+  {} Lee, W.-C.\ppgccbibauthorlastsep {} \ppgccbibauthorand {} Lee, D.-L.}
+  (\ppgccyeardoformat {2011}).
+\newblock \ppgccbibtitledoformat {Exploiting geographical influence for
+  collaborative point-of-interest recommendation}.
+\newblock \ppgccbibinstring {} \ppgccbibbooktitledoformat {Proc. of SIGIR},
+  \ppgccbibpagesstring {} \ppgccpagedoformat {325}-\ppgccpagedoformat
+  {}-\ppgccpagedoformat {334}.
+
+\bibitem[Zhou et~al.\@, 2007]{zhou2007co}
+\ppgccbibauthordoformat {Zhou, D.\ppgccbibauthorsep {} Orshanskiy,
+  S.~A.\ppgccbibauthorsep {} Zha, H.\ppgccbibauthorlastsep {}
+  \ppgccbibauthorand {} Giles, C.~L.} (\ppgccyeardoformat {2007}).
+\newblock \ppgccbibtitledoformat {Co-ranking authors and documents in a
+  heterogeneous network}.
+\newblock \ppgccbibinstring {} \ppgccbibbooktitledoformat {Proc. of ICDM},
+  \ppgccbibpagesstring {} \ppgccpagedoformat {739}-\ppgccpagedoformat
+  {}-\ppgccpagedoformat {744}.
+
+\bibitem[Zhuang et~al.\@, 2007]{Zhuang:2007}
+\ppgccbibauthordoformat {Zhuang, Z.\ppgccbibauthorsep {} Elmacioglu,
+  E.\ppgccbibauthorsep {} Lee, D.\ppgccbibauthorlastsep {} \ppgccbibauthorand
+  {} Giles, C.} (\ppgccyeardoformat {2007}).
+\newblock \ppgccbibtitledoformat {Measuring conference quality by mining
+  program committee characteristics}.
+\newblock \ppgccbibinstring {} \ppgccbibbooktitledoformat {Proc. of JCDL},
+  \ppgccbibpagesstring {} \ppgccpagedoformat {225}-\ppgccpagedoformat
+  {}-\ppgccpagedoformat {234}.
+
+\end{thebibliography}

@@ -1,0 +1,19 @@
+Lundberg, J. (2007). Lifting the crown—Citation z-score. Journal of informetrics, 1(2),
+145-154.
+Opthof, T., & Leydesdorff, L. (2010). Caveats for the journal and field normalizations
+in the CWTS (“Leiden”) evaluations of research performance. Journal of Informetrics,
+4(3), 423-430.
+Van Raan, A. F., Van Leeuwen, T. N., Visser, M. S., Van Eck, N. J., & Waltman, L.
+(2010). Rivals for the crown: Reply to Opthof and Leydesdorff. Journal of Informetrics,
+4(3), 431-435.
+Waltman, L., Van Eck, N. J., Van Leeuwen, T. N., Visser, M. S., & Van Raan, A. F.
+(2011a). Towards a new crown indicator: Some theoretical considerations. Journal of
+Informetrics, 5(1), 37-47.
+Smolinsky, L. (2016). Expected number of citations and the crown indicator. Journal of
+Informetrics, 10(1), 43-47.
+Citing-side normalization is based on the idea that differences among fields in
+citation density are to a large extent caused by the fact that in some fields
+publications tend to have longer reference lists than in other fields.
+Glänzel, W., Schubert, A., Thijs, B., & Debackere, K. (2011). A priori vs. a posteriori
+normalisation of citation indicators. The case of journal ranking. Scientometrics,
+87(2), 415-424.

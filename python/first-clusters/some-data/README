@@ -1,0 +1,43 @@
+$ sed -i -- 's/:/\t/g' papers.csv.sigir
+$ awk '{$1=$1-1} {print}' papers.csv.sigir | head
+
+ueda@zecarneiro:/mnt/hd0/alberto/large-datasets/dblp/dblp/coauthors-first-clusters$ time mcl in.example --abc -o out.example -te 4
+[mcl] new tab created
+[mcl] pid 6158
+ ite   chaos  time hom(avg,lo,hi) m-ie m-ex i-ex fmv
+  1     0.47  0.00 0.87/0.80/0.95 1.33 1.33 1.33 100
+  2     0.53  0.00 0.86/0.69/0.95 1.24 1.21 1.67 100
+  3     0.35  0.00 0.95/0.88/1.00 1.00 0.67 1.14 100
+  4     0.44  0.00 0.94/0.88/1.00 1.08 0.68 0.81 100
+  5     0.24  0.00 0.89/0.78/1.00 1.17 0.67 0.57 100
+  6     0.20  0.00 0.89/0.80/0.99 0.92 0.92 0.57 100
+  7     0.12  0.00 0.95/0.95/0.95 0.92 0.92 0.57 100
+  8     0.20  0.00 0.92/0.85/1.00 0.92 0.92 0.57 100
+  9     0.25  0.00 0.88/0.76/1.00 0.92 0.69 0.43 100
+ 10     0.15  0.00 0.93/0.85/1.00 0.90 0.90 0.43 100
+ 11     0.02  0.00 0.99/0.98/1.00 0.90 0.90 0.43 100
+ 12     0.00  0.00 1.00/1.00/1.00 0.90 0.90 0.43 100
+ 13     0.00  0.00 1.00/1.00/1.00 0.90 0.60 0.29 100
+[mcl] jury pruning marks: <100,99,99>, out of 100
+[mcl] jury pruning synopsis: <99.6 or perfect> (cf -scheme, -do log)
+[mcl] output is in out.example
+[mcl] 2 clusters found
+[mcl] output is in out.example
+
+Please cite:
+    Stijn van Dongen, Graph Clustering by Flow Simulation.  PhD thesis,
+    University of Utrecht, May 2000.
+       (  http://www.library.uu.nl/digiarchief/dip/diss/1895620/full.pdf
+       or  http://micans.org/mcl/lit/svdthesis.pdf.gz)
+OR
+    Stijn van Dongen, A cluster algorithm for graphs. Technical
+    Report INS-R0010, National Research Institute for Mathematics
+    and Computer Science in the Netherlands, Amsterdam, May 2000.
+       (  http://www.cwi.nl/ftp/CWIreports/INS/INS-R0010.ps.Z
+       or  http://micans.org/mcl/lit/INS-R0010.ps.Z)
+
+
+real	0m0.033s
+user	0m0.000s
+sys	0m0.005s
+

@@ -1,0 +1,25 @@
+\select@language {english}
+\addvspace {10pt}
+\addvspace {10pt}
+\addvspace {10pt}
+\addvspace {10pt}
+\contentsline {table}{\numberline {1.1}{\ignorespaces The Microsoft 37 Subareas of Computer Science}}{3}{table.1.1}
+\addvspace {10pt}
+\addvspace {10pt}
+\addvspace {10pt}
+\contentsline {table}{\numberline {4.1}{\ignorespaces Salient statistics of the dataset used in our evaluation.}}{22}{table.4.1}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Subareas of Computer Science selected from Microsoft classification. The full names of the publication venues are presented in Appendix~\ref {sec:venues}.}}{23}{table.4.2}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Seeds of publication venues for the P-score ranking used in this work.}}{24}{table.4.3}
+\addvspace {10pt}
+\contentsline {table}{\numberline {5.1}{\ignorespaces Top 20 venues in Information Retrieval using (i) standard P-score, (ii) the set of venues selected by the normalized P-score, and (iii) re-ranking the set of venues obtained in (ii) according to their P-scores. The suffixes (c) and (j) are used to differentiate conferences and journals with the same name. The full names of the publication venues are presented in Appendix~\ref {sec:venues}.}}{28}{table.5.1}
+\contentsline {table}{\numberline {5.2}{\ignorespaces Top 20 venues in Databases, using (i) standard P-score, (ii) the set of venues selected by the normalized P-score, and (iii) re-ranking the set of venues obtained in (ii) according to their P-scores. The suffixes (c) and (j) are used to differentiate conferences and journals with the same name. The full names of the publication venues are presented in Appendix~\ref {sec:venues}.}}{29}{table.5.2}
+\contentsline {table}{\numberline {5.3}{\ignorespaces Top 20 venues in Data Mining, using (i) standard P-score, (ii) the set of venues selected by the normalized P-score, and (iii) re-ranking the set of venues obtained in (ii) according to their P-scores. The suffixes (c) and (j) are used to differentiate conferences and journals with the same name. The full names of the publication venues are presented in Appendix~\ref {sec:venues}.}}{30}{table.5.3}
+\contentsline {table}{\numberline {5.4}{\ignorespaces Ranking of the top 10 US Universities on Information Retrieval, based on standard P-scores.}}{30}{table.5.4}
+\contentsline {table}{\numberline {5.5}{\ignorespaces Ranking of the top 10 US Universities on Information Retrieval, using the weighted P-score (Equation~\ref {eq:group_pscore_author_factor}).}}{31}{table.5.5}
+\contentsline {table}{\numberline {5.6}{\ignorespaces Ranking of the top 20 US researchers' universities on Information Retrieval, using Equation~(\ref {eq:group_pscore_author_factor}).}}{32}{table.5.6}
+\contentsline {table}{\numberline {5.7}{\ignorespaces Ranking of the top 10 US Universities on Databases, using the weighted P-score (Equation~(\ref {eq:group_pscore_author_factor})).}}{32}{table.5.7}
+\contentsline {table}{\numberline {5.8}{\ignorespaces Ranking of the top 10 US Universities on Data Mining, using the weighted P-score (Equation~(\ref {eq:group_pscore_author_factor})).}}{33}{table.5.8}
+\addvspace {10pt}
+\addvspace {10pt}
+\addvspace {10pt}
+\addvspace {10pt}
