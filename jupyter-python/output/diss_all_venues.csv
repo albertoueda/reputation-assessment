@@ -1,0 +1,87 @@
+JOURNALS/TCOM,IEEE Transactions on Communications
+CONF/INFOCOM,INFOCOM (IEEE) (INFOCOM)
+CONF/KDD,Knowledge Discovery and Data Mining (KDD)
+JOURNALS/TON,IEEE/ACM Transactions on Networking (TON)
+JOURNALS/TPDS,IEEE Transactions on Parallel and Distributed Systems (TPDS)
+CONF/NTCIR,NII Testbeds and Community for Information Access Research (NTCIR)
+JOURNALS/PVLDB,Proceedings of the VLDB Endowment
+CONF/IPPS,International Parallel (and Distributed) Processing Symposium (IP(D)PS)
+CONF/EMNLP,Conference on Empirical Methods in Natural Language Processing (EMNLP)
+CONF/SIGMOD,Conference on Management of Data (SIGMOD)
+JOURNALS/BIOINFORMATICS,Bioinformatics
+CONF/CIKM,Conference on Information and Knowledge Management (CIKM)
+CONF/CVPR,Computer Vision and Pattern Recognition (CVPR)
+CONF/PAKDD,Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)
+CONF/SIGIR,ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)
+JOURNALS/SIGMOD,SIGMOD Record
+CONF/PKDD,European Conference on Principles of Data Mining and Knowledge Discovery (PKDD)
+CONF/WWW,World Wide Web Conferences (WWW)
+CONF/BIBM,IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+CONF/CCS,Conference on Computer and Communications Security (CCS)
+CONF/DASFAA,Conference on Database Systems for Advanced Applications (DASFAA)
+CONF/ICDM,IEEE International Conference on Data Mining (ICDM)
+JOURNALS/TISSEC,ACM Transactions on Privacy and Security (TOPS) / ACM Transactions on Information and System Security (TISSEC)
+CONF/SSDBM,Conference on Statistical and Scientific Database Management (SSDBM)
+CONF/COLING,Conference on Computational Linguistics (COLING)
+CONF/TREC,Text Retrieval Conference (TREC)
+JOURNALS/TKDD,ACM Transactions on Knowledge Discovery from Data (TKDD)
+JOURNALS/SIAMCOMP,SIAM Journal on Computing
+CONF/ICDE,IEEE International Conference on Data Engineering (ICDE)
+CONF/CHI,Conference on Human Factors in Computing Systems (CHI)
+CONF/JCDL,ACM/IEEE Joint Conference on Digital Libraries (JCDL)
+CONF/IJCAI,Joint Conference on Artificial Intelligence (IJCAI)
+JOURNALS/AI,Artificial Intelligence
+CONF/IIIX,Conference on Information Interaction in Context (IIiX)
+CONF/AIRS,Asia Information Retrieval Symposium (AIRS)
+CONF/SODA,ACM-SIAM Symposium on Discrete Algorithms (SODA)
+JOURNALS/SIGIR,SIGIR Forum
+CONF/INTERSPEECH,Conference of the International Speech Communication Association (INTERSPEECH)
+JOURNALS/ALGORITHMICA,Algorithmica
+CONF/ICML,Conference on Machine Learning (ICML)
+JOURNALS/DATAMINE,Data Mining and Knowledge Discovery
+CONF/AI,Canadian Conference on Artificial Intelligence (AI)
+CONF/SIGGRAPH,Conference on Computer Graphics and Interactive Techniques (SIGGRAPH)
+JOURNALS/TIST,ACM Transactions on Intelligent Systems and Technology (TIST)
+JOURNALS/KAIS,Knowledge and Information Systems (KAIS)
+CONF/SDM,SIAM International Conference on Data Mining (SDM)
+JOURNALS/TKDE,IEEE Transactions on Knowledge and Data Engineering
+JOURNALS/IJCV,Journal of Computer Vision
+CONF/CLEF,Cross-Language Evaluation Forum Workshop (CLEF)
+JOURNALS/SIGKDD,SIGKDD Explorations
+CONF/ICDCS,IEEE International Conference on Distributed Computing Systems (ICDCS)
+CONF/VLDB,Very Large Data Bases (VLDB)
+JOURNALS/SADM,Statistical Analysis and Data Mining
+JOURNALS/DEBU,IEEE Data(base) Engineering Bulletin
+CONF/WSDM,Web Search and Data Mining (WSDM)
+CONF/EDBT,Conference on Extending Database Technology (EDBT)
+JOURNALS/DPD,Distributed and Parallel Databases
+JOURNALS/VLDB,The VLDB Journal
+JOURNALS/TOIS,ACM Transactions on Information Systems (TOIS)
+JOURNALS/TODS,ACM Transactions on Database Systems (TODS)
+JOURNALS/WWW,World Wide Web: Internet and Web Information Systems (WWW)
+JOURNALS/TWEB,ACM Transactions on the Web
+CONF/SSD,Symposium on Spatial and Temporal Databases (SSTD)
+CONF/PODS,ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems (PODS)
+JOURNALS/IR,Information Retrieval Journal
+JOURNALS/JMLR,Journal of Machine Learning Research
+JOURNALS/SIGOPS,ACM SIGOPS: Operating Systems Review
+CONF/ECIR,European Conference on Information Retrieval (ECIR)
+CONF/RECSYS,ACM Conference on Recommender Systems (RecSys)
+CONF/ICDT,Conference on Database Theory (ICDT)
+CONF/STOC,Symposium on the Theory of Computing (STOC)
+CONF/PLDI,ACM-SIGPLAN Symposium on Programming Language Design and Implementation (PLDI)
+CONF/ADCS,Australasian Document Computing Symposium (ADCS)
+CONF/ICTIR,Conference on the Theory of Information Retrieval (ICTIR)
+CONF/SOSP,Symposium on Operating Systems Principles (SOSP)
+CONF/WS,ACM Workshop on Wireless Security
+CONF/WEBDB,Workshop on the Web and Databases (WebDB)
+CONF/SPIRE,Symposium on String Processing and Information Retrieval (SPIRE)
+JOURNALS/TOPLAS,ACM Transactions on Programming Languages and Systems (TOPLAS)
+CONF/LA-WEB,Latin American Web Congress (LA-WEB)
+JOURNALS/TOCHI,ACM Transactions on Computer-Human Interaction (TOCHI)
+CONF/RIAO,Open research Areas in Information Retrieval / Recherche d'Information Assistée par Ordinateur - OAIR / RIAO
+JOURNALS/COLING,Computational Linguistics
+JOURNALS/WS,Journal of Web Semantics
+CONF/INEX,INitiative for the Evaluation of XML Retrieval (INEX)
+CONF/CIDR,Biennial Conference on Innovative Data Systems Research (CIDR)
+CONF/COMAD,Conference on Management of Data (COMAD)

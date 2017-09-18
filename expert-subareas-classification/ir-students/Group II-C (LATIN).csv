@@ -1,0 +1,77 @@
+Venues and Sub-areas,,,,,,,ID,Sub-area
+Venue,Vkey,Link ,Sub-area I,Sub-area II,Sub-area III,,1,Algorithm
+0,(Exemplo),Link,15,11,,,2,Artificial intelligence
+1,conf/ictir,Link DBLP,19,,,,3,Bioinformatics
+2,conf/sigir,Link DBLP,19,13,37,,4,Cognitive science
+3,conf/adcs,Link DBLP,19,13,15,,5,Computational biology
+4,journals/ir,Link DBLP,19,37,,,6,Computational science
+5,conf/ecir,Link DBLP,19,13,37,,7,Computer architecture
+6,conf/trec,Link DBLP,19,13,37,,8,Computer graphics (images)
+7,journals/sigir,Link DBLP,19,13,37,,9,Computer hardware
+8,conf/iiix,Link DBLP,19,14,18,,10,Computer network
+9,journals/tois,Link DBLP,19,13,,,11,Computer security
+10,conf/wsdm,Link DBLP,13,37,13,,12,Computer vision
+11,conf/inex,Link DBLP,19,15,21,,13,Data mining
+12,conf/spire,Link DBLP,19,26,,,14,Data science
+13,conf/airs,Link DBLP,19,13,37,,15,Database
+14,conf/cikm,Link DBLP,13,21,37,,16,Distributed computing
+15,journals/tweb,Link DBLP,37,13,14,,17,Embedded system
+16,conf/riao,Link DBLP,19,21,13,,18,Human-computer interaction
+17,conf/clef,Link DBLP,19,13,37,,19,Information retrieval
+18,conf/ntcir,Link DBLP,19,13,37,,20,Internet privacy
+19,conf/la-web,Link DBLP,25,14,13,,21,Knowledge management
+20,conf/jcdl,Link DBLP,25,21,15,,22,Machine learning
+21,journals/tist,Link DBLP,25,14,13,,23,Management science
+22,journals/ipm,Link DBLP,13,14,25,,24,Mathematical optimization
+23,conf/ercimdl,Link DBLP,25,21,13,,25,Multimedia
+24,conf/www,Link DBLP,37,19,13,,26,Natural language processing
+25,conf/mir,Link DBLP,25,19,21,,27,Operating system
+26,conf/isi,Link DBLP,13,20,11,,28,Operations research
+27,conf/icwsm,Link DBLP,14,13,21,,29,Parallel computing
+28,conf/mmm,Link DBLP,25,21,30,,30,Pattern recognition
+29,conf/adc,Link DBLP,15,13,14,,31,Programming language
+30,conf/icadl,Link DBLP,13,15,25,,32,Real-time computing
+31,journals/jasis,Link DBLP,13,14,37,,33,Simulation
+32,conf/sdm,Link DBLP,13,22,30,,34,Speech recognition
+33,conf/recsys,Link DBLP,19,13,21,,35,Telecommunications
+34,conf/mm,Link DBLP,25,37,13,,36,Theoretical computer science
+35,conf/kdd,Link DBLP,21,22,13,,37,World Wide Web
+36,journals/tkde,Link DBLP,21,22,13,,,
+37,conf/cpm,Link DBLP,1,15,,,ID,Sub-area
+38,conf/naacl,Link DBLP,26,22,30,,1,Algorithm
+39,journals/vldb,Link DBLP,15,21,,,2,Artificial intelligence
+40,journals/pvldb,Link DBLP,15,21,,,3,Bioinformatics
+41,conf/dgo,Link DBLP,25,13,,,4,Cognitive science
+42,conf/emnlp,Link DBLP,26,22,30,,5,Computational biology
+43,conf/icdm,Link DBLP,13,22,30,,6,Computational science
+44,conf/webi,Link DBLP,37,19,13,,7,Computer architecture
+45,journals/debu,Link DBLP,13,25,,,8,Computer graphics (images)
+46,conf/apweb,Link DBLP,13,37,,,9,Computer hardware
+47,conf/ijcnlp,Link DBLP,26,19,,,10,Computer network
+48,journals/tods,Link DBLP,15,,,,11,Computer security
+49,journals/is,Link DBLP,13,19,21,,12,Computer vision
+50,conf/acl,Link DBLP,26,29,13,,13,Data mining
+,,,,,,,14,Data science
+,,,,,,,15,Database
+,,,,,,,16,Distributed computing
+,,,,,,,17,Embedded system
+,,,,,,,18,Human-computer interaction
+,,,,,,,19,Information retrieval
+,,,,,,,20,Internet privacy
+,,,,,,,21,Knowledge management
+,,,,,,,22,Machine learning
+,,,,,,,23,Management science
+,,,,,,,24,Mathematical optimization
+,,,,,,,25,Multimedia
+,,,,,,,26,Natural language processing
+,,,,,,,27,Operating system
+,,,,,,,28,Operations research
+,,,,,,,29,Parallel computing
+,,,,,,,30,Pattern recognition
+,,,,,,,31,Programming language
+,,,,,,,32,Real-time computing
+,,,,,,,33,Simulation
+,,,,,,,34,Speech recognition
+,,,,,,,35,Telecommunications
+,,,,,,,36,Theoretical computer science
+,,,,,,,37,World Wide Web

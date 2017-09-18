@@ -1,0 +1,51 @@
+,Rank.0,Vkey.0,Subareas.0,Precision.0@k,Recall.0@k,Rank.1,Vkey.1,Subareas.1,Precision.1@k,Recall.1@k,Rank.2,Vkey.2,Subareas.2,Precision.2@k,Recall.2@k
+0,1,conf/cvpr,['Pattern recognition'],0.0,0.0,1,conf/sigir,['Information retrieval'],1.0,0.0625,1,conf/ictir,['Information retrieval'],1.0,0.0625
+1,2,conf/www,['World Wide Web'],0.0,0.0,2,conf/cikm,"['Database', 'Knowledge management']",0.5,0.0625,2,conf/sigir,['Information retrieval'],1.0,0.125
+2,3,conf/icml,['Machine learning'],0.0,0.0,3,conf/trec,['Information retrieval'],0.666666666667,0.125,3,journals/ir,['Information retrieval'],1.0,0.1875
+3,4,conf/nips,['Machine learning'],0.0,0.0,4,conf/ecir,['Information retrieval'],0.75,0.1875,4,conf/ecir,['Information retrieval'],1.0,0.25
+4,5,conf/sigmod,['Database'],0.0,0.0,5,conf/clef,[''],0.6,0.1875,5,conf/trec,['Information retrieval'],1.0,0.3125
+5,6,conf/wsdm,['Information retrieval'],0.166666666667,0.0625,6,conf/www,['World Wide Web'],0.5,0.1875,6,journals/sigir,['Information retrieval'],1.0,0.375
+6,7,conf/emnlp,['Natural language processing'],0.142857142857,0.0625,7,journals/jasis,['Information retrieval'],0.571428571429,0.25,7,conf/iiix,['Information retrieval'],1.0,0.4375
+7,8,conf/icde,[''],0.125,0.0625,8,journals/ipm,['Information retrieval'],0.625,0.3125,8,journals/tois,['Information retrieval'],1.0,0.5
+8,9,conf/sigir,['Information retrieval'],0.222222222222,0.125,9,journals/sigir,['Information retrieval'],0.666666666667,0.375,9,conf/wsdm,['Information retrieval'],1.0,0.5625
+9,10,journals/ir,['Information retrieval'],0.3,0.1875,10,conf/mm,['Multimedia'],0.6,0.375,10,conf/inex,['Information retrieval'],1.0,0.625
+10,11,conf/icwsm,['World Wide Web'],0.272727272727,0.1875,11,conf/aaai,['Artificial intelligence'],0.545454545455,0.375,11,conf/spire,['Information retrieval'],1.0,0.6875
+11,12,conf/naacl,['Natural language processing'],0.25,0.1875,12,conf/jcdl,[''],0.5,0.375,12,conf/airs,['Information retrieval'],1.0,0.75
+12,13,conf/ijcai,['Artificial intelligence'],0.230769230769,0.1875,13,journals/tois,['Information retrieval'],0.538461538462,0.4375,13,conf/cikm,"['Database', 'Knowledge management']",0.923076923077,0.75
+13,14,conf/aaai,['Artificial intelligence'],0.214285714286,0.1875,14,journals/ir,['Information retrieval'],0.571428571429,0.5,14,conf/riao,['Information retrieval'],0.928571428571,0.8125
+14,15,conf/sdm,['Data mining'],0.2,0.1875,15,conf/wsdm,['Information retrieval'],0.6,0.5625,15,conf/clef,[''],0.866666666667,0.8125
+15,16,conf/vldb,['Database'],0.1875,0.1875,16,conf/ntcir,['Information retrieval'],0.625,0.625,16,conf/ntcir,['Information retrieval'],0.875,0.875
+16,17,conf/coling,['Natural language processing'],0.176470588235,0.1875,17,conf/kdd,"['Data mining', 'Knowledge management']",0.588235294118,0.625,17,conf/jcdl,[''],0.823529411765,0.875
+17,18,conf/lrec,[''],0.166666666667,0.1875,18,journals/tkde,['Knowledge management'],0.555555555556,0.625,18,journals/ipm,['Information retrieval'],0.833333333333,0.9375
+18,19,conf/clef,[''],0.157894736842,0.1875,19,conf/acl,['Natural language processing'],0.526315789474,0.625,19,conf/ercimdl,[''],0.789473684211,0.9375
+19,20,conf/icmcs,['Multimedia'],0.15,0.1875,20,conf/icdm,['Data mining'],0.5,0.625,20,conf/www,['World Wide Web'],0.75,0.9375
+20,21,conf/webi,['World Wide Web'],0.142857142857,0.1875,21,conf/spire,['Information retrieval'],0.52380952381,0.6875,21,conf/mir,[''],0.714285714286,0.9375
+21,22,conf/jcdl,[''],0.136363636364,0.1875,22,conf/icde,[''],0.5,0.6875,22,conf/isi,[''],0.681818181818,0.9375
+22,23,conf/spire,['Information retrieval'],0.173913043478,0.25,23,conf/ercimdl,[''],0.478260869565,0.6875,23,conf/icwsm,['World Wide Web'],0.652173913043,0.9375
+23,24,conf/trec,['Information retrieval'],0.208333333333,0.3125,24,conf/icmcs,['Multimedia'],0.458333333333,0.6875,24,conf/mmm,['Multimedia'],0.625,0.9375
+24,25,conf/mmm,['Multimedia'],0.2,0.3125,25,conf/sigmod,['Database'],0.44,0.6875,25,journals/jasis,['Information retrieval'],0.64,1.0
+25,26,conf/inex,['Information retrieval'],0.230769230769,0.375,26,conf/airs,['Information retrieval'],0.461538461538,0.75,26,conf/sdm,['Data mining'],0.615384615385,1.0
+26,27,journals/ipm,['Information retrieval'],0.259259259259,0.4375,27,conf/coling,['Natural language processing'],0.444444444444,0.75,27,conf/mm,['Multimedia'],0.592592592593,1.0
+27,28,journals/sigir,['Information retrieval'],0.285714285714,0.5,28,conf/ijcai,['Artificial intelligence'],0.428571428571,0.75,28,conf/kdd,"['Data mining', 'Knowledge management']",0.571428571429,1.0
+28,29,conf/airs,['Information retrieval'],0.310344827586,0.5625,29,conf/riao,['Information retrieval'],0.448275862069,0.8125,29,journals/tkde,['Knowledge management'],0.551724137931,1.0
+29,30,conf/chi,['Human-computer interaction'],0.3,0.5625,30,conf/inex,['Information retrieval'],0.466666666667,0.875,30,conf/naacl,['Natural language processing'],0.533333333333,1.0
+30,31,conf/cikm,"['Database', 'Knowledge management']",0.290322580645,0.5625,31,conf/icml,['Machine learning'],0.451612903226,0.875,31,journals/pvldb,['Database'],0.516129032258,1.0
+31,32,conf/ecir,['Information retrieval'],0.3125,0.625,32,conf/nips,['Machine learning'],0.4375,0.875,32,conf/dgo,[''],0.5,1.0
+32,33,journals/jasis,['Information retrieval'],0.333333333333,0.6875,33,conf/vldb,['Database'],0.424242424242,0.875,33,conf/emnlp,['Natural language processing'],0.484848484848,1.0
+33,34,conf/mm,['Multimedia'],0.323529411765,0.6875,34,conf/mmm,['Multimedia'],0.411764705882,0.875,34,conf/icdm,['Data mining'],0.470588235294,1.0
+34,35,journals/tois,['Information retrieval'],0.342857142857,0.75,35,conf/isi,[''],0.4,0.875,35,conf/webi,['World Wide Web'],0.457142857143,1.0
+35,36,conf/ntcir,['Information retrieval'],0.361111111111,0.8125,36,conf/webi,['World Wide Web'],0.388888888889,0.875,36,conf/acl,['Natural language processing'],0.444444444444,1.0
+36,37,conf/kdd,"['Data mining', 'Knowledge management']",0.351351351351,0.8125,37,conf/naacl,['Natural language processing'],0.378378378378,0.875,37,journals/tmm,['Multimedia'],0.432432432432,1.0
+37,38,journals/tkde,['Knowledge management'],0.342105263158,0.8125,38,journals/cacm,['Algorithm'],0.368421052632,0.875,38,conf/icde,[''],0.421052631579,1.0
+38,39,conf/acl,['Natural language processing'],0.333333333333,0.8125,39,conf/chi,['Human-computer interaction'],0.358974358974,0.875,39,conf/vldb,['Database'],0.410256410256,1.0
+39,40,conf/icdm,['Data mining'],0.325,0.8125,40,journals/pvldb,['Database'],0.35,0.875,40,conf/icml,['Machine learning'],0.4,1.0
+40,41,conf/ercimdl,[''],0.317073170732,0.8125,41,conf/iiix,['Information retrieval'],0.365853658537,0.9375,41,conf/sigmod,['Database'],0.390243902439,1.0
+41,42,conf/riao,['Information retrieval'],0.333333333333,0.875,42,conf/cvpr,['Pattern recognition'],0.357142857143,0.9375,42,conf/coling,['Natural language processing'],0.380952380952,1.0
+42,43,conf/isi,[''],0.325581395349,0.875,43,conf/emnlp,['Natural language processing'],0.348837209302,0.9375,43,conf/aaai,['Artificial intelligence'],0.372093023256,1.0
+43,44,journals/cacm,['Algorithm'],0.318181818182,0.875,44,conf/sdm,['Data mining'],0.340909090909,0.9375,44,conf/ijcai,['Artificial intelligence'],0.363636363636,1.0
+44,45,journals/pvldb,['Database'],0.311111111111,0.875,45,conf/ictir,['Information retrieval'],0.355555555556,1.0,45,conf/icmcs,['Multimedia'],0.355555555556,1.0
+45,46,conf/iiix,['Information retrieval'],0.326086956522,0.9375,46,conf/mir,[''],0.347826086957,1.0,46,conf/nips,['Machine learning'],0.347826086957,1.0
+46,47,conf/ictir,['Information retrieval'],0.340425531915,1.0,47,journals/tmm,['Multimedia'],0.340425531915,1.0,47,conf/lrec,[''],0.340425531915,1.0
+47,48,conf/mir,[''],0.333333333333,1.0,48,conf/icwsm,['World Wide Web'],0.333333333333,1.0,48,conf/cvpr,['Pattern recognition'],0.333333333333,1.0
+48,49,journals/tmm,['Multimedia'],0.326530612245,1.0,49,conf/dgo,[''],0.326530612245,1.0,49,journals/cacm,['Algorithm'],0.326530612245,1.0
+49,50,conf/dgo,[''],0.32,1.0,50,conf/lrec,[''],0.32,1.0,50,conf/chi,['Human-computer interaction'],0.32,1.0

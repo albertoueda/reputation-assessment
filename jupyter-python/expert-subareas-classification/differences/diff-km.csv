@@ -1,0 +1,32 @@
+,Sent,Subareas,Ranked
+0,conf/ictir,"['Information retrieval', 'Machine learning']",
+1,journals/tkdd,['Data mining'],
+2,conf/widm,[''],
+3,conf/inex,['Information retrieval'],
+4,journals/tist,['Algorithm'],
+5,journals/www,['World Wide Web'],
+6,journals/sigkdd,"['Data mining', 'Knowledge management']",
+7,conf/spire,['Information retrieval'],
+8,conf/adc,['Database'],
+9,journals/datamine,"['Data mining', 'Knowledge management']",
+10,journals/dpd,"['Database', 'Distributed computing']",
+11,conf/ssd,['Database'],
+12,conf/riao,['Information retrieval'],
+13,conf/dawak,['Data mining'],
+14,conf/icadl,['Information retrieval'],
+15,,[''],
+16,,,conf/ercimdl
+17,,,conf/dexa
+18,,,journals/is
+19,,,journals/ipm
+20,,,conf/er
+21,,,conf/icdcs
+22,,,conf/mm
+23,,,conf/semweb
+24,,,conf/aaai
+25,,,journals/jasis
+26,,,conf/acl
+27,,,conf/sac
+28,,,conf/ijcai
+29,,,conf/icmcs
+30,,,journals/isci

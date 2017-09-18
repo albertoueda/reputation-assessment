@@ -1,0 +1,27 @@
+wget "http://localhost:8000/experiment/new/?area=53a386eb2c278254fcbd9de7&top=53a386eb2c278254fcbda8b3,53a386eb2c278254fcbda16e,53a386eb2c278254fcbda58e&model=rscore&year=2010,2012&view=VenueCSVRank" -O cs7-2010-2012.csv
+
+
+
+mongoexport --db rscore_mongo --collection venue --out venue.json
+
+#cs,edu,emec,geo
+area_ids = "53a386eb2c278254fcbd9de7,53a386eb2c278254fcbd9df2,53a386eb2c278254fcbd9dfa,53a386eb2c278254fcbd9e0d".split(',')
+#dir,fil,fis
+area_ids+= "53a386eb2c278254fcbd9dee,53a386eb2c278254fcbd9e06,53a386eb2c278254fcbd9e0a".split(',')
+
+wget "http://localhost:8000/experiment/new/?area=53a386eb2c278254fcbd9de7&top=all&model=rscore&year=0,2014&view=VenueCSVRank" -O cs_all-0-2014.csv
+wget "http://localhost:8000/experiment/new/?area=53a386eb2c278254fcbd9df2&top=all&model=rscore&year=0,2014&view=VenueCSVRank" -O edu_all-0-2014.csv
+wget "http://localhost:8000/experiment/new/?area=53a386eb2c278254fcbd9dfa&top=all&model=rscore&year=0,2014&view=VenueCSVRank" -O emec_all-0-2014.csv
+wget "http://localhost:8000/experiment/new/?area=53a386eb2c278254fcbd9e0d&top=all&model=rscore&year=0,2014&view=VenueCSVRank" -O geo_all-0-2014.csv
+wget "http://localhost:8000/experiment/new/?area=53a386eb2c278254fcbd9dee&top=all&model=rscore&year=0,2014&view=VenueCSVRank" -O dir_all-0-2014.csv
+wget "http://localhost:8000/experiment/new/?area=53a386eb2c278254fcbd9e06&top=all&model=rscore&year=0,2014&view=VenueCSVRank" -O fil_all-0-2014.csv
+wget "http://localhost:8000/experiment/new/?area=53a386eb2c278254fcbd9e0a&top=all&model=rscore&year=0,2014&view=VenueCSVRank" -O fis_all-0-2014.csv
+
+cat cs_all-0-2014.csv | awk -F',' '{print $3}' > cs_all-0-2014.txt
+cat edu_all-0-2014.csv | awk -F',' '{print $3}' > edu_all-0-2014.txt
+cat emec_all-0-2014.csv | awk -F',' '{print $3}' > emec_all-0-2014.txt
+cat geo_all-0-2014.csv | awk -F',' '{print $3}' > geo_all-0-2014.txt
+cat dir_all-0-2014.csv | awk -F',' '{print $3}' > dir_all-0-2014.txt
+cat fil_all-0-2014.csv | awk -F',' '{print $3}' > fil_all-0-2014.txt
+cat fis_all-0-2014.csv | awk -F',' '{print $3}' > fis_all-0-2014.txt
+

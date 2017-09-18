@@ -1,0 +1,51 @@
+,Rank.0,Vkey.0,Subareas.0,Precision.0@k,Recall.0@k,Rank.1,Vkey.1,Subareas.1,Precision.1@k,Recall.1@k,Rank.2,Vkey.2,Subareas.2,Precision.2@k,Recall.2@k
+0,1,conf/infocom,['Computer network'],1.0,0.025,1,conf/infocom,['Computer network'],1.0,0.025,1,journals/ton,['Computer network'],1.0,0.025
+1,2,conf/networking,['Computer network'],1.0,0.05,2,conf/globecom,['Computer network'],1.0,0.05,2,conf/infocom,['Computer network'],1.0,0.05
+2,3,conf/isit,[''],0.666666666667,0.05,3,journals/ton,['Computer network'],1.0,0.075,3,conf/mobihoc,['Computer network'],1.0,0.075
+3,4,conf/globecom,['Computer network'],0.75,0.075,4,conf/icc,['Computer network'],1.0,0.1,4,conf/icnp,['Computer network'],1.0,0.1
+4,5,conf/icc,['Computer network'],0.8,0.1,5,journals/jsac,['Computer network'],1.0,0.125,5,conf/iwqos,['Computer network'],1.0,0.125
+5,6,journals/adhoc,['Computer network'],0.833333333333,0.125,6,journals/cn,['Computer network'],1.0,0.15,6,conf/imc,['Computer network'],1.0,0.15
+6,7,journals/comcom,['Computer network'],0.857142857143,0.15,7,journals/tpds,"['Distributed computing', 'Parallel computing']",0.857142857143,0.15,7,journals/tmc,['Computer network'],1.0,0.175
+7,8,conf/vtc,[''],0.75,0.15,8,journals/twc,['Computer network'],0.875,0.175,8,conf/wiopt,['Computer network'],1.0,0.2
+8,9,conf/sigmetrics,['Computer network'],0.777777777778,0.175,9,journals/tmc,['Computer network'],0.888888888889,0.2,9,conf/sigmetrics,['Computer network'],1.0,0.225
+9,10,journals/sigmetrics,['Computer network'],0.8,0.2,10,conf/sigmetrics,['Computer network'],0.9,0.225,10,conf/conext,['Computer network'],1.0,0.25
+10,11,journals/pe,['Computer network'],0.818181818182,0.225,11,conf/wcnc,['Computer network'],0.909090909091,0.25,11,conf/sigcomm,['Computer network'],1.0,0.275
+11,12,conf/rtss,['Real-time computing'],0.75,0.225,12,conf/sigcomm,['Computer network'],0.916666666667,0.275,12,conf/mobicom,['Computer network'],1.0,0.3
+12,13,conf/pimrc,"['Computer network', 'Telecommunications']",0.769230769231,0.25,13,conf/icdcs,['Distributed computing'],0.846153846154,0.275,13,conf/secon,['Computer network'],1.0,0.325
+13,14,journals/winet,['Computer network'],0.785714285714,0.275,14,journals/tit,['Data science'],0.785714285714,0.275,14,journals/ccr,['Computer network'],1.0,0.35
+14,15,conf/icpp,['Parallel computing'],0.733333333333,0.275,15,journals/tc,['Computer network'],0.8,0.3,15,journals/network,['Computer network'],1.0,0.375
+15,16,conf/icnp,['Computer network'],0.75,0.3,16,journals/comcom,['Computer network'],0.8125,0.325,16,conf/broadnets,['Computer network'],1.0,0.4
+16,17,conf/mass,['Computer network'],0.764705882353,0.325,17,journals/tcom,['Computer network'],0.823529411765,0.35,17,journals/winet,['Computer network'],1.0,0.425
+17,18,conf/icccn,['Computer network'],0.777777777778,0.35,18,conf/icnp,['Computer network'],0.833333333333,0.375,18,journals/adhoc,['Computer network'],1.0,0.45
+18,19,conf/lcn,['Computer network'],0.789473684211,0.375,19,conf/mobicom,['Computer network'],0.842105263158,0.4,19,conf/mass,['Computer network'],1.0,0.475
+19,20,conf/iwqos,['Computer network'],0.8,0.4,20,journals/winet,['Computer network'],0.85,0.425,20,conf/networking,['Computer network'],1.0,0.5
+20,21,conf/imc,['Computer network'],0.809523809524,0.425,21,conf/icccn,['Computer network'],0.857142857143,0.45,21,journals/jsac,['Computer network'],1.0,0.525
+21,22,journals/ton,['Computer network'],0.818181818182,0.45,22,journals/tvt,[''],0.818181818182,0.45,22,journals/tpds,"['Distributed computing', 'Parallel computing']",0.954545454545,0.525
+22,23,journals/jsac,['Computer network'],0.826086956522,0.475,23,journals/pe,['Computer network'],0.826086956522,0.475,23,journals/pe,['Computer network'],0.95652173913,0.55
+23,24,journals/cn,['Computer network'],0.833333333333,0.5,24,conf/mobihoc,['Computer network'],0.833333333333,0.5,24,conf/icdcs,['Distributed computing'],0.916666666667,0.55
+24,25,journals/tpds,"['Distributed computing', 'Parallel computing']",0.8,0.5,25,conf/networking,['Computer network'],0.84,0.525,25,journals/monet,['Computer network'],0.92,0.575
+25,26,journals/twc,['Computer network'],0.807692307692,0.525,26,conf/wiopt,['Computer network'],0.846153846154,0.55,26,journals/sigmetrics,['Computer network'],0.923076923077,0.6
+26,27,journals/tmc,['Computer network'],0.814814814815,0.55,27,conf/mass,['Computer network'],0.851851851852,0.575,27,journals/cn,['Computer network'],0.925925925926,0.625
+27,28,conf/wcnc,['Computer network'],0.821428571429,0.575,28,journals/adhoc,['Computer network'],0.857142857143,0.6,28,conf/sensys,['Computer network'],0.928571428571,0.65
+28,29,conf/sigcomm,['Computer network'],0.827586206897,0.6,29,conf/secon,['Computer network'],0.862068965517,0.625,29,conf/icccn,['Computer network'],0.931034482759,0.675
+29,30,conf/icdcs,['Distributed computing'],0.8,0.6,30,journals/ccr,['Computer network'],0.866666666667,0.65,30,journals/wc,['Computer network'],0.933333333333,0.7
+30,31,journals/tit,['Data science'],0.774193548387,0.6,31,conf/icpp,['Parallel computing'],0.838709677419,0.65,31,conf/rtss,['Real-time computing'],0.903225806452,0.7
+31,32,journals/tc,['Computer network'],0.78125,0.625,32,conf/imc,['Computer network'],0.84375,0.675,32,journals/questa,['Computer network'],0.90625,0.725
+32,33,journals/tcom,['Computer network'],0.787878787879,0.65,33,journals/monet,['Computer network'],0.848484848485,0.7,33,conf/globecom,['Computer network'],0.909090909091,0.75
+33,34,conf/mobicom,['Computer network'],0.794117647059,0.675,34,journals/questa,['Computer network'],0.852941176471,0.725,34,journals/twc,['Computer network'],0.911764705882,0.775
+34,35,journals/tvt,[''],0.771428571429,0.675,35,conf/iwqos,['Computer network'],0.857142857143,0.75,35,conf/icc,['Computer network'],0.914285714286,0.8
+35,36,conf/mobihoc,['Computer network'],0.777777777778,0.7,36,conf/ipps,['Parallel computing'],0.833333333333,0.75,36,journals/comcom,['Computer network'],0.916666666667,0.825
+36,37,conf/wiopt,['Computer network'],0.783783783784,0.725,37,journals/icl,['Computer network'],0.837837837838,0.775,37,journals/tvt,[''],0.891891891892,0.825
+37,38,conf/secon,['Computer network'],0.789473684211,0.75,38,conf/sensys,['Computer network'],0.842105263158,0.8,38,conf/wcnc,['Computer network'],0.894736842105,0.85
+38,39,journals/ccr,['Computer network'],0.794871794872,0.775,39,journals/sigmetrics,['Computer network'],0.846153846154,0.825,39,journals/tc,['Computer network'],0.897435897436,0.875
+39,40,journals/monet,['Computer network'],0.8,0.8,40,conf/conext,['Computer network'],0.85,0.85,40,conf/icpp,['Parallel computing'],0.875,0.875
+40,41,journals/questa,['Computer network'],0.80487804878,0.825,41,conf/vtc,[''],0.829268292683,0.85,41,conf/lcn,['Computer network'],0.878048780488,0.9
+41,42,conf/ipps,['Parallel computing'],0.785714285714,0.825,42,journals/wc,['Computer network'],0.833333333333,0.875,42,journals/tcom,['Computer network'],0.880952380952,0.925
+42,43,journals/icl,['Computer network'],0.790697674419,0.85,43,conf/broadnets,['Computer network'],0.837209302326,0.9,43,journals/jpdc,"['Distributed computing', 'Parallel computing']",0.860465116279,0.925
+43,44,conf/sensys,['Computer network'],0.795454545455,0.875,44,conf/pimrc,"['Computer network', 'Telecommunications']",0.840909090909,0.925,44,journals/tit,['Data science'],0.840909090909,0.925
+44,45,conf/conext,['Computer network'],0.8,0.9,45,journals/ieicet,['Computer network'],0.844444444444,0.95,45,conf/isit,[''],0.822222222222,0.925
+45,46,journals/wc,['Computer network'],0.804347826087,0.925,46,journals/jpdc,"['Distributed computing', 'Parallel computing']",0.826086956522,0.95,46,journals/icl,['Computer network'],0.826086956522,0.95
+46,47,conf/broadnets,['Computer network'],0.808510638298,0.95,47,conf/rtss,['Real-time computing'],0.808510638298,0.95,47,conf/ipps,['Parallel computing'],0.808510638298,0.95
+47,48,journals/ieicet,['Computer network'],0.8125,0.975,48,journals/network,['Computer network'],0.8125,0.975,48,conf/pimrc,"['Computer network', 'Telecommunications']",0.8125,0.975
+48,49,journals/jpdc,"['Distributed computing', 'Parallel computing']",0.795918367347,0.975,49,conf/lcn,['Computer network'],0.816326530612,1.0,49,conf/vtc,[''],0.795918367347,0.975
+49,50,journals/network,['Computer network'],0.8,1.0,50,conf/isit,[''],0.8,1.0,50,journals/ieicet,['Computer network'],0.8,1.0

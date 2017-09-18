@@ -1,0 +1,272 @@
+,Name,Natural language processing pscore 5 years,Natural language processing year 5 years,Natural language processing year combined 5 years
+0,Stanford University,116599.834524,14302.9202673,1085441481.68
+1,University of California-Berkeley,102110.793651,10415.6935224,1018662236.58
+2,Massachusetts Institute of Technology,87573.7071429,6757.74291882,373517550.249
+3,Carnegie Mellon University,270260.482143,12689.069967,422759270.56
+4,University of Illinois at Urbana-Champaign,104518.002381,6024.97945162,329802118.214
+5,Princeton University,11570.8833333,90.4500281844,472963.197376
+6,Cornell University,79970.677381,4905.75520197,178716957.52
+7,University of California-Santa Barbara,24080.4444444,457.316939478,3433078.26466
+8,University of North Carolina at Chapel Hill,2443.75,0.0,0.0
+9,University of California-Los Angeles,45765.6690476,183.367313309,1939617.8939
+10,University of Texas at Austin,49221.0952381,2093.04745727,64862060.3089
+11,Georgia Institute of Technology,61054.8190476,1497.77577455,39251261.9036
+12,Michigan State University,29123.6880952,670.958654773,7201789.398
+13,University of Maryland College Park,17526.4880952,1127.92780429,31481724.914
+14,University of California-San Diego,28195.2285714,314.36916516,1750086.24351
+15,University of Michigan-Ann Arbor,16335.7,556.101886263,4640634.30927
+16,University of Southern California,208274.75,15362.1717979,1000493212.05
+17,University of Pennsylvania,103981.15,11270.7753179,394079182.673
+18,University of Massachusetts Amherst,84520.3166667,3925.36826579,101188929.706
+19,University of Wisconsin-Madison,27268.5142857,1561.72857452,24550558.5588
+20,Harvard University,29250.4333333,2596.37019481,44211605.9381
+21,University of Rochester,58707.4595238,6882.13718489,318081602.762
+22,University of Washington,135117.549206,14352.2960109,706235845.687
+23,Purdue University Main Campus,28293.5404762,649.24359014,6859369.27677
+24,Duke University,19905.4416667,38.4679855086,214651.359138
+25,New York University,48867.247619,3543.70840766,202429417.922
+26,Tufts University,6398.16666667,0.0,0.0
+27,State University of New York at Stony Brook,5544.75,10.5838222183,24010.0905356
+28,Louisiana State University and Agricultural and Mechanical College,3296.16666667,0.0,0.0
+29,University of California-Riverside,19760.8055556,4.88034642458,49154.8491884
+30,Penn State University,44.0,0.0,0.0
+31,University of Minnesota-Twin Cities,1716.5,0.0,0.0
+32,Brown University,36677.6,3712.48614875,205293059.053
+33,Rice University,5750.35952381,0.0,0.0
+34,University of California-Irvine,38131.7083333,211.097120604,1358330.78162
+35,Ohio State University Main Campus,2719.91666667,0.0,0.0
+36,Yale University,27362.3833333,2736.16489764,124348399.422
+37,Arizona State University,41248.5416667,42.6320853447,321434.812263
+38,University of Nebraska - Lincoln,871.333333333,0.0,0.0
+39,Columbia University In The City of New York,2736.16666667,20.4646111193,146854.049392
+40,University of Connecticut,8485.41666667,12.2937456015,46072.4078734
+41,University of California-Davis,15934.8111111,10.1582491582,49196.4006734
+42,State University of New York at Buffalo,1042.53333333,0.0,0.0
+43,Texas A & M University,668.166666667,0.0,0.0
+44,University of Oklahoma Norman Campus,3968.16666667,0.0,0.0
+45,University of Pittsburgh Pittsburgh Campus,1814.83333333,0.0,0.0
+46,University of Utah,21511.3,2340.43172571,56774686.1381
+47,University of California-Santa Cruz,35934.5,1621.27398991,75077547.8654
+48,Indiana University at Bloomington,6029.75952381,208.570530428,1058286.87139
+49,University of Virginia,9800.50952381,615.049943371,3474818.24668
+50,University of South Florida,7916.61666667,0.0,0.0
+51,University of Arizona,15883.2833333,2072.24398711,34928592.2272
+52,Virginia Polytechnic Institute and State University,2242.23333333,0.0,0.0
+53,University of Chicago,9449.62142857,118.614457117,2124622.15588
+54,Washington University In St. Louis,596.333333333,0.0,0.0
+55,Georgia State University,4160.71666667,0.0,0.0
+56,North Carolina State University,17360.0833333,34.8726532162,251925.202329
+57,University of Tennessee,15002.7166667,118.737587197,1725138.40438
+58,Johns Hopkins University,75250.6083333,16209.0954152,610851667.23
+59,Vanderbilt University,7761.01666667,0.0,0.0
+60,Florida Institute of Technology,3229.33333333,0.0,0.0
+61,University of Colorado at Boulder,9752.6,306.322200017,5890131.40876
+62,Lehigh University,8896.91666667,9.54220779221,38769.9902597
+63,University of Central Florida,15668.3547619,176.577829027,1498969.19061
+64,University of Kentucky,10184.8047619,7.55837359419,5691.45531642
+65,Florida State University,4832.75,0.0,0.0
+66,Oklahoma State University Main Campus,1206.75,0.0,0.0
+67,Washington State University,10303.775,16.2614632915,44702.7625882
+68,Iowa State University,7935.66666667,18.4414246317,69111.1595864
+69,Northwestern University,48832.0607143,747.166043755,8188088.49904
+70,Dartmouth College,7267.33333333,4.98090019311,34094.2618219
+71,Boston University,5859.12142857,10.9794148293,30226.3290251
+72,University of Georgia,4603.25,0.0,0.0
+73,Rutgers The State University of New Jersey New Brunswick Campus,379.75,0.0,0.0
+74,University of Maryland Baltimore County,4053.2,7.34523809524,16908.7380952
+75,California Institute of Technology,9298.71666667,70.3421735463,221229.63502
+76,University of Delaware,26892.1944444,1186.27633935,24496148.2313
+77,University of Texas at Dallas,64599.1309524,6606.09848314,286392444.614
+78,University of Cincinnati Main Campus,3296.33333333,0.0,0.0
+79,Kent State University Main Campus,2195.27142857,0.0,0.0
+80,Oregon State University,37685.9333333,2333.00985538,68504660.8936
+81,University of Iowa,4192.78333333,2.93353345075,6882.06947545
+82,Rensselaer Polytechnic Institute,33049.7583333,2718.95851696,99051242.9119
+83,University of Florida,11804.7880952,6.61704041296,15189.3953504
+84,Northeastern University,28390.8833333,611.295302592,8927203.71722
+85,Illinois Institute of Technology,9142.4,71.1228926399,378632.534899
+86,Auburn University,1561.08333333,0.0,0.0
+87,Wayne State University,5344.86666667,0.0,0.0
+88,University of Oregon,10430.9595238,0.0,0.0
+89,Wright State University Main Campus,11503.4166667,220.404306228,2202579.80773
+90,University of Illinois at Chicago,50219.6928571,2086.44820365,64565863.1342
+91,Brandeis University,25301.95,3442.22395361,84067039.1709
+92,North Dakota State University Main Campus,4464.25,14.6721637686,26113.4094814
+93,City University of New York Grad. Center,411.0,0.0,0.0
+94,State University of New York at Binghamton,1765.25,0.0,0.0
+95,University of North Carolina at Charlotte,7255.65833333,4.74074146767,16290.8994313
+96,Case Western Reserve University,12109.575,24.3550568763,120581.886595
+97,University of New Mexico Main Campus,2258.7,0.0,0.0
+98,Syracuse University Main Campus,14709.0833333,19.4673650253,28169.2771917
+99,New Mexico State University Main Campus,140.0,0.0,0.0
+100,New Jersey Institute of Technology,24.0,0.0,0.0
+101,University of South Carolina Columbia,5024.6047619,0.0,0.0
+102,College of William and Mary,3124.83333333,0.0,0.0
+103,Florida International University,14299.3583333,28.7982038084,672322.86611
+104,George Washington University,21510.6,4040.55049054,164490188.937
+105,Old Dominion University,5679.91666667,21.4191104019,142694.113497
+106,Texas Tech University,4740.66666667,1.8292058434,1651.21684337
+107,University of Kansas,10333.7361111,15.3643402252,40976.6953807
+108,University of Arkansas Main Campus,1954.53333333,3.27602720388,6031.16608234
+109,University of Alabama,4326.73333333,4.53384582063,16253.837267
+110,Mississippi State University,5016.98809524,4.5777200202,3566.04389574
+111,University of Houston,7251.88333333,0.0,0.0
+112,University of North Texas,6396.91666667,8.43939452381,15647.5787616
+113,Clemson University,2152.83333333,0.0,0.0
+114,State University of New York at Albany,14399.4595238,1043.5497188,23630757.0295
+115,Brigham Young University,11784.625,330.708241045,4583455.40336
+116,Kansas State University,2108.03333333,0.0,0.0
+117,University of Alabama In Huntsville,937.183333333,0.50776730935,100.755620029
+118,University of Memphis,6883.93333333,47.0224791724,508971.314562
+119,Temple University,15675.5,1592.81379782,25502398.3738
+120,University of Louisiana at Lafayette,4362.66666667,0.0,0.0
+121,University of Alabama at Birmingham,5330.5,314.043261751,3374708.89078
+122,Oregon Health and Science University,35845.4,4711.09499427,203491901.559
+123,Western Michigan University,836.5,0.0,0.0
+124,Southern Methodist University,3138.66666667,0.0,0.0
+125,University of Southern Mississippi,2947.33333333,0.0,0.0
+126,Universidade de Brasília,723.333333333,0.0,0.0
+127,Universidade Federal de Uberlândia,520.833333333,0.0,0.0
+128,USP - São Carlos,7926.45,44.6297599595,154504.480819
+129,Universidade de São Paulo,2459.16666667,0.0,0.0
+130,Universidade do Vale do Rio dos Sinos,406.166666667,0.0,0.0
+131,Universidade de Fortaleza,1359.33333333,96.7520914692,352177.612948
+132,Universidade Federal de Campina Grande,903.75,0.0,0.0
+133,Universidade Federal da Bahia,154.833333333,0.0,0.0
+134,Universidade Federal do Amazonas,2316.75,3.21476547604,15739.4917707
+135,Universidade Federal de Minas Gerais,8015.88333333,4.28795736822,20634.1006443
+136,Universidade Federal do Espírito Santo,606.75,0.0,0.0
+137,Universidade Federal de Pernambuco,6378.38333333,43.4778768157,190650.489837
+138,Universidade Federal de Mato Grosso do Sul,94.25,0.0,0.0
+139,Universidade Federal de São Carlos,2065.96666667,3.44923604534,7098.5277813
+140,Universidade Federal de Santa Catarina,738.083333333,0.0,0.0
+141,Universidade Federal do Rio Grande de Norte,854.1,0.0,0.0
+142,Universidade Federal do Rio de Janeiro,2052.58333333,0.0,0.0
+143,Pontifícia Universidade Católica do Rio Grande do Sul,4660.08333333,48.066189075,261633.111704
+144,Pontifícia Universidade Católica do Rio de Janeiro,3284.23333333,17.0650174466,47466.9851368
+145,Pontifícia Universidade Católica do Paraná,1659.16666667,0.0,0.0
+146,Universidade Estadual de Campinas,5311.25,0.0,0.0
+147,Universidade Federal do Ceará,671.466666667,0.0,0.0
+148,Universidade Federal do Rio Grande do Sul,9448.75,484.657193334,4632353.45389
+149,Universidade Federal do Paraná,1666.83333333,0.0,0.0
+150,Universidade Federal Fluminense,1968.28333333,0.0,0.0
+151,Imperial College London,19951.5416667,0.0,0.0
+152,University of Oxford,44477.4166667,4285.36783631,116117304.56
+153,University of Cambridge,46713.6166667,8641.41108546,266597332.781
+154,ETH Zurich,22446.5833333,44.7814514443,336129.574541
+155,École Polytechnique ParisTech,2336.11666667,0.0,0.0
+156,University of Texas at Arlington,,,
+157,Ecole Normale Superieure,,,
+158,IIIT Bangalore,,,
+159,Nanyang Technological University,,,
+160,University of Waterloo,,,
+161,Western University,,,
+162,University of Nebraska,,,
+163,Victoria University of Wellington,,,
+164,University of Queensland,,,
+165,Indiana University-Purdue University Indianapolis,,,
+166,Chulalongkorn University,,,
+167,University of Pittsburgh,,,
+168,University of Michigan,,,
+169,IIT Madras,,,
+170,City University of New York,,,
+171,University of British Columbia,,,
+172,Queen’s University,,,
+173,Virginia Commonwealth University,,,
+174,Polytechnic University of Catalonia,,,
+175,Emory University,,,
+176,Ecole Normale Superieure de Cachan,,,
+177,Georgetown University,,,
+178,Binghamton University,,,
+179,University of Otago,,,
+180,VU Amsterdam,,,
+181,McMaster University,,,
+182,Monash University,,,
+183,Tel Aviv University,,,
+184,Boise State University,,,
+185,Drexel University,,,
+186,Boston College,,,
+187,University of Bristol,,,
+188,University of Kent,,,
+189,Politecnico di Milano,,,
+190,Australian National University,,,
+191,Toyota Technological Institute at Chicago,,,
+192,Technion-Israel Institute of Technology,,,
+193,TU Delft,,,
+194,University of Minnesota,,,
+195,New Mexico State University,,,
+196,Pennsylvania State University,,,
+197,TU Dresden,,,
+198,University of Salerno,,,
+199,Washington University in St. Louis,,,
+200,McGill University,,,
+201,Naval Postgraduate School,,,
+202,University of Edinburgh,,,
+203,RWTH Aachen,,,
+204,University of Bath,,,
+205,IIT Kharagpur,,,
+206,University of Melbourne,,,
+207,IMDEA Software Institute,,,
+208,University of Sydney,,,
+209,University of North Carolina,,,
+210,IIIT Delhi,,,
+211,University of Nevada,,,
+212,Concordia University,,,
+213,IISc Bangalore,,,
+214,Rochester Institute of Technology,,,
+215,DIKU,,,
+216,Chulalongkorn Uniersity,,,
+217,Worcester Polytechnic Institute,,,
+218,IST Austria,,,
+219,University College London,,,
+220,Columbia University,,,
+221,Massey University,,,
+222,University of Miami,,,
+223,IIT Roorkee,,,
+224,University of Tartu,,,
+225,University of Victoria,,,
+226,Carleton University,,,
+227,Athens University of Economics and Business,,,
+228,Texas A&M University,,,
+229,EPFL,,,
+230,Bar-Ilan University,,,
+231,University of Maryland-College Park,,,
+232,IIT Kanpur,,,
+233,University of Adelaide,,,
+234,University of Warsaw,,,
+235,Stony Brook University,,,
+236,University of Notre Dame,,,
+237,University of Western Australia,,,
+238,IIT Hyderabad,,,
+239,IIT Bombay,,,
+240,IIIT Hyderabad,,,
+241,University of Maryland-Baltimore County,,,
+242,University of New South Wales,,,
+243,University of Alberta,,,
+244,Aarhus University,,,
+245,University of Zurich,,,
+246,Max Planck Institute,,,
+247,TU Darmstadt,,,
+248,University of Athens,,,
+249,Stevens Institute of Technology,,,
+250,University of Calgary,,,
+251,University of Massachusetts Lowell,,,
+252,Rutgers University,,,
+253,Ecole Normale Superieure de Lyon,,,
+254,Colorado State University,,,
+255,IIT Delhi,,,
+256,BITS Pilani,,,
+257,University of Auckland,,,
+258,National University of Singapore,,,
+259,University of Canterbury,,,
+260,Chennai Mathematical Institute,,,
+261,University of Montreal,,,
+262,George Mason University,,,
+263,University of Luxembourg,,,
+264,Hebrew University of Jerusalem,,,
+265,Simon Fraser University,,,
+266,Indiana University,,,
+267,University of Toronto,,,
+268,University at Buffalo,,,
+269,TU Munich,,,
+270,University of Waikato,,,

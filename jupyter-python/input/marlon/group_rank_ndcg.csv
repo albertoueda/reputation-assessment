@@ -1,0 +1,188 @@
+,Name,ndcg pos
+18,University of Massachusetts Amherst,3.42493555924
+3,Carnegie Mellon University,2.90778265428
+4,University of Illinois at Urbana-Champaign,2.07604692995
+258,National University of Singapore,1.91685367246
+206,University of Melbourne,1.81859249515
+160,University of Waterloo,1.77538845551
+0,Stanford University,1.72679821035
+6,Cornell University,1.59009552806
+11,Georgia Institute of Technology,1.57661017975
+135,Universidade Federal de Minas Gerais,1.50174620153
+23,Purdue University Main Campus,1.38634698806
+16,University of Southern California,1.34227729005
+230,Bar-Ilan University,1.2965410671
+84,Northeastern University,1.23697397936
+193,TU Delft,1.16291321268
+2,Massachusetts Institute of Technology,1.13137158748
+159,Nanyang Technological University,1.09102521939
+219,University College London,1.08873885497
+189,Politecnico di Milano,1.0090707591
+37,Arizona State University,1.00434068591
+180,VU Amsterdam,0.965418081088
+194,University of Minnesota,0.94252334594
+47,University of California-Santa Cruz,0.94199357284
+22,University of Washington,0.896767414732
+177,Georgetown University,0.884155134584
+34,University of California-Irvine,0.882685364851
+265,Simon Fraser University,0.882314057397
+156,University of Texas at Arlington,0.858023581893
+202,University of Edinburgh,0.839287878778
+264,Hebrew University of Jerusalem,0.824630333586
+208,University of Sydney,0.810611268524
+192,Technion-Israel Institute of Technology,0.804261088796
+267,University of Toronto,0.784860083396
+220,Columbia University,0.775431786213
+168,University of Michigan,0.761407278347
+227,Athens University of Economics and Business,0.757488298611
+154,ETH Zurich,0.754917454107
+1,University of California-Berkeley,0.752980929619
+32,Brown University,0.751160998143
+69,Northwestern University,0.74967293821
+243,University of Alberta,0.747411594856
+268,University at Buffalo,0.711646442404
+231,University of Maryland-College Park,0.697562036383
+29,University of California-Riverside,0.690910035295
+134,Universidade Federal do Amazonas,0.684942528305
+228,Texas A&M University,0.679496014027
+76,University of Delaware,0.678988949738
+246,Max Planck Institute,0.662837032122
+164,University of Queensland,0.662245381483
+239,IIT Bombay,0.63126169509
+14,University of California-San Diego,0.60678178535
+169,IIT Madras,0.603611011619
+261,University of Montreal,0.581425533187
+12,Michigan State University,0.572503611198
+7,University of California-Santa Barbara,0.571834953658
+144,Pontifícia Universidade Católica do Rio de Janeiro,0.570353388963
+196,Pennsylvania State University,0.564518011518
+61,University of Colorado at Boulder,0.559937498999
+182,Monash University,0.55635384821
+77,University of Texas at Dallas,0.540140235543
+9,University of California-Los Angeles,0.528178469402
+103,Florida International University,0.515167728423
+235,Stony Brook University,0.511488595837
+90,University of Illinois at Chicago,0.51050034216
+17,University of Pennsylvania,0.496659174057
+25,New York University,0.496146628176
+152,University of Oxford,0.493225392146
+205,IIT Kharagpur,0.492930045274
+52,Virginia Polytechnic Institute and State University,0.491885073791
+255,IIT Delhi,0.490601373611
+83,University of Florida,0.483151539173
+95,University of North Carolina at Charlotte,0.477344016417
+190,Australian National University,0.476015924979
+252,Rutgers University,0.473994802621
+248,University of Athens,0.46596191517
+151,Imperial College London,0.465535022561
+62,Lehigh University,0.462961571732
+24,Duke University,0.459247044835
+171,University of British Columbia,0.456523727418
+234,University of Warsaw,0.454961291339
+5,Princeton University,0.454754556471
+266,Indiana University,0.446761043592
+33,Rice University,0.440263098475
+49,University of Virginia,0.437735927924
+179,University of Otago,0.436506143392
+8,University of North Carolina at Chapel Hill,0.429082527826
+85,Illinois Institute of Technology,0.420915442815
+215,DIKU,0.412084312157
+101,University of South Carolina Columbia,0.4049999984
+15,University of Michigan-Ann Arbor,0.390591290417
+48,Indiana University at Bloomington,0.386301932107
+175,Emory University,0.381955960924
+236,University of Notre Dame,0.37884962157
+51,University of Arizona,0.375970464575
+13,University of Maryland College Park,0.372089631483
+57,University of Tennessee,0.369864117857
+153,University of Cambridge,0.364262015426
+82,Rensselaer Polytechnic Institute,0.362315062448
+21,University of Rochester,0.357269848013
+63,University of Central Florida,0.353288866656
+167,University of Pittsburgh,0.350147611832
+58,Johns Hopkins University,0.346088699288
+20,Harvard University,0.345291414716
+10,University of Texas at Austin,0.341928050883
+71,Boston University,0.335527152187
+146,Universidade Estadual de Campinas,0.335483806395
+68,Iowa State University,0.329809471982
+120,University of Louisiana at Lafayette,0.326333142889
+81,University of Iowa,0.318129334807
+128,USP - São Carlos,0.317844777545
+28,Louisiana State University and Agricultural and Mechanical College,0.311470241547
+75,California Institute of Technology,0.290684425255
+105,Old Dominion University,0.28662334196
+178,Binghamton University,0.285506795451
+107,University of Kansas,0.284495898572
+46,University of Utah,0.275442064395
+212,Concordia University,0.270799168142
+213,IISc Bangalore,0.263568145738
+108,University of Arkansas Main Campus,0.259621466115
+19,University of Wisconsin-Madison,0.2500828027
+89,Wright State University Main Campus,0.248987637231
+270,University of Waikato,0.247223375274
+217,Worcester Polytechnic Institute,0.24376008311
+122,Oregon Health and Science University,0.242267853238
+269,TU Munich,0.238746883419
+262,George Mason University,0.235357744716
+233,University of Adelaide,0.235218508718
+41,University of California-Davis,0.2333487986
+241,University of Maryland-Baltimore County,0.228134583186
+162,University of Nebraska,0.228127919356
+56,North Carolina State University,0.227217752215
+118,University of Memphis,0.226819053835
+80,Oregon State University,0.225491939652
+26,Tufts University,0.224709912987
+225,University of Victoria,0.224362670503
+104,George Washington University,0.222922803331
+257,University of Auckland,0.221785580204
+203,RWTH Aachen,0.221346824615
+96,Case Western Reserve University,0.221221351025
+200,McGill University,0.220373520164
+172,Queen’s University,0.2162695211
+209,University of North Carolina,0.21541059361
+126,Universidade de Brasília,0.213083840349
+161,Western University,0.211705598574
+240,IIIT Hyderabad,0.178103593554
+74,University of Maryland Baltimore County,0.173765342871
+114,State University of New York at Albany,0.172969690445
+36,Yale University,0.167948778957
+53,University of Chicago,0.161555467443
+222,University of Miami,0.143798068873
+65,Florida State University,0.139865086595
+229,EPFL,0.139471472826
+39,Columbia University In The City of New York,0.137970474752
+31,University of Minnesota-Twin Cities,0.13743580295
+115,Brigham Young University,0.133194905818
+148,Universidade Federal do Rio Grande do Sul,0.129174483565
+247,TU Darmstadt,0.12590471183
+214,Rochester Institute of Technology,0.12581200275
+92,North Dakota State University Main Campus,0.124394834844
+184,Boise State University,0.123893286629
+204,University of Bath,0.119035156686
+201,Naval Postgraduate School,0.118974797079
+187,University of Bristol,0.118268633956
+70,Dartmouth College,0.115214274189
+87,Wayne State University,0.1135414672
+64,University of Kentucky,0.113253839334
+147,Universidade Federal do Ceará,0.111427880893
+91,Brandeis University,0.110972675714
+183,Tel Aviv University,0.11076765757
+158,IIIT Bangalore,0.110733790197
+143,Pontifícia Universidade Católica do Rio Grande do Sul,0.110532364729
+111,University of Houston,0.110235809843
+186,Boston College,0.108992708454
+176,Ecole Normale Superieure de Cachan,0.108845289919
+139,Universidade Federal de São Carlos,0.10824379622
+109,University of Alabama,0.108076965205
+40,University of Connecticut,0.107939575337
+142,Universidade Federal do Rio de Janeiro,0.107562548457
+138,Universidade Federal de Mato Grosso do Sul,0.107536039416
+94,State University of New York at Binghamton,0.107196360447
+226,Carleton University,0.107017158901
+27,State University of New York at Stony Brook,0.106567723026
+232,IIT Kanpur,0.106518764251
+60,Florida Institute of Technology,0.106039449806
+35,Ohio State University Main Campus,0.105992517762
+150,Universidade Federal Fluminense,0.105945762511
+155,École Polytechnique ParisTech,0.10589918286

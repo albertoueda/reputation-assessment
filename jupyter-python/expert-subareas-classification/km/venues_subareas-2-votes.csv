@@ -1,0 +1,52 @@
+Vkey,Subareas
+conf/ictir,"['Information retrieval', 'Machine learning']"
+conf/wsdm,"['Data mining', 'World Wide Web']"
+conf/cikm,"['Data mining', 'Knowledge management']"
+conf/sigir,"['Information retrieval', 'Knowledge management']"
+conf/ecir,"['Information retrieval', 'Natural language processing']"
+journals/tkdd,"['Data mining', 'Knowledge management']"
+conf/trec,['Information retrieval']
+journals/sigir,"['Information retrieval', 'Machine learning']"
+conf/widm,"['Knowledge management', 'World Wide Web']"
+journals/ir,['Information retrieval']
+conf/sdm,"['Data mining', 'Database']"
+conf/inex,['Information retrieval']
+conf/dasfaa,"['Data mining', 'Database']"
+journals/vldb,"['Data science', 'Database', 'Information retrieval']"
+journals/tois,['Information retrieval']
+journals/tist,"['Algorithm', 'Artificial intelligence']"
+conf/kdd,"['Data mining', 'Knowledge management']"
+journals/tkde,"['Data mining', 'Data science', 'Knowledge management']"
+conf/airs,"['Data mining', 'Information retrieval']"
+journals/pvldb,"['Data science', 'Database', 'Information retrieval']"
+journals/www,['World Wide Web']
+conf/icde,"['Data mining', 'Data science', 'Database']"
+conf/edbt,['Database']
+conf/icdm,"['Data mining', 'Machine learning']"
+journals/sigkdd,"['Data mining', 'Knowledge management']"
+conf/pakdd,['Data mining']
+conf/waim,"['Database', 'World Wide Web']"
+conf/www,['World Wide Web']
+conf/spire,"['Information retrieval', 'Pattern recognition']"
+conf/adc,['Database']
+journals/datamine,"['Data mining', 'Knowledge management']"
+journals/dpd,"['Database', 'Distributed computing', 'Parallel computing']"
+conf/ssd,['Database']
+journals/kais,"['Information retrieval', 'Knowledge management']"
+conf/jcdl,['Multimedia']
+conf/apweb,['World Wide Web']
+conf/sigmod,['Database']
+conf/icwsm,"['Data science', 'Machine learning']"
+conf/wise,"['Data mining', 'World Wide Web']"
+conf/riao,['Information retrieval']
+conf/vldb,"['Data science', 'Database', 'Information retrieval']"
+conf/ssdbm,"['Bioinformatics', 'Data mining', 'Database']"
+conf/mdm,['Database']
+journals/dke,['Knowledge management']
+conf/dawak,"['Data mining', 'Database', 'Knowledge management']"
+conf/clef,['Information retrieval']
+conf/icadl,['Information retrieval']
+journals/sigmod,['Database']
+conf/webi,"['Data science', 'Knowledge management']"
+conf/pkdd,"['Data mining', 'Knowledge management']"
+,['']

@@ -1,0 +1,51 @@
+,Rank.0,Vkey.0,Subareas.0,Precision.0@k,Recall.0@k,Rank.1,Vkey.1,Subareas.1,Precision.1@k,Recall.1@k,Rank.2,Vkey.2,Subareas.2,Precision.2@k,Recall.2@k
+0,1,conf/www,['World Wide Web'],0.0,0.0,1,conf/sigmod,['Database'],1.0,0.0625,1,journals/dr,[''],0.0,0.0
+1,2,journals/www,['World Wide Web'],0.0,0.0,2,conf/icde,[''],0.5,0.0625,2,journals/vldb,['Database'],0.5,0.0625
+2,3,journals/computer,[''],0.0,0.0,3,conf/vldb,['Database'],0.666666666667,0.125,3,journals/pvldb,['Database'],0.666666666667,0.125
+3,4,journals/is,[''],0.0,0.0,4,journals/tkde,['Knowledge management'],0.5,0.125,4,conf/cidr,['Database'],0.75,0.1875
+4,5,journals/isci,[''],0.0,0.0,5,journals/pvldb,['Database'],0.6,0.1875,5,conf/sigmod,['Database'],0.8,0.25
+5,6,conf/sigmod,['Database'],0.166666666667,0.0625,6,conf/cikm,"['Database', 'Knowledge management']",0.666666666667,0.25,6,journals/debu,[''],0.666666666667,0.25
+6,7,conf/icde,[''],0.142857142857,0.0625,7,journals/debu,[''],0.571428571429,0.25,7,journals/tods,['Database'],0.714285714286,0.3125
+7,8,conf/sigir,['Information retrieval'],0.125,0.0625,8,conf/edbt,['Database'],0.625,0.3125,8,conf/icde,[''],0.625,0.3125
+8,9,conf/ijcai,['Artificial intelligence'],0.111111111111,0.0625,9,journals/sigmod,['Database'],0.666666666667,0.375,9,conf/vldb,['Database'],0.666666666667,0.375
+9,10,conf/aaai,['Artificial intelligence'],0.1,0.0625,10,conf/kdd,"['Data mining', 'Knowledge management']",0.6,0.375,10,conf/webdb,[''],0.6,0.375
+10,11,conf/edbt,['Database'],0.181818181818,0.125,11,journals/vldb,['Database'],0.636363636364,0.4375,11,conf/ssd,['Database'],0.636363636364,0.4375
+11,12,journals/jacm,['Algorithm'],0.166666666667,0.125,12,journals/tods,['Database'],0.666666666667,0.5,12,conf/edbt,['Database'],0.666666666667,0.5
+12,13,conf/sdm,['Data mining'],0.153846153846,0.125,13,conf/icdm,['Data mining'],0.615384615385,0.5,13,conf/pods,['Database'],0.692307692308,0.5625
+13,14,conf/vldb,['Database'],0.214285714286,0.1875,14,conf/dasfaa,['Database'],0.642857142857,0.5625,14,journals/tkde,['Knowledge management'],0.642857142857,0.5625
+14,15,conf/gis,['Algorithm'],0.2,0.1875,15,conf/pods,['Database'],0.666666666667,0.625,15,journals/sigmod,['Database'],0.666666666667,0.625
+15,16,conf/pods,['Database'],0.25,0.25,16,conf/www,['World Wide Web'],0.625,0.625,16,journals/dpd,['Database'],0.6875,0.6875
+16,17,conf/cidr,['Database'],0.294117647059,0.3125,17,conf/ssdbm,['Database'],0.647058823529,0.6875,17,conf/ssdbm,['Database'],0.705882352941,0.75
+17,18,conf/mdm,[''],0.277777777778,0.3125,18,journals/is,[''],0.611111111111,0.6875,18,conf/icdt,['Database'],0.722222222222,0.8125
+18,19,conf/icdt,['Database'],0.315789473684,0.375,19,conf/sdm,['Data mining'],0.578947368421,0.6875,19,conf/dasfaa,['Database'],0.736842105263,0.875
+19,20,journals/sigmod,['Database'],0.35,0.4375,20,conf/icdcs,[''],0.55,0.6875,20,journals/www,['World Wide Web'],0.7,0.875
+20,21,conf/ssdbm,['Database'],0.380952380952,0.5,21,conf/pakdd,['Data mining'],0.52380952381,0.6875,21,conf/sdm,['Data mining'],0.666666666667,0.875
+21,22,conf/dasfaa,['Database'],0.409090909091,0.5625,22,conf/dexa,['Database'],0.545454545455,0.75,22,conf/kdd,"['Data mining', 'Knowledge management']",0.636363636364,0.875
+22,23,conf/wise,[''],0.391304347826,0.5625,23,conf/gis,['Algorithm'],0.521739130435,0.75,23,conf/cikm,"['Database', 'Knowledge management']",0.652173913043,0.9375
+23,24,conf/btw,[''],0.375,0.5625,24,journals/dke,[''],0.5,0.75,24,journals/is,[''],0.625,0.9375
+24,25,conf/waim,[''],0.36,0.5625,25,conf/waim,[''],0.48,0.75,25,conf/mdm,[''],0.6,0.9375
+25,26,journals/tkde,['Knowledge management'],0.346153846154,0.5625,26,conf/cidr,['Database'],0.5,0.8125,26,conf/btw,[''],0.576923076923,0.9375
+26,27,journals/pvldb,['Database'],0.37037037037,0.625,27,conf/er,[''],0.481481481481,0.8125,27,conf/waim,[''],0.555555555556,0.9375
+27,28,conf/cikm,"['Database', 'Knowledge management']",0.392857142857,0.6875,28,conf/ssd,['Database'],0.5,0.875,28,conf/icdm,['Data mining'],0.535714285714,0.9375
+28,29,journals/debu,[''],0.379310344828,0.6875,29,conf/mdm,[''],0.48275862069,0.875,29,journals/kais,[''],0.51724137931,0.9375
+29,30,conf/kdd,"['Data mining', 'Knowledge management']",0.366666666667,0.6875,30,journals/tse,['Algorithm'],0.466666666667,0.875,30,journals/dke,[''],0.5,0.9375
+30,31,journals/vldb,['Database'],0.387096774194,0.75,31,conf/icdt,['Database'],0.483870967742,0.9375,31,conf/gis,['Algorithm'],0.483870967742,0.9375
+31,32,journals/tods,['Database'],0.40625,0.8125,32,journals/isci,[''],0.46875,0.9375,32,conf/pakdd,['Data mining'],0.46875,0.9375
+32,33,conf/icdm,['Data mining'],0.393939393939,0.8125,33,conf/webdb,[''],0.454545454545,0.9375,33,conf/dexa,['Database'],0.484848484848,1.0
+33,34,conf/icdcs,[''],0.382352941176,0.8125,34,conf/sigir,['Information retrieval'],0.441176470588,0.9375,34,conf/icdcs,[''],0.470588235294,1.0
+34,35,conf/pakdd,['Data mining'],0.371428571429,0.8125,35,conf/btw,[''],0.428571428571,0.9375,35,conf/wise,[''],0.457142857143,1.0
+35,36,conf/dexa,['Database'],0.388888888889,0.875,36,journals/cacm,['Algorithm'],0.416666666667,0.9375,36,conf/www,['World Wide Web'],0.444444444444,1.0
+36,37,journals/dke,[''],0.378378378378,0.875,37,journals/jcss,['Algorithm'],0.405405405405,0.9375,37,conf/er,[''],0.432432432432,1.0
+37,38,conf/er,[''],0.368421052632,0.875,38,journals/kais,[''],0.394736842105,0.9375,38,conf/pkdd,['Data mining'],0.421052631579,1.0
+38,39,conf/ssd,['Database'],0.384615384615,0.9375,39,conf/aaai,['Artificial intelligence'],0.384615384615,0.9375,39,journals/jcss,['Algorithm'],0.410256410256,1.0
+39,40,journals/tse,['Algorithm'],0.375,0.9375,40,conf/mm,['Multimedia'],0.375,0.9375,40,journals/tse,['Algorithm'],0.4,1.0
+40,41,conf/webdb,[''],0.365853658537,0.9375,41,journals/tpds,['Distributed computing'],0.365853658537,0.9375,41,journals/tpds,['Distributed computing'],0.390243902439,1.0
+41,42,journals/cacm,['Algorithm'],0.357142857143,0.9375,42,journals/dpd,['Database'],0.380952380952,1.0,42,conf/sigir,['Information retrieval'],0.380952380952,1.0
+42,43,journals/jcss,['Algorithm'],0.348837209302,0.9375,43,conf/wise,[''],0.372093023256,1.0,43,journals/jacm,['Algorithm'],0.372093023256,1.0
+43,44,journals/kais,[''],0.340909090909,0.9375,44,journals/dr,[''],0.363636363636,1.0,44,conf/mm,['Multimedia'],0.363636363636,1.0
+44,45,conf/mm,['Multimedia'],0.333333333333,0.9375,45,journals/tc,[''],0.355555555556,1.0,45,journals/isci,[''],0.355555555556,1.0
+45,46,journals/tpds,['Distributed computing'],0.326086956522,0.9375,46,conf/ijcai,['Artificial intelligence'],0.347826086957,1.0,46,journals/computer,[''],0.347826086957,1.0
+46,47,journals/dpd,['Database'],0.340425531915,1.0,47,journals/www,['World Wide Web'],0.340425531915,1.0,47,conf/aaai,['Artificial intelligence'],0.340425531915,1.0
+47,48,journals/dr,[''],0.333333333333,1.0,48,conf/pkdd,['Data mining'],0.333333333333,1.0,48,conf/ijcai,['Artificial intelligence'],0.333333333333,1.0
+48,49,journals/tc,[''],0.326530612245,1.0,49,journals/jacm,['Algorithm'],0.326530612245,1.0,49,journals/tc,[''],0.326530612245,1.0
+49,50,conf/pkdd,['Data mining'],0.32,1.0,50,journals/computer,[''],0.32,1.0,50,journals/cacm,['Algorithm'],0.32,1.0

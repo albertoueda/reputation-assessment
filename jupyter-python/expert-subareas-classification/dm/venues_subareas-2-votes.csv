@@ -1,0 +1,52 @@
+Vkey,Subareas
+journals/tkdd,"['Data mining', 'Data science']"
+journals/sigkdd,"['Data mining', 'Data science', 'Machine learning']"
+conf/kdd,"['Data mining', 'Data science', 'Machine learning']"
+conf/sdm,"['Data mining', 'Data science', 'Machine learning']"
+journals/datamine,"['Data mining', 'Data science']"
+conf/wsdm,"['Data mining', 'Data science', 'World Wide Web']"
+conf/icdm,"['Data mining', 'Machine learning']"
+conf/pkdd,"['Data mining', 'Data science', 'Machine learning']"
+journals/tist,['Artificial intelligence']
+journals/sadm,"['Data mining', 'Data science']"
+journals/kais,"['Data mining', 'Data science']"
+conf/pakdd,"['Data mining', 'Machine learning']"
+journals/tkde,"['Data mining', 'Data science', 'Database']"
+conf/icml,['Machine learning']
+journals/vldb,"['Data mining', 'Database']"
+conf/cikm,"['Information retrieval', 'Knowledge management']"
+conf/ssd,['Database']
+conf/recsys,"['Data mining', 'Machine learning']"
+conf/icde,"['Data mining', 'Database']"
+journals/pvldb,"['Data mining', 'Database']"
+conf/ilp,['Artificial intelligence']
+journals/ml,['Machine learning']
+conf/sigmod,"['Data mining', 'Database', 'Knowledge management']"
+conf/dis,"['Data mining', 'Data science']"
+conf/asunam,"['Data mining', 'Data science', 'World Wide Web']"
+conf/vldb,"['Data mining', 'Database']"
+conf/www,"['Data science', 'World Wide Web']"
+conf/edbt,"['Data mining', 'Database', 'Knowledge management']"
+conf/ssdbm,"['Database', 'Knowledge management']"
+conf/aistats,"['Artificial intelligence', 'Data mining', 'Machine learning']"
+conf/icwsm,"['Data science', 'World Wide Web']"
+journals/jmlr,['Machine learning']
+conf/dawak,"['Data mining', 'Database']"
+conf/sigir,['Information retrieval']
+journals/tois,['Data science']
+journals/ida,"['Artificial intelligence', 'Data mining', 'Machine learning']"
+journals/jiis,"['Artificial intelligence', 'Knowledge management']"
+conf/pods,"['Database', 'Knowledge management']"
+conf/dasfaa,['Database']
+conf/nips,['Machine learning']
+journals/debu,"['Database', 'Knowledge management']"
+journals/mms,"['Data science', 'Multimedia']"
+journals/tods,['Database']
+conf/aaai,"['Artificial intelligence', 'Machine learning']"
+conf/mdm,"['Data science', 'Knowledge management']"
+conf/emnlp,['Natural language processing']
+conf/gis,"['Data science', 'Database']"
+conf/waim,"['Data mining', 'Information retrieval', 'Knowledge management']"
+conf/uai,"['Artificial intelligence', 'Data mining', 'Machine learning']"
+conf/ictai,['Artificial intelligence']
+,['']

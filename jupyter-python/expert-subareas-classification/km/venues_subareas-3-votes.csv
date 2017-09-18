@@ -1,0 +1,52 @@
+Vkey,Subareas
+conf/ictir,['Information retrieval']
+conf/wsdm,['Data mining']
+conf/cikm,['Knowledge management']
+conf/sigir,['Information retrieval']
+conf/ecir,['Information retrieval']
+journals/tkdd,['Data mining']
+conf/trec,['Information retrieval']
+journals/sigir,['Information retrieval']
+conf/widm,['']
+journals/ir,['Information retrieval']
+conf/sdm,['Data mining']
+conf/inex,['Information retrieval']
+conf/dasfaa,['Database']
+journals/vldb,"['Database', 'Information retrieval']"
+journals/tois,['Information retrieval']
+journals/tist,['Algorithm']
+conf/kdd,"['Data mining', 'Knowledge management']"
+journals/tkde,['']
+conf/airs,['Information retrieval']
+journals/pvldb,"['Data science', 'Database']"
+journals/www,['World Wide Web']
+conf/icde,"['Data mining', 'Data science', 'Database']"
+conf/edbt,['Database']
+conf/icdm,['Data mining']
+journals/sigkdd,"['Data mining', 'Knowledge management']"
+conf/pakdd,['Data mining']
+conf/waim,['']
+conf/www,['World Wide Web']
+conf/spire,['Information retrieval']
+conf/adc,['Database']
+journals/datamine,"['Data mining', 'Knowledge management']"
+journals/dpd,"['Database', 'Distributed computing']"
+conf/ssd,['Database']
+journals/kais,['']
+conf/jcdl,['']
+conf/apweb,['']
+conf/sigmod,['Database']
+conf/icwsm,['']
+conf/wise,['World Wide Web']
+conf/riao,['Information retrieval']
+conf/vldb,['Database']
+conf/ssdbm,"['Data mining', 'Database']"
+conf/mdm,['']
+journals/dke,['Knowledge management']
+conf/dawak,['Data mining']
+conf/clef,['']
+conf/icadl,['']
+journals/sigmod,['Database']
+conf/webi,"['Data science', 'Knowledge management']"
+conf/pkdd,['Knowledge management']
+,['']

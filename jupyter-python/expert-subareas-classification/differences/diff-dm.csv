@@ -1,0 +1,34 @@
+,Sent,Subareas,Ranked
+0,journals/tist,['Artificial intelligence'],
+1,journals/sadm,"['Data mining', 'Data science']",
+2,conf/ssd,['Database'],
+3,conf/ilp,['Artificial intelligence'],
+4,conf/aistats,"['Artificial intelligence', 'Data mining', 'Machine learning']",
+5,conf/icwsm,"['Data science', 'World Wide Web']",
+6,conf/dawak,"['Data mining', 'Database']",
+7,journals/tois,['Data science'],
+8,journals/ida,"['Artificial intelligence', 'Data mining', 'Machine learning']",
+9,journals/jiis,"['Artificial intelligence', 'Knowledge management']",
+10,journals/mms,"['Data science', 'Multimedia']",
+11,journals/tods,['Database'],
+12,conf/mdm,"['Data science', 'Knowledge management']",
+13,conf/emnlp,['Natural language processing'],
+14,conf/gis,"['Data science', 'Database']",
+15,conf/waim,"['Data mining', 'Information retrieval', 'Knowledge management']",
+16,,[''],
+17,,,conf/webi
+18,,,conf/ijcai
+19,,,conf/mm
+20,,,conf/icmcs
+21,,,journals/tnn
+22,,,conf/acl
+23,,,conf/sac
+24,,,conf/cvpr
+25,,,journals/ijon
+26,,,journals/isci
+27,,,journals/bmcbi
+28,,,conf/ipps
+29,,,journals/bioinformatics
+30,,,journals/pr
+31,,,conf/igarss
+32,,,conf/icip

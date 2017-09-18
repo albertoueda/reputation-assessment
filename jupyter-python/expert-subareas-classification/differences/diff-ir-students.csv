@@ -1,0 +1,29 @@
+,Sent,Subareas,Ranked
+0,conf/adcs,['Information retrieval'],
+1,journals/tweb,['World Wide Web'],
+2,conf/la-web,['World Wide Web'],
+3,journals/tist,['Artificial intelligence'],
+4,conf/adc,['Database'],
+5,conf/icadl,['Database'],
+6,conf/recsys,['Information retrieval'],
+7,conf/cpm,['Pattern recognition'],
+8,journals/vldb,['Database'],
+9,journals/debu,['Database'],
+10,conf/apweb,['World Wide Web'],
+11,conf/ijcnlp,['Natural language processing'],
+12,journals/tods,['Database'],
+13,journals/is,[''],
+14,,,journals/tmm
+15,,,conf/icde
+16,,,conf/vldb
+17,,,conf/icml
+18,,,conf/sigmod
+19,,,conf/coling
+20,,,conf/aaai
+21,,,conf/ijcai
+22,,,conf/icmcs
+23,,,conf/nips
+24,,,conf/lrec
+25,,,conf/cvpr
+26,,,journals/cacm
+27,,,conf/chi

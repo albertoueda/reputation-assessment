@@ -1,0 +1,15 @@
+
+qualis-computacao-conf.csv
+    Sigla -> H-Index,Qualis
+
+qualis-computacao.csv
+    ISSN  -> Qualis
+    
+?
+    dblp_vkey -> ISSN
+    
+Data sources
+http://www.citefactor.org/journal-impact-factor-list-2012.html -> cs-if2012.csv * nro citacoes
+http://www.citefactor.org/journal-impact-factor-list-2014.html -> cs-if2014.csv
+
+http://www.scimagojr.com/journalrank.php?area=1700&category=0&country=all&year=2013&order=t&min=0&min_type=cd -> excel.xls

@@ -1,0 +1,1187 @@
+Key
+Book Chapter
+Book
+Journal of Information and Data Management - JIDM
+Simposio Brasileiro de Redes de Computadores e Sistemas Distribuidos
+Simposio Brasileiro de Pesquisa Operacional
+Simposio Brasileiro Banco Dados
+Discrete Applied Mathematics
+Journal of the Brazilian Computer Society (Impresso)
+Simposio Brasileiro de Qualidade de Software
+Brazilian Symposium Programming Languages
+Simposio Brasileiro Bancos Dados
+Simposio Fatores Humanos Sistemas Computacionais IHC
+SIBGRAPI Conference Graphics Patterns Images
+Simposio Brasileiro de Sistemas Colaborativos
+Simposio Brasileiro Redes Computadores Sistemas Distribuidos SBRC
+Brazilian Symposium Software Engineering SBES
+Computer Networks (1999)
+IEEE Congress Evolutionary Computation CEC
+International Conference Computer Supported Cooperative Work Design CSCWD
+International Conference Enterprise Information Systems ICEIS
+The Journal of Systems and Software
+Simposio Brasileiro Sistemas Multimidia Web
+WORLDCOMP World Congress Computer Science Computer Engineering Applied Computing
+Information Sciences
+International Symposium on Combinatorial Optimization
+Latin American Workshop Cliques Graphs
+Simposio Brasileiro Automatica
+Simposio Brasileiro Geoinformatica GeoInfo
+Simposium Virtual Augmented Reality SVR
+ACM IEEE Joint Conference on Digital Libraries
+Computers & Operations Research
+Conferencia Latinoamericana Informatica CLEI
+Congresso Brasileiro de Automatica
+European Conference Operational Programming
+European Conference Software Maintenance Reengineering CSMR
+IEEE International Conference Computer Supported Cooperative Work Design CSCWD
+IEEE Symposium on Computers and Communications
+International Symposium Computer Architecture High Performance Computing
+Simposio Brasileiro Jogos Entretenimento Digital SBGames
+ACM SIGSoft Brazilian Symposium Software Engineering SBES
+ALIO INFORMS Joint International Meeting
+BMC Genomics
+Brazilian Robotics Symposium Latin American Robotics Symposium SBRLARS
+Brazilian Symposium Software Components Architectures Reuse SBCARS
+CLAIO SBPO
+Concurrency and Computation
+IADIS International Conference WWW Internet
+IEEE Congress on Evolutionary Computation
+IEEE Internet Computing
+International Conference on the Quality of Information and Communications Technology
+International Provenance and Annotation Workshop
+International Transactions in Operational Research
+Journal of Global Optimization
+Journal of Universal Computer Science (Print)
+Latin--American Algorithms Graphs and Optimization Symposium
+SBQS Simposio Brasileiro Qualidade Software
+Seminario Integrado Software Hardware SEMISH
+Simposio Brasileiro de Automacao Inteligente
+Simposio Brasileiro de Jogos e Entretenimento Digital
+Simposio Brasileiro Pesquisa Operacional SBPO
+Simposio Brasileiro Seguranca Informacao Sistemas Computacionais
+Simposio Brasileiro Sistemas Multimidia Hipermidia
+Simposio Brasileiro Sistemas Multimidia Web WebMedia
+Theoretical Computer Science
+Workshop Latino Americano Digital Interativa
+Bioinformatics (Oxford. Print)
+Brazilian Symposium Bioinformatics BSB
+"Conference on Graphics
+CSBC Congresso Sociedade Brasileira Computacao
+Electronic Notes in Discrete Mathematics
+EURO European Conference Operational Research
+European Conference Machine Learning Principles Practice Knowledge Discovery Databases
+European Journal of Operational Research
+IEEE International Conference on Robotics and Automation
+Information and Software Technology
+International Conference Software Engineering ICSE
+Multimedia Tools and Applications
+Pattern Recognition Letters
+Revista de Informatica Teorica e Aplicada (Impresso)
+Sibgrapi Conference Graphics Patterns Images
+Simposio Brasileiro de Engenharia de Software
+Simposio Brasileiro de Linguagens de Programacao
+Simposio Brasileiro Linguagens Programacao SBLP
+Simposio Brasileiro Redes Computadores
+Simposio Brasileiro Sistemas Colaborativos SBSC
+Symposium Applied Computing
+Symposium Virtual Augmented Reality SVR
+Workshop Anual MPS WAMPS
+Workshop Brazilian Institute Web Science Research
+Workshop Thesis Dissertations SIBGRAPI
+ACM conference
+"ACM International Conference on Modeling
+ACM SIGCHI Conference Human Factors Computing Systems
+ACM Symposium Applied Computing SAC
+ACM Symposium on Applied Computing
+Ad Hoc Networks
+Annals of Operation Research
+Annual ACM Symposium
+Brazilian Symposium Artificial Intelligence SBIA
+Brazilian Symposium Games Digital Entertainment
+Brazilian Symposium Games Digital Entertainment SBGAMES
+Cologne Twente Workshop Graphs Combinatorial Optimization CTW
+Computer Communications
+Conference Graphics Patterns Images SIBGRAPI
+Congreso Latino Iberoamericano Investigacion Operativa Simposio Brasileiro Pesquisa Operacional
+Congresso Brasileiro Software Teoria Pratica
+Congresso Sociedade Brasileira Computacao Concurso Teses Dissertacoes
+European Conference on Software Maintenance and Reengineering
+Forum Educacao Engenharia Software
+Genetic Evolutionary Computation Conference GECCO
+IADIS International Conference Society
+IEEE Conference on Local Computer Networks
+IEEE International Conference Cyber Physical Social Computing
+IEEE International Conference Intelligent Robots Systems
+IEEE International Conference on Cloud Computing
+"IEEE Transactions on Systems
+Information Systems (Oxford)
+INOC International Network Optimization Conference
+Integrated Computer-Aided Engineering
+International Conference Aspect Oriented Software Development AOSD
+International Conference on Aspect--Oriented Software Development
+International Conference Software Engineering Knowledge Engineering SEKE
+International Conference Web Engineering ICWE
+International Symposium Leveraging Applications Formal Methods Verification Validation ISoLA
+Journal Information Data Management
+Latin American Workshop Aspect Oriented Software Development WASP
+Latin Ibero American Conference Operations Research Brazilian Symposium Operations Research
+"Networks (New York
+Operations Research Letters
+Optimization (Online)
+Performance Evaluation Review
+"Physical Review. E
+Proceedings of the VLDB Endowment
+Revista Brasileira de Redes de Computadores e Sistemas Distribuidos
+SBC Journal Interactive Systems
+SBGames
+SBSC CRIWG SIMPOSIO BRASILEIRO SISTEMAS COLABORATIVOS
+SBSI Simposio Brasileiro Sistemas Informacao
+Science Workshop
+SDPS International Conference Transformative Science Engineering Business Innovation
+SIBGRAPI Conference Graphics Patterns Images SIBGRAPI
+Simposio Brasileiro Computacao Grafica Processamento Imagens
+Simposio Brasileiro Games Entretenimento Digital
+Simposio Brasileiro Qualidade Software SBQS
+Simposio Brasileiro Sistemas Multimidia Web Webmedia
+Symposium on Virtual and Augmented Reality
+Triennial Conference International Federation Operational Research
+Workshop Assessment Contemporary Modularization Techniques ACoM
+Workshop Autonomous Software Systems AutoSoft contexto CBSoft
+Workshop Desempenho Sistemas Computacionais Comunicacao WPerformance
+Workshop Manutencao Software Moderna
+Workshop Mineiro Sistemas Informacao WMSI
+Workshop Realidade Virtual Aumentada WRVA
+Workshop School Quantum Computation Information
+ACM Conference Hypertext Social Media
+ACM Conference Information Knowledge Management
+ACM Conference Information Knowledge Management CIKM
+ACM KNOWL DISCOV
+ACM SIGMOD International Conference Management Data
+ACM Symposium Performance Evaluation Wireless hoc Sensor Ubiquitous Networks
+Advances in Computers
+Advances Software Engineering
+Alberto Mendelzon International Workshop on Foundations of Data Management
+AMW Alberto Mendelzon Workshop Foundations Data Management
+Annals of Operations Research (Dordrecht. Online)
+Annual ACM SIGIR Conference
+Annual Collaboration Electronic messaging Anti Abuse Spam Conference
+Annual Collaboration Electronic messaging Anti Abuse Spam Conference CEAS
+Annual IEEE Conference Local Computer Networks IEEE LCN
+Annual IEEE Software Engineering Workshop
+AOSD Companion
+ASEE IEEE Frontiers Education Conference
+Brazilian Meeting Bayesian Statistics EBEB
+Brazilian Symposium Computer Games Digital Entertainment
+Brazilian Symposium Games Digital Entertainment SBGames
+Brazilian Symposium GeoInformatics
+Brazilian Symposium on Bioinformatics
+Brazilian Symposium Software Components Software Architecture Reuse SBCARS
+Brazilian Workshop Social Network Analysis Mining BraSNAM
+Business Process Management Journal
+CBIS Congresso Brasileiro Informatica Saude
+CBSoft Secao Demonstracao Ferramentas
+Challenges eScience Workshop
+Companion High Performance Computing Networking Storage Analysis SCC
+Computers in Biology and Medicine
+Concurso Teses Dissertacoes
+Concurso Teses Dissertacoes Inteligencia Artificial CTDIA
+Conferencia IADIS Ibero Americana WWW INTERNET
+Congresso Brasileiro de Inteligencia Computacional
+Congresso Brasileiro Informatica Saude CBIS
+Congresso Brasileiro Software Teoria Pratica CBSoft Simposio Brasileiro Engenharia Software SBES
+Congresso Iberoamericano Software Engineering CIBSE
+Congresso Internacional Software Livre Governo Eletronico
+Current Protocols in Bioinformatics
+Discrete Mathematics
+Doctoral Symposium International Conference Software Engineering ICSE
+Empirical Software Engineering
+Encontro Regional Matematica Aplicada Computacional
+EUROMICRO Conference on Digital System Design
+European Conference Machine Learning Principles Practice Knowledge Discovery Databases ECML PKDD
+European Conference on Software Architecture
+European Joint Conferences Theory Practice Software
+European Symposium Artificial Neural Networks Computational Intelligence Machine Learning
+EUROPT Workshop
+EUROPT Workshop Advances Continuous Optimization
+Experimental Software Engineering Latin American Workshop ESELAW
+Expert Systems with Applications
+Forum Educacao Engenharia Software Congresso Brasileiro Software Teoria Pratica CBSoft
+French Combinatorial Conference
+Future Generation Computer Systems
+Geoinformatica (Dordrecht)
+Global Optimization Workshop
+Golbal Optimization Workshop
+IADIS International Conference Information Systems
+Iadis International Conference WWW Internet
+Ibero American Conference Software Engineering CIBSE
+IEEE Computer Software Applications Conference COMPSAC
+IEEE Graphics Patterns Images Sibgrapi
+IEEE Intelligent Systems
+IEEE International Conference on Communications
+IEEE International Conference on Program Comprehension
+IEEE International Conference Systems Man Cybernetics IEEE SMC
+IEEE International Conference Workshops Engineering Computer Based Systems
+IEEE International Conference Workshops Engineering Computer Based Systems ECBS
+IEEE International Joint Conference Neural Networks IJCNN
+IEEE Software
+IEEE Transactions on Software Engineering
+IEEE Virtual Reality
+IEEE World Congress on Computational Intelligence
+IET Software (Print)
+IFCS DAGM GfKl
+Information Processing & Management
+Information Processing Letters (Print)
+INFORMS ANNUAL MEETING
+Interfaces (Providence)
+International Conference Agents Artificial Intelligence ICAART
+International Conference Autonomic Autonomous Systems ICAS
+International Conference Cinema Art Technology Communications
+International Conference Computing Networking Communications
+International Conference Inductive Logic Programming ILP
+International Conference Model Driven Engineering Languages Systems MODELS
+International Conference on Computer Supported Cooperative Work in Design
+International Conference On Concept Lattices and Their Applications
+International Conference on Enterprise Information Systems
+"International Conference on Mobile
+International Conference on Pattern Recognition
+International Conference on Software Engineering and Knowledge Engineering
+International Conference on Theory and Practice of Digital Libraries
+International Conference on Web Information Systems and Technologies
+International Conference Ontologies DataBases Applications Semantics ODBASE
+International Database Engineering Applications Symposium IDEAS
+International Journal for Numerical Methods in Engineering (Print)
+International Journal of Business Process Integration and Management (Print)
+International Journal on Software Tools for Technology Transfer (Print)
+International Journal Virtual Reality
+International Provenance Annotation Workshop IPAW
+International Software Product Line Conference SPLC
+International Symposium Computer Architecture
+International Symposium Computer Performance Modeling Measurements Evaluation PERFORMANCE
+International Symposium Empirical Software Engineering Measurement ESEM
+International Symposium Experimental Algorithms
+International Workshop
+International Workshop Empirical Evaluation Composition Techniques ESCOT
+ISMP International Symposium Mathematical programming
+iStar
+Journal Computational Methods Sciences Engineering
+Journal of Applied Computing Research
+Journal of Computational and Applied Mathematics
+Journal of Optimization Theory and Applications
+Journal of Parallel and Distributed Computing (Print)
+Journal of the American Society for Information Science and Technology (Print)
+Journal of The Brazilian Computer Society (Online)
+Journal of Theoretical Biology
+Journal of Universal Computer Science (Online)
+Journal of Visual Languages and Computing
+Lagos Latin American Algorithms Graphs Optimization Symposium
+LAIO SBPO Congreso Latino Iberoamericano Investigacion Operativa Simposio Brasileiro Pesquisa Operacional
+Latin American Workshop Cliques Graphs LAWCG
+Latin Ibero American Conference Operations Research XLIVSBPO
+Lecture Notes in Computer Science
+Leveraging Applications Formal Methods Verification Validation ISoLA
+Microprocessors and Microsystems
+Nature (London)
+NetSci
+Nonlinear Analysis
+Pattern Recognition
+"Physical Review. B
+Proteomics Weinheim Print
+Revista Brasileira de Historia da Ciencia
+SAC Symposium Applied Computing
+SBAC PAD
+SBCCI
+SBGames Simposio Brasileiro Jogos Entretenimento Digital
+SBQS
+Science of Computer Programming (Print)
+Scientiarum Historia
+Seminario Nacional Historia Ciencia Tecnologia Congresso Latino Americano Historia Ciencia Tecnologia
+SEMISH Seminario Integrado Software Hardware
+Sensors (Basel)
+SHIALC Simposio Historia Informatica America Latina Caribe conjunto com Conferencia Latinoamericana Informatica
+SIAM Journal on Discrete Mathematics
+Simposio Brasileiro Banco Dados Sessao Demos
+"Simposio Brasileiro de Componentes
+Simposio Brasileiro de Metodos Formais
+Simposio Brasileiro Fatores Humanos Sistemas Computacionais Conferencia Latino Americana Interacao Humano Computador
+Simposio Brasileiro Games Entretenimento DIgital SBGAMES
+Simposio Brasileiro Games Entretenimento Digital SBGames
+Simposio Brasileiro Informatica Educacao Workshop sobre Informatica Escola SBIE WIE
+Simposio Brasileiro Inteligencia Artificial SBIA
+Simposio Brasileiro Qualidade Software Concurso Teses Dissertacoes Qualidade Software
+Simposio Brasileiro Sistemas Informacao SBSI Cidades Inteligentes
+Simposio Brasileiro sobre Fatores Humanos Sistemas Computacao
+Simposio Brasileiros Componentes Arquiteturas Reutilizacao Software
+Simposio Pesquisa Operacional Logistica Marinha
+SMC IEEE International Conference Systems Man Cybernetics
+Software Engineering Education Training CSEE
+"Software
+STOPROGR International Workshop Stochastic Programming Implementation Advanced Applications
+TaPP Theory Practice Provenance
+The Visual Computer
+TOPI workshop Developing tools plug ins
+Transactions in GIS (Print)
+Workshop Anual MPS WAMPS Sessao Ferramentas
+Workshop Applications Multi Many Core Architectures
+Workshop Brasileiro Visualizacao Software Congresso Brasileiro Software Teoria Pratica CBSoft
+Workshop de Computacao Aplicada a Gestao do Meio Ambiente e Recursos Naturais
+Workshop de Engenharia de Requisitos
+Workshop de Gerencia e Operacao de Redes e Servicos
+Workshop Developing Tools Plug ins TOPI
+Workshop Developing Tools Plugins TOPI
+Workshop Ferramentas Aplicacoes WFA Simposio Brasileiro Sistemas Multimidia Web WebMedia
+Workshop Manutencao Software Moderna WMSM
+Workshop Redes Dinamicas Sistemas P P
+Workshop Science Congresso Sociedade Brasileira Computacao
+Workshop Teses Dissertacoes Simposio Brasileiro Sistemas Multimidia Web WebMidia
+WORLDCOMP EEE International Conference Learning Business Enterprise Information Systems Government
+WWW Internet
+AAAI Fall Symposium Open Government Knowledge
+ACM Conference Embedded Networked Sensor Systems SenSys
+ACM Conference Information Knowledge Managament
+ACM Conference Recommender Systems
+ACM conference Recommender systems RECSYS
+ACM GECCO Genetic Evolutionary Computation Conference
+ACM GECCO Green Efficient Energy Applications GreenGEC Workshop
+ACM IEEE International Conference Model Driven Engineering Languages Systems MODELS
+ACM IEEE Joint Conference Digital Libraries JCDL
+ACM International Conference Information Knowledge Management
+ACM International Conference Multimedia
+ACM International Conference Multimedia Information Retrieval MIR
+ACM International Conference Ubiquitous Computing Workshop Social Interaction Spatially Separated Environments
+ACM International Conference Web Science
+ACM International Conference Web Search Data Mining WSDM
+ACM International Symposium Mobility Management Wireless Access
+"ACM International Symposium on Performance Evaluation of Wireless Ad Hoc
+ACM International Workshop Hot Topics Planet Scale Measurement
+ACM International Workshop Performance Monitoring Measurement Evaluation Heterogeneous Wireless Wired Networks
+ACM Journal Data Information Quality
+ACM SAC MMV
+ACM SIGCOMM conference Internet measurement conference
+ACM SIGDOC
+ACM SIGGRAPH Conference Virtual Reality Continuum its Applications Industry
+ACM SIGIR Conference Demo Session
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+ACM SIGKDD International Conference Knowledge Discovery Data Mining
+ACM SIGKDD International Conference Knowledge Discovery Data Mining KDD
+ACM SIGMETRICS
+ACM Sigmetrics
+ACM SIGMM International Conference Multimedia Information Retrieval
+ACM SIGMOD Workshop
+ACM SIGSPATIAL International Workshop Computational Transportation Science IWCTS
+ACM SIGSPATIAL International Workshop Location Based Social Networks
+ACM Sigspatial International Workshop Location based Social Networks
+ACM SIGSPATIAL International Workshop Location Based Social Networks LBSN
+ACM SPEC International Conference Performance Engineering ICPE
+ACM Symposium
+ACM Symposium Document Engeneering
+ACM Symposium Performance Evaluation Wireless Hoc Sensor Ubiquitous Networks
+ACM Transactions on Algorithms
+ACM USENIX Middleware Conference
+ACM Web Science Conference
+ACM WebSci
+ACM WebSci International COnference Web Science
+ACMIEEE international symposium empirical Software Engineering Measurement
+Advanced Materials Research
+Advanced Visual Interfaces AVI
+Agent Directed Simulation ADS Symposium Spring Simulation Multiconference
+Agent Directed Simulation Symposium ADS
+AGILE Conference on Geographic Information Science
+Alberto Mendelzon Int Workshop Foundations Data Management
+Alberto Mendelzon Workshop Foundations Data Management
+Algorithmica (New York. Internet)
+Algorithms Computation St International Symposium ISAAC
+Algorithms Data Structures Symposium WADS formerly Workshop Algorithms Data Structures
+ALIO EURO Workshop Applied Combinatorial Optimization
+ALIO INFORMS
+Alio Informs joint international meeting
+AmI International Conference Ubiquitous Computing Ambient Intelligence
+Analog Integrated Circuits and Signal Processing
+Analysis in Theory and Applications
+Annales des Telecommunications
+Annales des Telecommunications Cessou
+Annual ACM Conference Research Development Information Retrieval
+Annual ACM Symposium Applied Computing
+Annual conference American Helicopter Society
+Annual Frontiers Education Conference FIE
+Annual International ACM SIGIR Conference on Research & Development in Information Retrieval
+annual international conference
+Annual Meeting Association Computational Linguistics
+AOSD
+AOSD Tenth international conference Aspect oriented software development
+Applied Mathematics and Computation
+Applied Statistics (Print)
+APPOPT International Conference Approximation Optimization Caribbean
+APS March Meeting
+Arquivos de Neuro-Psiquiatria (Impresso)
+Ars Combinatoria
+Asia Pacific Conference Computer Human Interaction
+ATMOS Workshop Algorithmic Approaches Transportation Modelling Optimization Systems
+AutoSoft Workshop Autonomous Software Systems CBSoft
+Bayesian analysis (Online)
+Bio Inspired Solutions Wireless Sensor Networks Satellite Workshop Genetic Evolutionary Computation Conference
+Bioinformatics Oxford
+BIOMAT International Symposium Mathematical Computational Biology
+BMC Bioinformatics
+BMC Structural Biology (Online)
+Boletim Ciencias Geodesicas
+Brasilian Conference Software Theory Practice
+Brazilian Conference Software Theory Practice CBSoft
+Brazilian Logic Conference
+Brazilian Robotics Symposium Latin American Robotics Symposium
+Brazilian Simposium Bioinformatics
+Brazilian Sympoisum Software Engineering
+Brazilian Symposium Computer Games Digital Entertainment SBGAmes
+Brazilian Symposium Computer Games Digital Entertainment SBGames
+Brazilian Symposium Computer Networks Distributed Systems Tools Session
+Brazilian Symposium Databases
+Brazilian Symposium Databases SBBD
+Brazilian Symposium Information Human Language Tecnhology
+Brazilian Symposium on Artificial Intelligence
+Brazilian Symposium Programming Language
+Brazilian Symposium Software Engineering
+Brazilian Symposyum Human Factors Computer Systems IHC
+Brazilian Workshop Game Theory Society BWGT
+Brazilian Workshop Social Network Analysis Mining
+Business & Information Systems Engineering
+CBSoft
+CBSoft Sessao Ferramentas
+CBSoft Sessao Ferramentas ACM SIGSoft Brazilian Symposium Software Engineering SBES
+CBSoft Simposio Brasileiro Engenharia Software
+Chip Cliffs Student Forum
+Chip Sampa Student Forum
+Chllenges Science Workshop CIS SBAC PAD
+Ciencia Hoje
+CIKM ACM Conference Information Knowledge Management
+Cladistics (Westport. Print)
+CLEI Electronic Journal
+CLOUD
+Cloud Futures
+Cluster Computing
+CMA Workshop
+Collaboration Electronic messaging Anti Abuse Spam Conference CEAS
+Collaboration Technology International Conference CRIWG
+Cologne--Twente Workshop on graphs and combinatorial optimization
+Coloquio Matematica Regiao Norte
+Combinatorial Pattern Matching
+Communications of the ACM
+Computational Management Science (Print)
+Computational Mathematical Methods Medicine Print
+Computational Optimization and Applications
+Computational Statistics & Data Analysis (Print)
+Computational Statistics (Zeitschrift)
+"Computer (Long Beach
+Computer Graphics Forum (Print)
+"Computer Languages
+Computer Methods and Programs in Biomedicine (Print)
+Computer Science Engineering
+Computer Supported Cooperative Work Design CSCWD International Conference
+Computers & Graphics
+Computers and Education
+Computers Entertainment CIE
+Computing Australasian Theory Symposium CATS
+Concurrency Computation Practice Experience
+Concurso Teses Dissertacoes Congresso Sociedade Brasileira Computacao
+Concurso Teses Dissertacoes CTD
+Concurso Teses Dissertacoes Inteligencia Artificial
+Concurso TEses Dissertacoes Qualidade Software SBQS
+Concurso Teses Dissertacoes Sociedadade Brasileira Computacao
+Concurso Trabalhos Iniciacao Cientifica SBC CTIC
+Conference Collaboration Technology CRIWG
+Conference Computer Supported Cooperative Work
+Conference Labs Evaluation Forum
+Conference on Human Factors in Computing Systems
+Conference on Software Engineering Education and Training
+Conference User Modeling Adaptation Personalization UMAP
+Conferencia ANPET Associacao Nacional Pesquisa Ensino Transporte
+Congresso Brasileiro Cartografia
+Congresso Brasileiro de Informatica em Saude
+Congresso Brasileiro Engenharia Biomedica
+Congresso Brasileiro Intelige ncia Computacional
+Congresso Brasileiro Pesquisas Cafeeiras
+Congresso Brasileiro Software Teoria Pratica CBSoft Sessao ferramentas
+Congresso Brasileiro Software Teoria Pratica CBSoft Workshop sobre Sistemas Software Autonomos AutoSoft Congresso Brasileiro Software Teoria Pratica CBSoft Workshop sobre Sistemas Software Autonomos AutoSoft
+Congresso Brasileiro Software Teoria Pratica Sessao Ferramentas
+Congresso Ibero Americano Engenharia Software CIbSE
+Congresso Iberoamericano
+Congresso Nacional de Matematica Aplicada e Computacional
+Congresso Nacional Engenharia Mecanica
+Congresso Pos graduacao Universidade Federal Lavras
+Congresso Sociedade Brasileira Computacao CSBC
+Congresso Sociedade Brasileira Computacao Science
+CRIWG
+CSCWD
+CTDQS Concurso Teses Dissertacoes Qualidade Software SBQS
+CTW
+DALI DEXA workshops
+Data & Knowledge Engineering
+Data Compression Conference DCC
+Demography Online
+Discrete Mathematics and Theoretical Computer Science (Online)
+Discrete Optimization
+Disputatio (Lisboa)
+Distributed and Parallel Databases
+DIVERS ACM RECSYS Workshop Novelty Diversity Recommender Systems
+Doctoral Symposium International Conference Software Reuse
+Ecological Applications
+EEE International Symposium Computer Architecture High Performance Computing
+ELAVIO Escuela Latinoamericana Verano Investigacion Operativa
+ELAVIO Escuela Latinoamericana Verano Investigacion Operativa Asociacion Latino Iberoamericana Investigacion Operativa
+Electronic Notes in Theoretical Computer Science
+Eleventh International Conference Autonomous Agents Multiagent Systems AAMAS
+Eleventh SIAM International Conference Data Mining
+EMBO Conference Series Catalytic mechanisms biological systems Catalytic mechanisms biological systems interface between chemistry biology
+Emerging Computational Methods Life Sciences ECMLS Workshop
+Encontro Linguistica Corpus ELC
+Encontro Nacional Estudos Populacionais
+Encontro Nacional Fisica Materia Condensada ENFMC
+Encontro Nacional Inteligencia Artificial
+Encontro nacional Inteligencia Artificial ENIA
+Encontro Nacional Inteligencia Artificial ENIA
+Energy Economics
+EngOpt International Conference Engineering
+ESAIM Control Optimization Calculus Variations
+eScience Workshop
+Escola Regional Informatica Minas Gerais
+Escola Regional Informatica Rio Janeiro
+Escola Regional Redes Computadores
+ESELAW Experimental Software Engineering Latin American Workshop
+ESEM International Symposium Empirical Software Engineering Measurement
+EUD International Symposium End User Development
+EURO
+Eurographics European Computer Graphics Conference Exhibition
+Euromicro Conference on Software Engineering and Advanced Applications
+Euromicro International Conference on Parallel Distributed and network--based Processing
+Euromicro International Conference Parallel Distributed Network Based Computing
+European Conference
+European Conference Machine Learning Principles Practices Knowledge Discovery Databases
+European Conference Machine Learning Principles Practices Knowledge Discovery Databases PKDD
+European Conference on Combinatorics Graph Theory and Applications
+European Conference Principles Practice Knowledge Production Computer Science
+European Journal of Scientific Research
+EUROPT Workshop European Working Group Continuous Optimization
+Experimental Software Engineering Latin American Workshop
+Extraction gestion connaissances EGC
+Extreme Conference Communication
+Extreme Conference Communication ExtremeCom
+First Monday (Online)
+Fonte (Belo Horizonte)
+FOSD Proceedings International Workshop Feature Oriented Software Development
+Fourteenth Conference Computational Natural Language Learning Shared Task CoNLL
+Fourteenth IEEE International EDOC Conference
+Functional Constraint Logic Programming
+Gastroenterologie Clinique Biologique
+GECCO Bio Inspired Solutions Wireless Sensor Networks Workshop
+Genetic and Evolutionary Computation Conference
+Genetic Evolutionary Computation Concerence GECCO
+Genetic Programming Evolvable Machines
+GESTS International Transactions on Computer Science and Engineering
+Globecom
+Graphical Models (Print)
+Group Decision and Negotiation
+HAIS International Conference Hybrid Artificial Intelligence Systems
+HCI International Internationalization Design Global Development
+HCI International Universal Access Human Computer Interaction
+High Performance Computing Computational Science
+HPDC
+Hylo Hybrid Logic Workshop FLOCS
+IADIS International Conference on Applied Computing
+IADIS International Journal on WWWInternet
+IADIS Telecommunications Networks Systems TNS
+IADIS WWW Internet Conference
+Ibero American Conference Software Engineering CIbSE
+Iberoamerican Conference Software Engineering CIbSE
+Iberoamerican Congress on Pattern Recognition
+ICALP
+ICCCN Workshop Multimedia Computing Communications
+ICIN International Conference Intelligence Next Generation Networks Weaving Applications into Network Fabric
+ICITA International Conference Information Technology Application
+iConference
+ICOR
+ICOR International Conference Operations Research
+ICSE Workshop Flexible Modeling Tools
+ICSP International Conference Software Process
+IEEE ACM Symposium Distributed Simulation Real Time Applications
+IEEE Annual Computer Software Applications Conference COMPSAC
+IEEE Communications Letters (Print)
+IEEE Communications Magazine (Print)
+IEEE Conference Computational Intelligence Games CIG
+IEEE Congree Evolutionary Computation
+IEEE ECBS
+IEEE Frontiers Education Conference FIE
+IEEE Global Telecommunications Conference
+IEEE Globecom
+IEEE IACSIT International Conference Mechanical Engineer Robotics Aeroespace ICEMERA
+IEEE IFIP International Symposium Integrated Network Management
+IEEE Infocom
+IEEE Information Theory Workshop
+IEEE International Conference Cloud Computing Cloud
+IEEE International Conference Digital Ecosystems Technologies DEST Complex Environment Engineering
+IEEE International Conference eScience
+IEEE International Conference EScience eScience
+IEEE International Conference Global Software Engineering ICGSE
+IEEE International Conference Information Reuse Integration IRI
+IEEE International Conference Multimedia Expo ICME
+IEEE International Conference on Engineering of Complex Computer Systems
+IEEE International Conference on Image Processing
+IEEE International Conference on Multimedia and Expo
+IEEE International Conference on Systems Man and Cybernetics
+IEEE International Conference on Tools with Artificial Intelligence
+IEEE International Conference Self Adaptive Self Organizing Systems SASO
+IEEE International Conference Semantic Computing ICSC
+IEEE International Conference Semantic Computing IEEE ICSC
+IEEE International Conference Software Maintenance ICSM
+IEEE International Conference Software Testing Verification Validation Workshops ICSTW
+IEEE International Conference Systems Man Cybernetics SMC
+IEEE International Geoscience and Remote Sensing Symposium
+IEEE International Requirements Engineering Conference
+IEEE International Symposium Computer Architecture High Performance Computing
+IEEE International Symposium Computer Architecture High Performance Computing SBAC PAD
+IEEE International Symposium Modeling Analysis Simulation Computer Telecommunication Systems MASCOTS
+IEEE International Symposium on Circuits and Systems
+IEEE International Symposium Parallel Distributed Processing with Applications
+IEEE International Symposium Service Oriented System Engineering SOSE
+IEEE International Symposium Social Intelligence Networking SIN
+IEEE International Symposium Software Reliability Engineering ISSRE
+IEEE International Symposium World Wireless Mobile Multimedia Networks WoWMoM
+IEEE International Workshop Selected Topics Wireless Mobile Computing
+IEEE Joint Conference Digital Libraries
+IEEE Joint VORTE MOST Workshop
+IEEE Journal on Selected Areas in Communications (Print)
+IEEE Latin American Regional Conference Engineering Computer Based Systems
+IEEE Latin American Robotics Symposium
+IEEE Latin American Symposium Circuits Systems
+IEEE Network
+IEEE Pervasive Computing Communication PerCom
+IEEE PIMRC
+IEEE RSJ International Conference Intelligent Robots Systems
+IEEE Scientific Workflow Workshop
+IEEE Sensors Journal
+IEEE Symposium Biological Data
+IEEE Symposium Biological Data Visualization
+IEEE Symposium Computers Communications ISCC
+IEEE Symposium Visual Languages Human Centric Computing HCC
+IEEE Transactions on Biomedical Engineering (Print)
+IEEE Transactions on Knowledge and Data Engineering (Print)
+IEEE Transactions on Visualization and Computer Graphics
+IEEE TrustCom IEEE ICESS FCST
+IEEE Visual Analytics Science Technology
+IEEE WCNC
+IEEE Wireless and Communications and Networking Conference
+IEEE Wireless Communications
+IEEE WORKSHOP COMPUTATIONAL INTELLIGENCE PRODUCTION LOGISTICS SYSTEMS
+IEEE Workshop Many Task Computing Grids Supercomputers MTAGS
+IEEE Workshop on Applications of Computer Vision
+IEEE Workshop Pervasive Collaboration Social Networking PerCol
+IEEE World Congress Computacional Intelligence
+IEEE/IFIP Network Operations and Management Symposium
+IEEE/RJS International Conference on Intelligent Robots and Systems
+IFIP ACM Latin America Networking Conference
+IFIP HCIS
+IFIP IEEE International Symposium Integrated Network Management Dissertation Digest
+IFIP International Conference New Technologies Mobility Security NTMS
+IFIP International Conference on Testing Software and Systems
+IFIP Networking
+IFIP TC Conference Human Computer Interaction
+IFIP TC Conference Human Computer Interaction INTERACT
+IFIP Wireless Days
+IFIP Wireless Days Conference
+IFIP/IEEE International Symposium on Integrated Network Management
+IFORS
+IHC CLIHC Simposio Brasileiro Fatores Humanos Sistemas Computacionais conferencia Latinoamericana Interacao Humano Computador
+IISoLA International Symposium Leveraging Applications Formal Methods
+Improved Algorithms Volume Rendering Mesh Processing
+INFOCOM
+INFOCOMP (UFLA. Impresso)
+Informatica diritto
+Information Retrieval
+Information Retrieval (Boston)
+Informatique Theorique et Applications (Imprime)
+Informs Annual Meeting
+Int Conf Control Automation Robotics Vision
+Int Conf Data Management Grid Peer Peer Systems Globe
+Int Conf Entertainment Computing ICEC
+Int Conf Interactive Digital Storytelling ICIDS
+Int Conference Systems Signals Image Processing IWSSIP
+"Interactions (New York
+International ACM Conference Management Emergent Digital EcoSystems MEDES
+International ACM Conference Web Science
+international ACM SIGIR conference
+INTERNATIONAL BIENNALE COMMERCIAL NEGOTIATION
+International Confeence Software Engineering Knowledge Engineering SEKE
+International Conference Advances Human oriented Personalized Mechanisms Technologies Services
+International Conference Algorithms Architectures Parallel Processing ICA PP
+International Conference Ambient Systems Networks Technologies
+International Conference Autonomic Autonomous Systemps
+International Conference Autonomous Agents Multiagent Systems
+International Conference Autonomous Agents Multiagent Systems AAMAS
+International Conference BPMDS
+International Conference Chilean Computer Science Society SCCC
+International Conference Communication Systems Networks
+International Conference Communication Systems Networks COMSNETS
+International Conference Communications
+International Conference Compiler Construction European Joint Conferences Theory Practice Software ETAPS
+International Conference Computational Processing Portuguese Language
+International Conference Computational Processing Portuguese Language PROPOR
+International Conference Computational Science Its Applications ICCSA
+International Conference Computer Communications Networks ICCCN
+International Conference Computer Games
+International Conference Computer Science Engineering Applications ICCSEA
+International Conference Engineering Technology Education
+International Conference Enterprise Information Systems ICEIS Revised Best Papers
+International Conference Entertainment Computing
+International Conference Entertainment Computing ICEC
+International Conference Evolutionary Computation Theory Applications
+International Conference Finite Elements Flow Problems
+International Conference Genetic Evolutionary Computation Conference Companion
+International Conference Geographic Object Based Image Analysis
+International Conference HCD Held Part HCI International
+International Conference High Performance Computing Communications
+International Conference High Performance Computing Systems HPCS
+International Conference Information Integration Web based Applications Services iiWAS
+International Conference Information Society
+International Conference Information Society Society
+International Conference Information Systems ICIS
+International Conference Intelligent Text Processing Computational Linguistics
+International Conference Knowledge Based Intelligent Information Engineering Systems KES
+International Conference Knowledge Discovery Data Mining Eighth Workshop Mining Learning with Graphs
+International Conference Knowledge Discovery Information Extraction KDIR
+International Conference Management Data
+International Conference Management Emergent Digital EcoSystems
+International Conference Mobile Data Management MDM
+International Conference Model Driven Engineering Languages Systems ACM IEEE
+International Conference Neural Computation
+International Conference NEW AN Conference Smart Spaces ruSMART
+International Conference on 3D Web Technology
+International Conference on Advances in Mesh Networks
+International Conference on Compiler Construction
+International Conference on Computational Science and its Applications
+International Conference on Computer Communications and Networks
+International Conference on Computer Vision Theory and Applications
+International Conference on Human--Computer Interaction
+International Conference on Information and Knowledge Management
+International Conference on Intelligent Environments
+International Conference on on Software and Systems Process
+International Conference on Ontologies Databases and Applications of Semantics
+International Conference on Simulated Evolution and Learning
+International Conference on Stochastic Programming
+International Conference Parallel Architectures Compilation Techniques PACT
+International Conference Product Focused Software Process Improvement PROFES
+International Conference PROFES
+International Conference Quality Information Communications Technology QUATIC
+International Conference SCCC
+International Conference Semantic Systems SEMANTICS
+international conference Software engineering
+International Conference Software Engineering Data Engineering
+International Conference Software Engineering ICSE Doctoral Symposium
+International Conference Software Engineering ICSE Software Engineering Practice
+International Conference Software Maintenance ICSM
+International Conference Software Maintenance ICSM Doctoral Symposium
+International Conference Software Process ICSP
+International Conference Software Systems Process ICSSP
+International Conference System Signal Image Processing IWSSIP
+International Conference Systems Analysis Tools Better Health Care Delivery New Engineering Health Care Partnership
+International Conference Systems Signal Image Processing
+International Conference Systems Signals Image
+International Conference Systems Signals Image Processing
+International Conference Systems Signals Image Processing IWSSIP
+International Conference Ubi media Computing Media
+International Conference Web Information System Engineering
+International Conference Web Information Systems Technologies WEBIST
+International Conference Web Intelligence
+International Conference Web Science
+International Conference Web Search Web Data Mining WSDM
+International Conference Web Technology Web D
+International Conference Wireless Mobile Communication Healthcare MOBIHEALTH
+International Congress Sound Vibration
+International Database Engineering amp Applications Sysmposium
+International Joint Conference Neural Networks
+International Joint Conference Neural Networks IJCNN Brisbane
+International Journal Business Data Communications Networking
+International Journal Computer Science Applications
+International Journal Computer Science Information Technology Online
+International Journal Electronic Business Print
+International Journal for Infonomics (IJI) (Online)
+International Journal Human Computer Studies Print
+International Journal of Agent-Oriented Software Engineering (Print)
+International Journal of Computational Bioscience
+International Journal of Computer Mathematics
+International Journal of Continuing Engineering Education and Life-Long Learning (Online)
+International Journal of Data Mining and Bioinformatics
+International Journal of High Performance Systems Architecture (Print)
+International Journal of Information Technology and Web Engineering
+International Journal of Knowledge Management
+International Journal of Parallel Programming
+International Journal of Pattern Recognition and Artificial Intelligence
+International Journal of Semantic Computing
+International Journal of Web Engineering and Technology
+International Journal Uncertainty Quantification
+International Journal Web Based Communities
+International MultiConference Engineers Computer Scientists
+International Network Optimization Conference
+International Semantic Web Conference ISWC
+International Society Computational Bioogy Latin America Conference Bioinformatics
+International Software Product Line Conference
+International Software Product Line Conference Salvador SPLC
+International Symposium Algorithms Computation ISAAC
+International Symposium Automation
+International Symposium Computer Architecture High Performance Computing SBAC PAD
+International Symposium Mathematical Programming ISMP
+International Symposium Network Computing Applications IEEE NCA
+International Symposium on Distributed Autonomous Robotic Systems
+International Symposium on Empirical Software Engineering and Measurement
+"International Symposium on Leveraging Applications of Formal Methods
+International Symposium Quality Electronic Design ISQED
+International Symposium Social Intelligence Networking
+International Symposium Trusted Computing Communications TRUSTCOM
+International Symposium Uncertainty Quantification Stochastic Modeling
+International Syposium Computer Architecture High Performance Computing
+International Telecommunications Symposium
+International Transactions on Systems Science and Applications (Print)
+International WETICE AROSA Track
+International Working Conference on Advanced Visual Interfaces
+International Workshop Agent Oriented Software Engineering AOSE
+International Workshop Business Process Intelligence BPI conjunction with BPM
+International Workshop Challenges Science
+International Workshop Cloud Computing Scientific Applications Best Paper Award extended version http doi org future
+International Workshop Communication Collaboration Social Networking Pervasive Computing Environments PerCol
+International Workshop Emerging Trends Software Metrics WETSom Satellite workshop ICSE
+International Workshop Empirical Evaluation Software Composition Techniques ESCOT ECOOP
+International Workshop Genomic Databases
+International Workshop Initiative the Evaluation XML Retrieval
+International Workshop Metamodels Ontologies Semantic Technologies
+International Workshop Middleware Grids Clouds Science MGC
+International Workshop Middleware Pervasive Mobile Embedded Computing MPAC
+International Workshop Modeling Reasoning Context MRC
+International Workshop Multi Agent Systems Simulation MAS
+International Workshop on Graph--Theoretic Concepts in Computer Science
+International Workshop on Model--based metaheuristics
+International Workshop on Software Aging and Rejuvenation
+International Workshop on Software and Compilers for Embedded Systems
+International Workshop Ontology Matching
+International Workshop Pattern Driven Engineering Interactive Computing System
+International Workshop Privacy Social Data PINSODA
+International Workshop Product LinE Approaches Software Engineering PLEASE held conjunction with International Conference Software Engineering ICSE
+International Workshop Programming Models Applications Multicores Manycores
+International Workshop Programming Multi Agent Systems ProMAS
+International Workshop Recommendation Systems Software Engineering ICSE
+International Workshop Recommendation Systems Software Engineering RSSE
+International Workshop Refactoring Tools WRT held conjunction with International Conference Software Engineering ICSE
+International Workshop Resource Discovery
+International Workshop REsource Discovery RED
+International Workshop Search Exploration Navigation Web Data Sources ExploreWeb
+International Workshop Semantic Conceptual Issues GIS
+International Workshop Semantic Conceptual Issues GIS SeCoGIS conjunction with International Conference Conceptual Modeling
+International Workshop Software Ecosystems IWSECO
+International Workshop Software Quality Maintainability SQM CSMR
+International Workshop Spatial Stochastic Models Wireless Networks
+International Workshop Stochastic Programing Implementation Advanced Applications
+international workshop Traceability emerging forms software engineering TEFSE
+International Workshop Variability Composition
+International Workshop Variability Composition VariComp part AOSD
+International Workshop Variability Modelling Software intensive Systems VaMoS
+International Workshop Web Databases WebDB
+International Workshop Web Information Systems Modeling
+International Workshop Wireless Sensor Actuator Robot Networks
+International Workshop Wireless Sensor Actuator Robot Networks WiSARN
+International Workshop Workshop Emerging Trends Software Metrics WETSOM ICSE
+ISMP
+ISOLA
+ISoLA International Symposium Leveraging Applications Formal Methods
+iStar International Workshop
+ISWC Workshop Ontology Matching
+iSys: Revista Brasileira de Sistemas de Informacao
+IT Professional
+ITSC Workshop Artificial Transportation Systems Simulation ATSS
+IWOR International Workshop Operations Research
+Joint Conference Empirical Methods Natural Language Processing Computational Natural Language Learning
+Joint Conference SBIA SBRN JRI Workshop Computational Intelligenc
+Joint WICOW AIRWeb Workshop Web Quality WebQuality
+Joint workshop International Workshop Model driven Approaches Software Product Line Engineering Workshop Scalable Modeling Techniques Software Product Lines MAPLE SCALE
+Journal American Society Information Science Technology
+Journal Computational Graphical Statistics
+Journal Graphics Tools
+Journal Interactive Systems
+Journal of Complexity (Print)
+Journal of Computational Interdisciplinary Sciences
+Journal of Grid Computing
+Journal of Heuristics
+Journal of Information Processing Systems
+Journal of Intelligent & Robotic Systems
+Journal of Intelligent Information Systems
+Journal of Internet Services and Applications
+Journal of Logic and Computation (Print)
+Journal of Multivariate Analysis
+Journal of Network and Computer Applications
+Journal of Proteome Research (Print)
+Journal of Proteomics (Print)
+Journal of Scheduling
+Journal of Systems Architecture
+Journal of the Association for Computing Machinery
+Journal of Web Semantics
+Journal Probability Statistics
+JURIX International Conference Legal Knowledge Information Systems
+KMIS International Conference Knowledge Management Information Sharing
+LANOMS Latin American Network Operations Management Symposium
+LARS Latin American Robotics Symposium Intelligent Robotics Meeting
+LATIN
+Latin American Congress Probability Mathematical Statistics
+Latin American Network Operations and Management Symposium
+Latin American Robotics Symposium Brazilian Robotics Symposium
+Latin American Test Workshop LATW
+Latin American Workshop Experimental Software Engineering ESELAW
+LatinCloud IEEE Latin America Conference Cloud Computing Communications
+Logic Colloquium
+Logic Journal of the IGPL (Print)
+Matematica Aplicada Computacional Cessou Cont ISSN Computational Applied Mathematics
+Matematica Contemporanea
+Mathematical Programming Computation
+Matheuristics International Workshop Model Based Metaheuristics
+Matheuristics workshop
+MCCSIS IADIS Multi Conference Computer Science Information Systems
+Meeting Association Computational Linguistics
+Metaheuristic International Conference
+Metaheuristics International Conference MIC
+MexIHC Tercer Taller Interaccion Humano Computadora
+MIC Metaheuristics International Conference
+Mining Social Network Dynamics Workshop WWW
+Mobile Context Workshop Capabilities Challenges Applications Ubicomp
+Model Driven Web Engineering Workshop MDWE
+Moodle Moot Brasil
+MRS Spring Meeting Symposium Synthesis Processing Organic Polymeric Materials Semiconductor Applications
+MSCS Mathematical Structures Computer Science Print
+Multidisciplinary International Scheduling Conference
+Nanotech Conference
+Natural Computing
+Neurocomputing (Amsterdam)
+NOMS IEEE IFIP Network Operations Management Symposium
+NORDICHI Nordic Conference Human Computer Interaction Making Sense through Design
+NSF TCPP Workshop Parallel Distributed Computing Education EduPar conjunction with IEEE International Parallel Distributed Processing Symposium
+ODYSSEUS International Workshop Freight Transportation Logistics
+Operations Research Mining
+Optimization
+Optimization (Print)
+Optimization Letters
+OR/MS Today (Baltimore)
+OTM Conferences
+OTM Workshops Confederated International Workshops Posters International Workshops AVYTAT ADI DATAVIEW EI N ISDE MONET OnToContent ORM P P CDVE SeDeS SWWS OTMA
+OTSVR Workshop Off Shelf Virtual Reality
+Pacific Journal Optimization
+PATAT International Conference Practice Theory Automated Timetabling
+PECCS Proceedings International Conference Pervasive Embedded Computing Communication Systems
+Performance Evaluation
+Pesquisas e Praticas Psicossociais
+Physical Review C
+Plos One
+Population Development Review
+Power System Computation Conference
+Praticas em Informatica na Educacao
+Proc ACM International Conference Web Search Data Mining WSDM
+Proc Latin American Workshop Experimental Software Engineering ESELAW
+Procceedings ECML PKDD
+Proceedings Alberto Mendelzon International Workshop Foundations Data Management
+Proceedings annual workshop High performance computing meets databases
+Proceedings International Conference Aspect Oriented Software Development
+Proceedings International Conference Weblogs Social Media
+PROFES Product Focused Software Process Improvement
+Progress Pattern Recognition Image Analysis Computer Vision Applications Iberoamerican Congress CIARP
+Psychology Programming Interest Group Annual Conference
+RAIRO. Recherche Operationnelle
+Requirements Patterns RePa International Workshop
+Requirements Run Time RunTime International Workshop
+RESI : Revista Eletronica de Sistemas de Informacao
+Reunao Anual SBPC
+Revista Comunicacao Midiatica (Online)
+Revista do Tribunal de Contas do Estado do Rio de Janeiro
+Revista Estatistica Universidade Federal Ouro Preto
+Revista Iberoamericana de Ciencia Tecnologia y Sociedad (En Linea)
+Rio Pipeline
+Salao Ferramentas
+SBC WPerformance Workshop Desempenho Sistemas Computacionais Comunicacao
+SBCARS Simposio Brasileiro Componentes Arquiteturas Reutilizacao Software
+SBCUP CSBC Simposio Brasileiro Computacao Ubiqua Pervasiva
+SBGames Simposio Brasileiro Games Entretenimento DIgital
+SBPO
+SBRC imposio Brasileiro Redes Computadores Sistemas Distribuidos
+SBRC Simposio Brasileiro Redes Computadores
+SBRC Simposio Brasileiro Redes Computadores Sistemas Distribuidos
+Scientometrics (Print)
+SCOPES International Workshop Software Compilers Embedded Systems
+SEA
+"Seguranca
+SEKE
+SEKE International Conference Software Engineering Knowledge Engineering
+SEMANTICS International Conference Semantic Systems
+Seminar Requirements Management Novel Perspectives Challenges
+Seminario Integrado de Software e Hardware
+Seminario Integrado Hardware Software
+Seminario Integrado Hardware Software Belo Horizonte Anais Seminario Integrado Hardware Software
+Seminario Metodologia IBGE Reuniao IASI Instituto Interamericano Estatistica sobre Estatistica Publica
+Seminario Nacional Historia Ciencia Tecnologia
+SEMINARIO PESQUISA ONTOLOGIA BRASIL
+Seminario sobre Linguagens Ferramentas para Programacao Multithread Paralela Distribuida
+Sessao Demos Simposio Brasileiro Banco Dados
+Sessao ferramentas congresso Brasileiro Software Teoria Pratica
+Sessao Posteres Simposio Brasileiro Banco Dados
+SIAM International Conference Data Mining SDM
+SIAM International Conference on Data Mining
+SIAM Journal on Optimization (Print)
+SIAMl Conference Optimization
+SIBGRAPI Conference Graphics Patterns Images Tutorials SIBGRAPI
+SIBGRAPI Conference Graphics Patterns Images Tutorials SIBGRAPIT
+Sibgrapi International Conference Graphics Patterns Images
+SIBGRAPI Special Session Works Progress
+SIBGRAPI Works Progress
+SIGMOD Record
+SIMMAC Internatiional SymposiumMethods Applied ScienciesSimposio Internacional Metodos Matematicos aplicados las Cienciasl
+SIMMAC Simposio Internacional Metodos Matematicos Aplicados las Ciencias
+Simposi Brasileiro sobre Fatores Humanos Sistemas Computacionais
+Simposio Brasileiro Bancos Dados SBBD
+Simposio Brasileiro Bancos Dados Short Papers
+Simposio Brasileiro Componentes Arquiteturas Reutilizacao Software SBCARS
+Simposio Brasileiro Computacao Ubiqua Pervasiva CSBC SBCUP
+Simposio Brasileiro de Sistemas de Informacao
+Simposio Brasileiro Engenharia Software SBES
+Simposio Brasileiro Games Entretenimento DIgital
+Simposio Brasileiro Informatica Educacao SBIE
+Simposio Brasileiro Inteligencia Artificial
+Simposio Brasileiro Qualidade Software Concurso Teses Dissertacoes
+Simposio Brasileiro Qualidade Software Concurso Teses dissertacoes Qualidade Software
+Simposio Brasileiro Qualidade Software Relato Experiencia
+Simposio Brasileiro Qualidade Software relato experiencia
+Simposio Brasileiro Qualidade Software Relatos Experiencia
+Simposio Brasileiro Redes Computadores SBRC
+Simposio Brasileiro Redes Computadores Sistemas Distribuidos Salao Ferramentas
+Simposio Brasileiro Redes Computadores Sistemas Distribuidos SBRC Salao Ferramentas
+Simposio Brasileiro Seguranca Informacao Sistemas Computacionais Workshop Forense Computacional
+Simposio Brasileiro Sensoriamento Remoto
+Simposio Brasileiro Sensoriamento Remoto SBSR
+Simposio Brasileiro Sistema Informacao
+Simposio Brasileiro Sistema Informacao SBSI
+Simposio Brasileiro Sistemas Computacao
+Simposio Brasileiro sobre Fatores Humanos em Sistemas Computacionais
+Simposio Brasileiro sobre Fatores Humanos Sistemas Computacionais IHC
+Simposio Computacao Sul Capixaba
+SIMPOSIO NACIONAL HISTORIA ANPUH
+Simposio Nacional Probabilidade Estatistica
+Simposio Realidade Virtual Aumentada SVR
+Simposio Sistemas Computacionais WSCAD SSC
+Simposios Nacional Tecnologia Sociedade
+Social Interaction Spatially Separated Environments Workshop
+Society the Social Studies Science Annual Meeting
+Software and Systems Modeling (Print)
+Software Engineering Education Training CSEE IEEE Conference
+Software Engineering Notes
+SPIE Medical Imaging
+SPOLM
+Spring Simulation Multiconference Agent Directed Simulation Simposium ADS
+STAT INTERFACE
+Studia Logica
+Supercomputing
+Symposium on String Processing and Information Retrieval
+Symposium Scientific Instrument Commission
+Symposium String processing Information Retrieval SPIRE
+TEI international conference Tangible embedded embodied interaction
+Tematicas (UNICAMP)
+Tempo Brasileiro
+Tenth International Conference Entertainment Computing ICEC
+tenth Mexican International Conference Artificial Intelligence MICAI
+The Journal of Biological Chemistry (Print)
+The Visual Computer (Internet)
+Towards Digital Earth Search Discover Share Geographical Data Workshop Future Internet Symposium DE
+Transactions on Large-Scale Data and Knowledge-Centered Systems
+Twentieth International Conference Parallel Architectures Compilation Techniques
+Twenty International Conference Software Engineering Knowledge Engineering SEKE
+Understanding Development Through ActorNetwork Theory
+Urban Data Management Symposium UDMS
+Vietnam Journal of Mathematics
+Virtual Reality Waltham Cross
+VRCAI International Conference Virtual Reality Continuum Its Applications Industry
+WAMPS Workshop Anial MPS
+WBPM Workshop Business Process Management
+WCAMA Workshop Computacao Aplicada Gestao Meio Ambiente Recursos Naturais
+Web Linked Entities Workshop conjuction with International Semantic Web Conference ISWC
+Web Science conference
+WEBIST International Conference Web Information Systems Technologies
+WebMedia Simposio Brasileiro Sistemas Multimidia Web
+Webmedia Simposio Brasileiro Sistemas Multimidia Web
+WebMidia Simposio Brasileiro Sistemas Multimidia Web
+WER Workshop Engenharia Requisitos
+WER Worshop Engenharia Requisitos
+WETICE
+WGRS Workshop Gerencia Operacao Redes Servicos
+Wikipedia Academy Research Free Knowledge
+Wirtschaftsinformatik
+WISM International Workshop Web Information Systems Modeling
+Workshop Applications Multi Core Architecture
+Workshop Approximation Online Algorithms WAOA
+Workshop Aspect Oriented Modeling MODELS
+Workshop Assessment Contemporary Modularization Techniques ACoM located with International Software Product Line Conference
+Workshop Autonomic Distributed Systems WoSIDA
+Workshop Brasileiro Desenvolvimento Software Dirigido por Modelos DSDM contexto CBSoft
+Workshop Brasileiro Otimizacao Engenharia Software WOES
+Workshop Brasileiro Science
+Workshop Brazilian Web Science Institute
+Workshop Computational Intelligence
+Workshop de Computacao Aplicada em Governo Eletronico
+Workshop Desempenho Sistemas Computacionais Comunicacao WPERFORMANCE
+Workshop Desenvolvimento Rapido Aplicacoes WDRA
+workshop Developing tools plug ins
+Workshop digital interativa WebMedia
+workshop Domain Specific Aspect Languages
+Workshop em Desempenho de Sistemas Computacionais e de Comunicacao
+Workshop Emerging Computational Methods the Life Sciences
+Workshop Emerging Trends Software Metrics
+Workshop Engenharia Requisitos WER
+Workshop Escola Sistemas Agentes seus Ambientes Aplicacoes WESAAC
+Workshop Exception Handling Contemporary Software Systems located with Latin American Symposium Dependable Computing LADC
+Workshop Exception Handling ICSE
+Workshop Gerencia Operacao Redes Servicos Simposio Brasileiro Redes Computadores Sistemas Distribuidos
+Workshop Gerencia Operacao Redes Servicos WGRS
+Workshop Informatica Escola WIE
+Workshop Informatica Medica WIM Congresso Sociedade Brasileira Computacao CSBC
+Workshop Investigadores Ciencias Computacion
+Workshop Investigadores Ciencias Computacion WICC
+Workshop Language Social Media LSM
+Workshop Language Social Media LSM Annual Meeting Association Computational Linguistics Human Language Technologies
+Workshop Languages Tools Multithreaded Parallel Distributed Programming
+Workshop Legal Ontologies Arti cial Intelligence Techniques
+Workshop Location Based Social Networks conjunction with ACM International Conference Ubiquitous Computing
+Workshop Location Network Design Transportation Logistics
+Workshop Logical Semantic Frameworks
+Workshop Manutencao Software Moderna SBQS
+Workshop Manutencao Software Moderna WMSWM Simposio Brasileiro Qualidade Software
+Workshop olhar sociotecnico sobre Engenharia Software Simposio Brasileiro Qualidade Software
+Workshop on Autonomic Distributed Systems
+Workshop on Geographic Information Retrieval
+Workshop on Workflows in Support of Large--Scale Science
+Workshop Pesquisa Experimental Internet Futuro WPEIF localizado com SBRC
+Workshop Redes Dinamicas Sistemas P P WP P
+Workshop Refactoring Tools WRT
+Workshop sobre Desempenho Sistemas Computacionais Comunicacao WPerformance
+Workshop sobre Educacao Computacao
+Workshop sobre Educacao Computacao WEI
+Workshop sobre Sistemas Software Autonomos
+Workshop sobre Sistemas Software Autonomos Autosoft Congresso Brasileiro Software Teoria Pratica
+Workshop sobre Sistemas Software Autonomos Autosoft Congresso Brasileiro Software Teoria Pratica CBSoft
+Workshop Teses Dissertacoes Banco Dados
+Workshop Teses Dissertacoes Engenharia Software
+Workshop Teses Dissertacoes Engenharia Software CBSoft
+Workshop Teses Dissertacoes Engenharia Software WTDSoft
+Workshop Teses Dissertacoes SIBGRAPI
+Workshop Teses Dissertacos Bancos Dados
+Workshop Theory Practice Provenance TaPP
+Workshop Theses Dissertations SIBGRAPI
+Workshop Undergraduate Works SIBGRAPI
+Workshop Urban Networking conjunction with ACM CoNEXT
+Workshop Virtualization
+Workshops Sibgrapi Interactive Graphics Visualization Industry Driven Applied Exploratory Research
+World Congress Communication Arts
+World Journal Radiology
+WORLDCOMP IKE International conference Information Knowledge Engineering
+WORLDCOMP International Conference Frontiers Education Computer Science Computer Engineering
+WOSES Workshop olhar sociotecnico sobre Eng conjunto com SBQS Simposio Brasileiro Qualidade Software
+WP P Workshop Dynamic Networks Peer Peer Systems
+WPerformance Workshop Desempenho Sistemas Computacionais Comunicacao
+WWW Internet Conferencia IADIS Ibero Americana
+XXXo Simposio Brasileiro Redes Computadores Sistemas Distribuidos SBRC

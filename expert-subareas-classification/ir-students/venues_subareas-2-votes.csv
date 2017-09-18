@@ -1,0 +1,51 @@
+Vkey,Subareas
+conf/ictir,['Information retrieval']
+conf/sigir,['Information retrieval']
+conf/adcs,['Information retrieval']
+journals/ir,['Information retrieval']
+conf/ecir,['Information retrieval']
+conf/trec,['Information retrieval']
+journals/sigir,['Information retrieval']
+conf/iiix,"['Human-computer interaction', 'Information retrieval']"
+journals/tois,['Information retrieval']
+conf/wsdm,"['Data mining', 'Information retrieval', 'World Wide Web']"
+conf/inex,['Information retrieval']
+conf/spire,"['Computational biology', 'Information retrieval']"
+conf/airs,['Information retrieval']
+conf/cikm,['Knowledge management']
+journals/tweb,['World Wide Web']
+conf/riao,['Information retrieval']
+conf/clef,['Information retrieval']
+conf/ntcir,['Information retrieval']
+conf/la-web,['World Wide Web']
+conf/jcdl,"['Database', 'Knowledge management']"
+journals/tist,['Artificial intelligence']
+journals/ipm,"['Data science', 'Information retrieval']"
+conf/ercimdl,['Knowledge management']
+conf/www,"['Information retrieval', 'World Wide Web']"
+conf/mir,"['Information retrieval', 'Multimedia']"
+conf/isi,['Computer security']
+conf/icwsm,"['Data mining', 'Data science']"
+conf/mmm,['Multimedia']
+conf/adc,['Database']
+conf/icadl,['Database']
+journals/jasis,"['Data science', 'World Wide Web']"
+conf/sdm,['Data mining']
+conf/recsys,['Information retrieval']
+conf/mm,['Multimedia']
+conf/kdd,"['Data mining', 'Knowledge management']"
+journals/tkde,"['Data science', 'Knowledge management']"
+conf/cpm,['Pattern recognition']
+conf/naacl,['Natural language processing']
+journals/vldb,['Database']
+journals/pvldb,['Database']
+conf/dgo,['Data mining']
+conf/emnlp,['Natural language processing']
+conf/icdm,['Data mining']
+conf/webi,"['Data science', 'World Wide Web']"
+journals/debu,['Database']
+conf/apweb,['World Wide Web']
+conf/ijcnlp,['Natural language processing']
+journals/tods,['Database']
+journals/is,['']
+conf/acl,['Natural language processing']

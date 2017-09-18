@@ -1,0 +1,2 @@
+,Rank.0,Vkey.0,Subareas.0,Precision.0@k,Recall.0@k,Rank.1,Vkey.1,Subareas.1,Precision.1@k,Recall.1@k,Rank.2,Vkey.2,Subareas.2,Precision.2@k,Recall.2@k
+0,18,conf/www,"['Information retrieval', 'World Wide Web']",1.0,0.05,18,journals/tkde,"['Data science', 'Knowledge management']",0.0,0.0,18,conf/ntcir,['Information retrieval'],1.0,0.05

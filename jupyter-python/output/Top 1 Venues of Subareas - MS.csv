@@ -1,0 +1,39 @@
+Top Conferences and Journals of 37 CS Sub-areas (list provided by Marlon Dias),,,,,,
+Sub area,Top Conference,DBLPKey,,Top Journal,Shortname,DBLPKey
+Algorithm,CRYPTO: International Cryptology Conference,conf/crypto,,Lecture Notes in Computer Science,journals/lncs,journals/lncs
+Artificial intelligence,ICRA: International Conference on Robotics and Automation,conf/icra,,IEEE Transactions on Pattern Analysis and Machine Intelligence,journals/pami,journals/pami
+Bioinformatics,ISMB: Intelligent Systems in Molecular Biology,conf/ismb,,Nature,journals/nature,journals/nar
+Cognitive science,BICA: Biologically Inspired Cognitive Architectures,conf/bica,,Trends in Cognitive Sciences,not found,journals/cogsci
+Computational biology,PSB: Pacific Symposium on Biocomputing,conf/psb,,Nature,journals/nature,journals/bmcbi
+Computational science,PARCO: Parallel Computing,conf/parco,,Computing in Science and Engineering,journals/cse,journals/cse
+Computer architecture,ISCA: International Symposium on Computer Architecture,conf/isca,,IEEE Computer,journals/computer,journals/computer
+Computer graphics (images),SIGGRAPH: International Conference on Computer Graphics and Interactive Techniques,conf/siggraph,,IEEE Transactions on Pattern Analysis and Machine Intelligence,journals/pami,journals/pami
+Computer hardware,ISSCC: International Solid-State Circuits Conference,conf/isscc,,IEEE Journal of Solid-state Circuits,journals/jssc,journals/jssc
+Computer network,INFOCOM: International Conference on Computer Communications,conf/infocom,,IEEE Communications Magazine,journals/cm,journals/cm
+Computer security,SIGCOMM: ACM Special Interest Group on Data Communication,conf/sigcomm,,IEEE Communications Magazine,journals/cm,journals/cm
+Computer vision,CVPR: Computer Vision and Pattern Recognition,conf/cvpr,,IEEE Transactions on Pattern Analysis and Machine Intelligence,journals/pami,journals/pami
+Data mining,KDD: Knowledge Discovery and Data Mining,conf/kdd,,Bioinformatics,journals/bioinformatics,journals/bioinformatics
+Data science,KDD: Knowledge Discovery and Data Mining,conf/kdd,,BMC Bioinformatics,journals/bmcbi,journals/bmcbi
+Database,SIGMOD: International Conference on Management of Data,conf/sigmod,,IEEE Transactions on Knowledge and Data Engineering,journals/tkde,journals/tkde
+Distributed computing,INFOCOM: International Conference on Computer Communications,conf/infocom,,IEEE/ACM Transactions on Networking,journals/ton,journals/ton
+Embedded system,ISSCC: International Solid-State Circuits Conference,conf/isscc,,IEEE Journal of Solid-state Circuits,journals/jssc,journals/jssc
+Human-computer interaction,CHI: Human Factors in Computing Systems,conf/chi,,IEEE Pervasive Computing,journals/pervasive,journals/pervasive
+Information retrieval,SIGIR: International ACM SIGIR Conference on Research and Development in Information Retrieval,conf/sigir,,IEEE Transactions on Knowledge and Data Engineering,journals/tkde,journals/tkde
+Internet privacy,CCS: Computer and Communications Security,conf/ccs,,Communications of The ACM,journals/cacm,journals/cacm
+Knowledge management,CHI: Human Factors in Computing Systems,conf/chi,,Management Information Systems Quarterly,journals/misq,journals/misq
+Machine learning,CVPR: Computer Vision and Pattern Recognition,conf/cvpr,,IEEE Transactions on Pattern Analysis and Machine Intelligence,journals/pami,journals/pami
+Management science,HICSS: Hawaii International Conference on System Sciences,conf/hicss,,Journal of the Operational Research Society,journals/jors,journals/jors
+Mathematical optimization,NIPS: Neural Information Processing Systems,conf/nips,,IEEE Transactions on Automatic Control,journals/tac,journals/tac
+Multimedia,CHI: Human Factors in Computing Systems,conf/chi,,Computers & Education,journals/ce,journals/ce
+Natural language processing,ACL: Meeting of the Association for Computational Linguistics,conf/acl,,Computational Linguistics,journals/coling,journals/coling
+Operating system,SIGCOMM: ACM Special Interest Group on Data Communication,conf/sigcomm,,IEEE Computer,journals/computer,journals/computer
+Operations research,DSS: Decision Support Systems,conf/ifip8-3,,European Journal of Operational Research,journals/eor,journals/eor
+Parallel computing,,conf/micro,,IEEE Transactions on Computers,journals/tc,journals/tc
+Pattern recognition,CVPR: Computer Vision and Pattern Recognition,conf/cvpr,,IEEE Transactions on Pattern Analysis and Machine Intelligence,journals/pami,journals/pami
+Programming language,ICSE: International Conference on Software Engineering,conf/icse,,IEEE Transactions on Software Engineering,journals/tse,journals/tse
+Real-time computing,INFOCOM: International Conference on Computer Communications,conf/infocom,,IEEE/ACM Transactions on Networking,journals/ton,journals/ton
+Simulation,ICRA: International Conference on Robotics and Automation,conf/icra,,International Journal of Robotics Research,journals/ijrr,journals/ijrr
+Speech recognition,"ICASSP: International Conference on Acoustics, Speech, and Signal Processing",conf/icassp,,Journal of the Acoustical Society of America,not found,journals/pami
+Telecommunications,VTC: Vehicular Technology Conference,conf/vtc,,IEEE Communications Magazine,journals/cm,journals/cm
+Theoretical computer science,ISIT: International Symposium on Information Theory,conf/isit,,IEEE Transactions on Information Theory,journals/tit,journals/tit
+World Wide Web,WWW: International World Wide Web Conferences,conf/www,,Bioinformatics,journals/bioinformatics,journals/bioinformatics

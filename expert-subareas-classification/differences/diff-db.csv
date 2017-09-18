@@ -1,0 +1,26 @@
+,Sent,Subareas,Ranked
+0,journals/tkdd,"['Data mining', 'Knowledge management', 'Machine learning']",
+1,conf/comad,"['Data mining', 'Database', 'World Wide Web']",
+2,journals/www,"['Information retrieval', 'Knowledge management', 'World Wide Web']",
+3,journals/dbsk,"['Computer security', 'Database']",
+4,journals/sigkdd,"['Data mining', 'Database', 'Machine learning']",
+5,journals/datamine,"['Artificial intelligence', 'Data mining', 'Machine learning']",
+6,conf/adc,"['Data mining', 'Data science', 'Database']",
+7,conf/wsdm,"['Data mining', 'Database', 'World Wide Web']",
+8,journals/geoinformatica,"['Database', 'Information retrieval', 'World Wide Web']",
+9,journals/tois,"['Information retrieval', 'Knowledge management', 'World Wide Web']",
+10,conf/dawak,"['Data mining', 'Data science', 'Database']",
+11,journals/jiis,"['Artificial intelligence', 'Cognitive science', 'Knowledge management']",
+12,,[''],
+13,,,conf/pakdd
+14,,,conf/dexa
+15,,,conf/pkdd
+16,,,journals/tse
+17,,,conf/sigir
+18,,,conf/dagstuhl
+19,,,journals/tpds
+20,,,conf/mm
+21,,,journals/cacm
+22,,,journals/isci
+23,,,conf/infocom
+24,,,journals/tcs

@@ -1,0 +1,52 @@
+Vkey,Subareas
+journals/tkdd,"['Data mining', 'Data science']"
+journals/sigkdd,"['Data mining', 'Data science', 'Machine learning']"
+conf/kdd,"['Data mining', 'Machine learning']"
+conf/sdm,['']
+journals/datamine,"['Data mining', 'Data science']"
+conf/wsdm,"['Data mining', 'World Wide Web']"
+conf/icdm,['Data mining']
+conf/pkdd,"['Data mining', 'Machine learning']"
+journals/tist,['']
+journals/sadm,['']
+journals/kais,['Data mining']
+conf/pakdd,['Data mining']
+journals/tkde,['']
+conf/icml,['Machine learning']
+journals/vldb,"['Data mining', 'Database']"
+conf/cikm,['Knowledge management']
+conf/ssd,['Database']
+conf/recsys,['']
+conf/icde,['Database']
+journals/pvldb,"['Data mining', 'Database']"
+conf/ilp,['Artificial intelligence']
+journals/ml,['Machine learning']
+conf/sigmod,"['Database', 'Knowledge management']"
+conf/dis,['Data mining']
+conf/asunam,['Data mining']
+conf/vldb,"['Data mining', 'Database']"
+conf/www,['World Wide Web']
+conf/edbt,"['Database', 'Knowledge management']"
+conf/ssdbm,['Database']
+conf/aistats,['Artificial intelligence']
+conf/icwsm,['']
+journals/jmlr,['Machine learning']
+conf/dawak,['Data mining']
+conf/sigir,['Information retrieval']
+journals/tois,['']
+journals/ida,['']
+journals/jiis,['']
+conf/pods,['Database']
+conf/dasfaa,['']
+conf/nips,['Machine learning']
+journals/debu,['Database']
+journals/mms,['Multimedia']
+journals/tods,['Database']
+conf/aaai,['Machine learning']
+conf/mdm,['']
+conf/emnlp,['Natural language processing']
+conf/gis,['']
+conf/waim,['']
+conf/uai,['Artificial intelligence']
+conf/ictai,['Artificial intelligence']
+,['']
